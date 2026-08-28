@@ -4,7 +4,7 @@ MAU is a Windows tool designed to simplify the removal of malicious applications
 
 ## Download
 
-[Download MAU test build](https://github.com/Xyntrax/Malicious-App-Uninstaller/raw/main/Malicious_App_Uninstaller.zip)
+[Download MAU](https://github.com/Xyntrax/Malicious-App-Uninstaller/raw/main/Malicious_App_Uninstaller.zip)
 
 This is a test build and is not intended for actual malware-removal cases yet.
 
