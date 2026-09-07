@@ -1,8 +1,8 @@
-# Malicious App Uninstaller Portable (MAU)
+# Malicious App Uninstaller Portable - [Release](https://github.com/Xyntrax/Malicious-App-Uninstaller/releases)
 
-MAU is a Windows tool designed to simplify the removal of malicious applications installed by malware.
+- MAU is a Windows tool designed to simplify the removal of malicious applications installed by malware.
 
-[Download](https://github.com/Xyntrax/Malicious-App-Uninstaller/raw/main/Malicious_App_Uninstaller.zip)
+![MAU Interface](images/MAU_interface.png)
 
 ## What MAU Does
 
