@@ -1,9 +1,17 @@
-==================== Hash Verification ===================
+==================== Hash Verification Version 1.0.0 ===================
 
 VirusTotal: https://www.virustotal.com/gui/file/407d422ca12fa2eedba3e1f3927e463ff20fbe260b2ff12b706d7a099a633360/detection
 
 SHA-256: 407d422ca12fa2eedba3e1f3927e463ff20fbe260b2ff12b706d7a099a633360
 
 MD5: b721adce7fa9965be6155fd5839adaa2
+
+==================== Hash Verification Version 1.0.1 ===================
+
+VirusTotal: https://www.virustotal.com/gui/file/9b2c316712eec57bc8c936f5b4d8fdfa0b4dbdb7d8277a4f7e0c3e5995349639/detection
+
+SHA-256: 9b2c316712eec57bc8c936f5b4d8fdfa0b4dbdb7d8277a4f7e0c3e5995349639
+
+MD5: 5237aad6a6a9ef515df8eab1687032f4
 
 ==========================================================
