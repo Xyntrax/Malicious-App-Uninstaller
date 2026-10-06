@@ -2,7 +2,7 @@
 
 - MAU is a Windows tool designed to simplify the removal of malicious applications installed by malware.
 
-![MAU Interface](img/interface.png)
+![MAU Interface](images/interface.png)
 
 ## What MAU Does
 
