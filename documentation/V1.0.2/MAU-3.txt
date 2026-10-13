@@ -1,0 +1,372 @@
+======================== MAU Log ========================
+
+
+Analyzing {490DAA44-7D30-428D-B437-32398D6890D5}...
+----------------------------------------------------------------------------------------------
+                                       UNINSTALL / ARP
+----------------------------------------------------------------------------------------------
+
+
+  AuthorizedCDFPrefix=
+  Comments=Wireless adapter configuration
+  Contact=support@tp-link.com
+  DisplayName=Wireless Client Manager
+  DisplayVersion=7.0
+  EstimatedSize=33892
+  HelpLink=https://www.tp-link.com/support/
+  HelpTelephone=
+  InstallDate=20261005
+  InstallLocation=
+  InstallSource=C:\Users\Redacted\AppData\Local\Temp\5jbkiql7Q8ipcQO8\
+  Language=1033
+  ModifyPath=MsiExec.exe /X{490DAA44-7D30-428D-B437-32398D6890D5}
+  NoModify=1
+  NoRepair=1
+  Publisher=TP-Link Technologies Co., Ltd.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{490DAA44-7D30-428D-B437-32398D6890D5}
+  URLInfoAbout=https://www.tp-link.com
+  URLUpdateInfo=
+  Version=117440512
+  VersionMajor=7
+  VersionMinor=0
+  WindowsInstaller=1
+RESOLVED: DisplayName=Wireless Client Manager
+RESOLVED: Publisher=TP-Link Technologies Co., Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=<none>
+----------------------------------------------------------------------------------------------
+                                       INSTALLER BRANCH
+----------------------------------------------------------------------------------------------
+
+
+  AuthorizedCDFPrefix=
+  Comments=Wireless adapter configuration
+  Contact=support@tp-link.com
+  DisplayName=Wireless Client Manager
+  DisplayVersion=7.0
+  EstimatedSize=33892
+  HelpLink=https://www.tp-link.com/support/
+  HelpTelephone=
+  InstallDate=20261005
+  InstallLocation=
+  InstallSource=C:\Users\Redacted\AppData\Local\Temp\5jbkiql7Q8ipcQO8\
+  Language=1033
+  LocalPackage=C:\WINDOWS\Installer\23345b.msi
+  ModifyPath=MsiExec.exe /X{490DAA44-7D30-428D-B437-32398D6890D5}
+  NoModify=1
+  NoRepair=1
+  Publisher=TP-Link Technologies Co., Ltd.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{490DAA44-7D30-428D-B437-32398D6890D5}
+  URLInfoAbout=https://www.tp-link.com
+  URLUpdateInfo=
+  Version=117440512
+  VersionMajor=7
+  VersionMinor=0
+  WindowsInstaller=1
+  FB4B09CE8473F47C0A9D08482E2DE47DF=rZ$$58&jQ=PKaJ?YNrACV9O9Wyi3J?YP~D9bZ{WB+'rzfo%qw?qSyH$pWq$d~Gvy0tkZHAKFq}hhz0=R.@V%[7N}I=qLX`gWwpcJvZ)y)i_nKA[Cj,Me!Vnwog2aYe7+d8LsZ+ol[19eS2Dpo6`Jd9NdcDwc7@idef(9,jj]&@c^}u47bv!oN13QTZEt}8A7pA%'5xpHP(yBk{9U]9kghr,x&(xA@3TZYq`@m8@1kxWe^bE^Bs_RA=TUK@^il0)]H8gBNsZ9kJc&=@)On^0B)X7N)RpV+C^K,Ah@uWp8{creKBBeu'1Rj8X'@Q8fN@nTWlu?jr+7l?GmW}aB?vc1WDX+%{1}&@%D8!dq+}g5rp4B3MoGh8,rgfc$H&.Q
+  AllPatches=
+RESOLVED: DisplayName=Wireless Client Manager
+RESOLVED: Publisher=TP-Link Technologies Co., Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\23345b.msi
+----------------------------------------------------------------------------------------------
+                                    UPGRADECODE MEMBERSHIP
+----------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------
+                                    COMPONENT REGISTRATION
+----------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------
+                                         MSI DATABASE
+----------------------------------------------------------------------------------------------
+
+
+Cached MSI:
+  Path: C:\WINDOWS\Installer\23345b.msi
+  SHA256: 220625BC6C4923EAB5D5BAA6E5C8697B6AE8D0C8EDE5AA056083BBFE7597E3E1
+  Network: Active network connection detected
+  VirusTotal Report: https://www.virustotal.com/gui/file/220625BC6C4923EAB5D5BAA6E5C8697B6AE8D0C8EDE5AA056083BBFE7597E3E1
+  Sigcheck: Failed
+  Error: Sigcheck returned exit code 1.
+Reading cached MSI: C:\WINDOWS\Installer\23345b.msi
+RESOLVED: DisplayName=Wireless Client Manager
+RESOLVED: Publisher=TP-Link Technologies Co., Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\23345b.msi
+[Property]
+  P422365BBC | a35395ed2729
+  P546DC21E5 | 5a7d60faaa08
+  P65EBE7BC9 | 052510039c01
+  ARPURLINFOABOUT | https://www.tp-link.com
+  ARPHELPLINK | https://www.tp-link.com/support/
+  ARPCONTACT | support@tp-link.com
+  ARPCOMMENTS | Wireless adapter configuration
+  ARPNOREPAIR | yes
+  ARPNOMODIFY | 1
+  Manufacturer | TP-Link Technologies Co., Ltd.
+  ProductCode | {490DAA44-7D30-428D-B437-32398D6890D5}
+  ProductLanguage | 1033
+  ProductName | Wireless Client Manager
+  ProductVersion | 7.0
+  UpgradeCode | {E0CE9996-8014-464D-A1C7-B13CD708CE0E}
+  SecureCustomProperties | ARPNOMODIFY;ARPNOREPAIR
+  MsiHiddenProperties | WixSilentExec64CmdLine
+[Registry]
+  <none>
+[Class]
+  <none>
+[ProgId]
+  <none>
+[TypeLib]
+  <none>
+[Extension]
+  <none>
+[AppId]
+  <none>
+[Directory]
+  dir856183b7ffe447f8b3b09abff19d5666 | dir77137db8a1ab457ca2116816761dc0df | 4ag7azui|Wireless Client Manager
+  dir77137db8a1ab457ca2116816761dc0df | LocalAppDataFolder | TP-Link
+  LocalAppDataFolder | TARGETDIR | .
+  TARGETDIR |  | SourceDir
+[Component]
+  cmp1dd488fad80b4098a7161df05bdfc66b | {34EE5BCA-C6B7-45FA-A0BF-D448E05CF454} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | filff8f6a3cf7e841d6962bb17952cc656f
+  cmp821c7fdec82943058db0d09035778324 | {930579C6-4448-48D0-9E94-66429202A752} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil5950072ba100479780de38564ae85ceb
+  cmpc3b382626cc04f5bb5e3165b19d9f9f5 | {C0CAB4C7-C915-4A72-B042-5104A2F3A3B7} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil7b40a222a87849c78b95ac3856160005
+  cmp64834f267a584b2b8ae0747d932137e7 | {284C6A20-6C40-4EFA-8768-16C7385B7D83} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | filf9df1ef8a8214315924cf40df8d4dd42
+  cmp1cc511ae2e124ceeabe9a3dad359c6cd | {9EC6475E-D6EF-45B1-B5DE-F0C2180FF16B} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil197c0f66b9ff4bb387074436ca517ddf
+  cmp8f743dba9e31423c841571efb745be8d | {15998073-9D3B-4F18-8DB7-7A7349163CF5} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | file626d4e663e240ed9af6f78eca3f99d8
+  cmp1822cbe160af448699b2a82aaad3f072 | {9A83C9B3-26C6-4064-A6DB-1CDA046375BB} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil77d0177807e94e888e7cdb98ddc44d3c
+  cmp3cac759fd6624fd299196d4e7bbefcba | {DC68B72E-950B-4383-8148-BDF3ECFBECB9} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil4956a34382304dae85fe5079e88c0ae4
+  cmp5b8abaaccd7b458895cfacb2d1c08739 | {1CC61544-5EC9-4ACE-BAB1-99348BD8D4D9} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil64b7891ee8034ad8a02bd82d13372550
+  cmp99883ae267654d77ae225d946b433433 | {8A68AE2F-7331-414C-BE28-2B071BA53266} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | filf1a18ddc13aa466bbb24689d3e7f1eb6
+  cmp4172e3d9027148029318bba9e5f96df6 | {CE56AD55-27F9-4343-ADC2-B31ED7CEAD50} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil92662fbacb5a4e3db705d75979e5bab5
+  cmpb59be8cc09824757b5b0ad4fd017838e | {9A4ECF0A-4CAB-40BA-BDF2-27950494FDA5} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil9a3b3562b67f484abaf7eb552eb13f76
+  cmp8b67d1a8c8e0448d869851c4c62c3248 | {4F5894DD-6FB6-4BF9-A207-2313A8B62C53} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | filcc2049c9ca44400484e62e55792fa24c
+  cmp5e1f7f874bde43bdb4975c2ac3230e65 | {CE249AED-0105-4B7B-B387-4E27A50AF376} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | filb88c57c96b3545b49cc377402c3afe18
+  cmp99ea317a3a5f44cdbb62a1632fd1ec02 | {1A9B15E5-391D-4E21-BDA3-A9DE49AB61BD} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fild6b4c74527954aa48321006580f41c04
+  cmp3d2abea4a2c54d49aa5c92f07d6e22ba | {EEAC8AA7-1DB0-40A0-A538-BD3F8016708B} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fila4c33cdd19e34d62a004195109590bc4
+  cmpacc03366647f46b7befbcd29bdbe49b5 | {CB1DAF96-DF1A-4A05-B912-4CB191C39A2A} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil1d1931e2aff34b5380dcd7b883483bd0
+  cmpd82410d5923f4aaf9c32eb001022e461 | {068954F5-B87D-4AD1-8DD2-94B792F63237} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | filbdb55cdaf4f640f198e4fb4bf44b00d7
+  cmp2a135c121b24447ab26cb6de6490d5fd | {2FA145DD-3C71-408C-A79C-B8B6D4B3F87F} | dir856183b7ffe447f8b3b09abff19d5666 | 0 | fil74060a0148e340c7a5b20dd405392d3e
+[File]
+  filff8f6a3cf7e841d6962bb17952cc656f | cmp1dd488fad80b4098a7161df05bdfc66b | 1iie_czi.cmd|analytics_4093.cmd | 1751 | 
+  fil5950072ba100479780de38564ae85ceb | cmp821c7fdec82943058db0d09035778324 | eyvemohx.git|.gitattributes | 52 | 
+  fil7b40a222a87849c78b95ac3856160005 | cmpc3b382626cc04f5bb5e3165b19d9f9f5 | gsycpypt.git|.gitignore | 66 | 
+  filf9df1ef8a8214315924cf40df8d4dd42 | cmp64834f267a584b2b8ae0747d932137e7 | knk-2rdt.con|app.config | 332 | 
+  fil197c0f66b9ff4bb387074436ca517ddf | cmp1cc511ae2e124ceeabe9a3dad359c6cd | 5jxooe7d.md|CHANGELOG.md | 663 | 
+  file626d4e663e240ed9af6f78eca3f99d8 | cmp8f743dba9e31423c841571efb745be8d | pdymfwio.tar|Compile.targets | 201407 | 
+  fil77d0177807e94e888e7cdb98ddc44d3c | cmp1822cbe160af448699b2a82aaad3f072 | wlfjczl2|CONTRIBUTORS | 50 | 
+  fil4956a34382304dae85fe5079e88c0ae4 | cmp3cac759fd6624fd299196d4e7bbefcba | uopcmzom.pro|Directory.Build.props | 103105 | 
+  fil64b7891ee8034ad8a02bd82d13372550 | cmp5b8abaaccd7b458895cfacb2d1c08739 | fqathjal.jso|global.json | 86 | 
+  filf1a18ddc13aa466bbb24689d3e7f1eb6 | cmp99883ae267654d77ae225d946b433433 | LICENSE | 1012 | 
+  fil92662fbacb5a4e3db705d75979e5bab5 | cmp4172e3d9027148029318bba9e5f96df6 | wkrnohfi.con|packages.config | 277 | 
+  fil9a3b3562b67f484abaf7eb552eb13f76 | cmpb59be8cc09824757b5b0ad4fd017838e | nsw-6tj9.csp|PatientScheduler.csproj | 34158101 | 
+  filcc2049c9ca44400484e62e55792fa24c | cmp8b67d1a8c8e0448d869851c4c62c3248 | ix_q5bes.use|PatientScheduler.csproj.user | 54848 | 
+  filb88c57c96b3545b49cc377402c3afe18 | cmp5e1f7f874bde43bdb4975c2ac3230e65 | umfi1iwz.sln|PatientScheduler.sln | 1001 | 
+  fild6b4c74527954aa48321006580f41c04 | cmp99ea317a3a5f44cdbb62a1632fd1ec02 | README.md | 640 | 
+  fila4c33cdd19e34d62a004195109590bc4 | cmp3d2abea4a2c54d49aa5c92f07d6e22ba | eildzo7t.pro|Shared.props | 146319 | 
+  fil1d1931e2aff34b5380dcd7b883483bd0 | cmpacc03366647f46b7befbcd29bdbe49b5 | 1exgwpyb.cac|runtime_9a21.cache | 66 | 
+  filbdb55cdaf4f640f198e4fb4bf44b00d7 | cmpd82410d5923f4aaf9c32eb001022e461 | 4wx31ysd.cac|runtime_9fdc.cache | 153 | 
+  fil74060a0148e340c7a5b20dd405392d3e | cmp2a135c121b24447ab26cb6de6490d5fd | rm940spe.cfg|config_d6a46.cfg | 58 | 
+[ServiceInstall]
+  <none>
+[CustomAction]
+  SetCA_2b998f30e2bc4059ab69723702637735 | 51 | CA_2b998f30e2bc4059ab69723702637735 | [System64Folder]cmd.exe
+  CA_2b998f30e2bc4059ab69723702637735 | 242 | CA_2b998f30e2bc4059ab69723702637735 | /d /s /c ""[dir856183b7ffe447f8b3b09abff19d5666]analytics_4093.cmd""
+[Binary]
+  <none>
+[InstallExecuteSequence]
+  CostInitialize |  | 800
+  FileCost |  | 900
+  CostFinalize |  | 1000
+  InstallValidate |  | 1400
+  InstallInitialize |  | 1500
+  InstallFiles |  | 4000
+  InstallFinalize |  | 6600
+  PublishFeatures |  | 6300
+  PublishProduct |  | 6400
+  SetCA_2b998f30e2bc4059ab69723702637735 | NOT REMOVE~="ALL" | 6601
+  CA_2b998f30e2bc4059ab69723702637735 | NOT REMOVE~="ALL" | 6602
+  ValidateProductID |  | 700
+  ProcessComponents |  | 1600
+  UnpublishFeatures |  | 1800
+  RemoveFiles |  | 3500
+  RegisterUser |  | 6000
+  RegisterProduct |  | 6100
+[Shortcut]
+  <none>
+RESOLVED: DisplayName=Wireless Client Manager
+RESOLVED: Publisher=TP-Link Technologies Co., Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\23345b.msi
+----------------------------------------------------------------------------------------------
+                                    LIVE COM REGISTRATION
+----------------------------------------------------------------------------------------------
+
+
+COM sweep: skipped
+----------------------------------------------------------------------------------------------
+                             APP PATHS / REGISTERED APPLICATIONS
+----------------------------------------------------------------------------------------------
+
+
+App Paths hits: 0; RegisteredApplications hits: 0
+----------------------------------------------------------------------------------------------
+                                RAW REGISTRY SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+
+Raw ProductCode sweep: skipped
+----------------------------------------------------------------------------------------------
+                              NAME / PUBLISHER SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+
+Name/publisher sweep: skipped
+----------------------------------------------------------------------------------------------
+                                        REGISTRY KEYS
+----------------------------------------------------------------------------------------------
+
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\InstallProperties
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{490DAA44-7D30-428D-B437-32398D6890D5}
+----------------------------------------------------------------------------------------------
+                                      REGISTRY KEY PATHS
+----------------------------------------------------------------------------------------------
+
+
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\.gitattributes
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\.gitignore
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\analytics_4093.cmd
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\app.config
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\CHANGELOG.md
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\Compile.targets
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\config_d6a46.cfg
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\CONTRIBUTORS
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\Directory.Build.props
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\global.json
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\LICENSE
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\packages.config
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\PatientScheduler.csproj
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\PatientScheduler.csproj.user
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\PatientScheduler.sln
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\README.md
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\runtime_9a21.cache
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\runtime_9fdc.cache
+  C:\Users\Redacted\AppData\Local\TP-Link\Wireless Client Manager\Shared.props
+----------------------------------------------------------------------------------------------
+                                            FILES
+----------------------------------------------------------------------------------------------
+
+
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\.gitattributes
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\.gitignore
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\analytics_4093.cmd
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\app.config
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\changelog.md
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\compile.targets
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\config_d6a46.cfg
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\contributors
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\directory.build.props
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\global.json
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\license
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\packages.config
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\patientscheduler.csproj
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\patientscheduler.csproj.user
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\patientscheduler.sln
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\readme.md
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\runtime_9a21.cache
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\runtime_9fdc.cache
+  c:\users\Redacted\appdata\local\tp-link\wireless client manager\shared.props
+----------------------------------------------------------------------------------------------
+                                         DIRECTORIES
+----------------------------------------------------------------------------------------------
+
+
+  MISSING c:\users\Redacted\appdata\local\tp-link\wireless client manager
+  EXISTS c:\windows\installer
+Analysis complete in 4.9s.
+Found 106 traces.
+
+
+----------------------------------------------------------------------------------------------
+                                           REMOVAL
+----------------------------------------------------------------------------------------------
+
+
+Selected: 28
+
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{490DAA44-7D30-428D-B437-32398D6890D5}
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{490DAA44-7D30-428D-B437-32398D6890D5}\UninstallString
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\InstallProperties
+  c:\windows\installer\23345b.msi
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\6999EC0E4108D4641A7C1BC37D80ECE0\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\02A6C48204C6AFE47886617C83B5D738\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\37089951B3D981F4D87BA7379461C35F\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\3B9C38A96C6246046ABDC1AD403657BB\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\44516CC19CE5ECA4AB1B9943B88D4D9D\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\55DA65EC9F723434DA2C3BE17DECDA05\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\5E51B9A1D19312E4DB3A9AED94BA16DB\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\5F459860D78B1DA4D82D497B296F2373\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\69FAD1BCA1FD50A49B21C41B193CA9A2\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\6C97503984440D84E949662429207A25\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\7AA8CAEE0BD10A045A83DBF3086107B8\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\7C4BAC0C519C27A40B2415402A3F3A7B\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\A0FCE4A9BAC4AB04DB2F72594049DF5A\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\ACB5EE437B6CAF540AFB4D840EC54F45\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\DD4985F46BF69FB42A7032318A6BC235\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\DD541AF217C3C8047AC98B6B4D3B8FF7\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\DEA942EC5010B7B43B78E4725AA03F67\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\E27B86CDB05938341884DB3FCEBFCE9B\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\E5746CE9FE6D1B545BED0F2C81F01FB6\44AAD09403D7D8244B732393D886095D
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\F2EA86A81337C414EB82B270B15A2366\44AAD09403D7D8244B732393D886095D
+
+
+Deleted items:
+  [File] c:\windows\installer\23345b.msi
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{490DAA44-7D30-428D-B437-32398D6890D5}\UninstallString
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\6999EC0E4108D4641A7C1BC37D80ECE0\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\02A6C48204C6AFE47886617C83B5D738\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\37089951B3D981F4D87BA7379461C35F\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\3B9C38A96C6246046ABDC1AD403657BB\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\44516CC19CE5ECA4AB1B9943B88D4D9D\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\55DA65EC9F723434DA2C3BE17DECDA05\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\5E51B9A1D19312E4DB3A9AED94BA16DB\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\5F459860D78B1DA4D82D497B296F2373\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\69FAD1BCA1FD50A49B21C41B193CA9A2\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\6C97503984440D84E949662429207A25\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\7AA8CAEE0BD10A045A83DBF3086107B8\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\7C4BAC0C519C27A40B2415402A3F3A7B\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\A0FCE4A9BAC4AB04DB2F72594049DF5A\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\ACB5EE437B6CAF540AFB4D840EC54F45\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\DD4985F46BF69FB42A7032318A6BC235\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\DD541AF217C3C8047AC98B6B4D3B8FF7\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\DEA942EC5010B7B43B78E4725AA03F67\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\E27B86CDB05938341884DB3FCEBFCE9B\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\E5746CE9FE6D1B545BED0F2C81F01FB6\44AAD09403D7D8244B732393D886095D
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Components\F2EA86A81337C414EB82B270B15A2366\44AAD09403D7D8244B732393D886095D
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\InstallProperties
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Features
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Patches
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D\Usage
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-2117731907-3429888799-1298245608-1001\Products\44AAD09403D7D8244B732393D886095D
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{490DAA44-7D30-428D-B437-32398D6890D5}
+
+
+Removal summary: Deleted=28 Scheduled=0 Failed=0

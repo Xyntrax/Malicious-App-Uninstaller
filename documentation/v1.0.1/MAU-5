@@ -1,0 +1,178 @@
+======================== MAU Log ========================
+
+Analyzing {E862EAC1-A511-4CF7-BEBB-2AC936119F61}...
+----------------------------------------------------------------------------------------------
+                                       UNINSTALL / ARP
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=Sound card management service
+  Contact=support@creative.com
+  DisplayName=CtHelper Runtime
+  DisplayVersion=1.8
+  EstimatedSize=58468
+  HelpLink=https://www.creative.com/support
+  HelpTelephone=
+  InstallDate=20260924
+  InstallLocation=
+  InstallSource=C:\Users\Ego\AppData\Local\Temp\tpddm0eLWe0QDS3S\
+  Language=1033
+  ModifyPath=MsiExec.exe /X{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+  NoModify=1
+  NoRepair=1
+  Publisher=Creative Technology Ltd.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+  URLInfoAbout=https://www.creative.com
+  URLUpdateInfo=
+  Version=17301504
+  VersionMajor=1
+  VersionMinor=8
+  WindowsInstaller=1
+RESOLVED: DisplayName=CtHelper Runtime
+RESOLVED: Publisher=Creative Technology Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=<none>
+----------------------------------------------------------------------------------------------
+                                       INSTALLER BRANCH
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=Sound card management service
+  Contact=support@creative.com
+  DisplayName=CtHelper Runtime
+  DisplayVersion=1.8
+  EstimatedSize=58468
+  HelpLink=https://www.creative.com/support
+  HelpTelephone=
+  InstallDate=20260924
+  InstallLocation=
+  InstallSource=C:\Users\Ego\AppData\Local\Temp\tpddm0eLWe0QDS3S\
+  Language=1033
+  LocalPackage=C:\WINDOWS\Installer\112e908.msi
+  ModifyPath=MsiExec.exe /X{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+  NoModify=1
+  NoRepair=1
+  Publisher=Creative Technology Ltd.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+  URLInfoAbout=https://www.creative.com
+  URLUpdateInfo=
+  Version=17301504
+  VersionMajor=1
+  VersionMinor=8
+  WindowsInstaller=1
+  F6FA253E9487B4A23974297A9E707DBD7=6%d3p}~Y&AMMQjOK_Wszyxe!MZsRw9Vzf]tHw3_Jv(]]9&NdG?LJRw2hyuz7`=Ddd1_4u=B04huS6tzyxzi$az7H+@S{bFtfcm*OeB(S2EHwn@eQ0GoLd7FQ
+  AllPatches=
+RESOLVED: DisplayName=CtHelper Runtime
+RESOLVED: Publisher=Creative Technology Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\112e908.msi
+----------------------------------------------------------------------------------------------
+                                    UPGRADECODE MEMBERSHIP
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                    COMPONENT REGISTRATION
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                         MSI DATABASE
+----------------------------------------------------------------------------------------------
+
+<cached MSI unavailable>
+LocalPackage=C:\WINDOWS\Installer\112e908.msi
+----------------------------------------------------------------------------------------------
+                                    LIVE COM REGISTRATION
+----------------------------------------------------------------------------------------------
+
+COM sweep: skipped
+----------------------------------------------------------------------------------------------
+                             APP PATHS / REGISTERED APPLICATIONS
+----------------------------------------------------------------------------------------------
+
+App Paths hits: 0; RegisteredApplications hits: 0
+----------------------------------------------------------------------------------------------
+                                RAW REGISTRY SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+
+Raw ProductCode sweep: skipped
+----------------------------------------------------------------------------------------------
+                              NAME / PUBLISHER SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Name/publisher sweep: skipped
+----------------------------------------------------------------------------------------------
+                                        REGISTRY KEYS
+----------------------------------------------------------------------------------------------
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\InstallProperties
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+----------------------------------------------------------------------------------------------
+                                      REGISTRY KEY PATHS
+----------------------------------------------------------------------------------------------
+
+  C:\Users\Ego\AppData\Local\Creative\CtHelper Runtime\Defaults.props
+  C:\Users\Ego\AppData\Local\Creative\CtHelper Runtime\Directory.Build.targets
+  C:\Users\Ego\AppData\Local\Creative\CtHelper Runtime\LeaveManagement.csproj
+  C:\Users\Ego\AppData\Local\Creative\CtHelper Runtime\LeaveManagement.csproj.user
+  C:\Users\Ego\AppData\Local\Creative\CtHelper Runtime\prefetch_462e.cmd
+  C:\Users\Ego\AppData\Local\Creative\CtHelper Runtime\settings_a0a.log
+----------------------------------------------------------------------------------------------
+                                            FILES
+----------------------------------------------------------------------------------------------
+
+  <none>
+----------------------------------------------------------------------------------------------
+                                         DIRECTORIES
+----------------------------------------------------------------------------------------------
+
+  EXISTS c:\windows\installer
+Analysis complete in 0,3s.
+Found 23 traces.
+
+----------------------------------------------------------------------------------------------
+                                           REMOVAL
+----------------------------------------------------------------------------------------------
+
+Selected: 14
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E862EAC1-A511-4CF7-BEBB-2AC936119F61}\UninstallString
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\InstallProperties
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\F862A3AF9D90ABD46AA76BFBB89869E0\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\338E3434E58F8B84CAADE6E2BDD5D1E3\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\879C22D249AAB3D4E9720FAD51C8CA08\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\91F8D4EA0C5FAFA47B36A7AE51261A97\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\9DEDB7DD0359AED43B2EDBB7B0DA0CEF\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\B239EB9BD1B6D37458887CEE52BC8EBF\1CAE268E115A7FC4EBBBA29C6311F916
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\C75E52379D8863447ACF84BEDD665CB6\1CAE268E115A7FC4EBBBA29C6311F916
+
+Deleted items:
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E862EAC1-A511-4CF7-BEBB-2AC936119F61}\UninstallString
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\F862A3AF9D90ABD46AA76BFBB89869E0\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\338E3434E58F8B84CAADE6E2BDD5D1E3\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\879C22D249AAB3D4E9720FAD51C8CA08\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\91F8D4EA0C5FAFA47B36A7AE51261A97\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\9DEDB7DD0359AED43B2EDBB7B0DA0CEF\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\B239EB9BD1B6D37458887CEE52BC8EBF\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Components\C75E52379D8863447ACF84BEDD665CB6\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\InstallProperties
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Features
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Patches
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916\Usage
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-4123396945-1826925271-3372899735-1001\Products\1CAE268E115A7FC4EBBBA29C6311F916
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E862EAC1-A511-4CF7-BEBB-2AC936119F61}
+
+Removal summary: Deleted=14 Scheduled=0 Failed=0

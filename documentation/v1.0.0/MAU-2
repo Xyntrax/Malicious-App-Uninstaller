@@ -1,0 +1,523 @@
+This Malicious App was Installed/Dropped By Legion Loader
+
+=================== Installed App Entry ==================
+
+Civia App (HKLM\...\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}) (Version: 7.2.6 - Trix Winqz Ro)
+
+---------- Details ----------
+
+Appication Name: Civia App
+GUID Entry: HKLM\...\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+Version: 7.2.6
+Company: Trix Winqz Ro
+
+==========================================================
+
+
+======================== MAU Log =========================
+
+[18:51:28] Malicious App Uninstaller Portable
+[18:51:29] Loaded 177 installed applications.
+[18:51:48] Analyzing {01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}...
+[18:51:48] 1. UNINSTALL / ARP
+[18:51:48]   AuthorizedCDFPrefix=
+[18:51:48]   Comments=This installer database contains the logic and data required to install Civia App.
+[18:51:48]   Contact=
+[18:51:48]   DisplayName=Civia App
+[18:51:48]   DisplayVersion=7.2.6
+[18:51:48]   EstimatedSize=251976
+[18:51:48]   HelpLink=
+[18:51:48]   HelpTelephone=
+[18:51:48]   InstallDate=20241105
+[18:51:48]   InstallLocation=C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\
+[18:51:48]   InstallSource=C:\Users\Redacted\AppData\Local\Temp\344005a1-dd71-483e-9d98-c8ffa186dd94_LQDT.zip.d94\
+[18:51:48]   Language=2057
+[18:51:48]   ModifyPath=MsiExec.exe /X{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:51:48]   NoModify=1
+[18:51:48]   Publisher=Trix Winqz Ro
+[18:51:48]   Readme=
+[18:51:48]   Size=
+[18:51:48]   UninstallString=MsiExec.exe /X{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:51:48]   URLInfoAbout=
+[18:51:48]   URLUpdateInfo=
+[18:51:48]   Version=117571590
+[18:51:48]   VersionMajor=7
+[18:51:48]   VersionMinor=2
+[18:51:48]   WindowsInstaller=1
+[18:51:48] RESOLVED: DisplayName=Civia App
+[18:51:48] RESOLVED: Publisher=Trix Winqz Ro
+[18:51:48] RESOLVED: InstallLocation=C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\
+[18:51:48] RESOLVED: LocalPackage=<none>
+[18:51:48] 2. INSTALLER BRANCH
+[18:51:48]   AuthorizedCDFPrefix=
+[18:51:48]   Comments=This installer database contains the logic and data required to install Civia App.
+[18:51:48]   Contact=
+[18:51:48]   DisplayName=Civia App
+[18:51:48]   DisplayVersion=7.2.6
+[18:51:48]   EstimatedSize=251976
+[18:51:48]   HelpLink=
+[18:51:48]   HelpTelephone=
+[18:51:48]   InstallDate=20241105
+[18:51:48]   InstallLocation=C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\
+[18:51:48]   InstallSource=C:\Users\Redacted\AppData\Local\Temp\344005a1-dd71-483e-9d98-c8ffa186dd94_LQDT.zip.d94\
+[18:51:48]   Language=2057
+[18:51:48]   LocalPackage=C:\Windows\Installer\b8a339.msi
+[18:51:48]   ModifyPath=MsiExec.exe /X{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:51:48]   NoModify=1
+[18:51:48]   Publisher=Trix Winqz Ro
+[18:51:48]   Readme=
+[18:51:48]   Size=
+[18:51:48]   UninstallString=MsiExec.exe /X{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:51:48]   URLInfoAbout=
+[18:51:48]   URLUpdateInfo=
+[18:51:48]   Version=117571590
+[18:51:48]   VersionMajor=7
+[18:51:48]   VersionMinor=2
+[18:51:48]   WindowsInstaller=1
+[18:51:48]   C4FE6FD5B7C4D07B3A313E754A9A6A8=GEGa=%&a&?ya[`Gocvp+3h-Ei!Dj(@5fx1a-P2ul
+[18:51:48]   MainFeature=ryI3zVo2*@DWDNWhTq}@NDmIGc~0I9Eb(sY3w&_*78A3yb'fu@W?^$Hu@l+_97o`7jS91?!~hui~{1g9nnKXj+=kK9YGxs`.H-t[ed1vGeZd6?glA(B=C3CgJ}Ms2[oKN9l[yR^jR*zq7yYU`W[g89YU6[DKPVtUe?a`bdstO=kh(UFOX49DZ&'m@'.HY=!=3Ho!9t9esVo`'A93o8R,rED.$*U$Jd-v?PeEa?[s@s`,,`R3sM_GHe~Gn=MexGfGlf[FW.mbmFO{V?[Wu8%I.1UpPE_gXrvx5?H@,^Dfy*RMnp9sy.P3N@H6V3bs5!@I*Hf2i3d}4?hz_V'oUylv5AwEV*uv)=pfPG9*YpjI_~vC?_!1R9M0^O+.N&tJM*qf-^zR&?kzJj*v5LGoNvW`6IaY*@piPFQZ9vE[Gd&@.V`^c8E2G37n5cm!bn^XuUWI-9fBk9$6tbaH%g0*DYRC)AgT3[vQ[E+(s,}HSw}t0=*q,+0gLo*)UJf_S]LQ2Aviw@Tmj,Jd[yX+DCI'RA?{XRdo2+Hu@LrF_ciyF?g]Om(.eS@_YjEZD_Q@m8DhMl,bbeSv)'+DoN*_?@(p^t?RMZG_!BI6LqboL9QWR=ENIh'jtH[zwvU6m=?Si4[DY`JiQ)DBXV@z_=3=1Ycna!b1v)oBTM!dSA9p)'ONu,yjo2n(.n&6s=Chya?qIUEfqV&w9@&'3@fN,74'fTjC2f&jnvB(a?{A51&A)ZbMh_(ZTQO8U9Q1w7&*Mt=W8GF7t.+Z[9{QBaR@L1'fIt7~sFmn!=i,!,O$ygVDGEGa=%&a&?ya[`Gocvp+vF1sn6J.T?r*`gAu5e`NnIS{Y3wmO9HL~_5f-.7TIPvyYwkhn87xrtPDid9)@X}g8aZ?A=$L8]pLtT,6^Jq8Y,%^b9Ap-AMgJAB54-nU_Z4f19Gom8+GAv}%ax}f)}@m*9Hace3k-1*Wpp&-Rp0k$?8bcznarAzA+'^RH$MA(95E9yUWjfj)2(eaCt_@)AjdTr(O5BJGXYkYcSR@e?G726JuL%Ui`Q=fkJ[pd957cxveU5uNxyP_,y!gTAtGFx,Ta?1r.lR.-_nG%A[zDG.t3_8%qQ[zt)CIg9z.%36FZV=LD~LlE)&dK@5AYF$2iMJg
+[18:51:48]   AllPatches=
+[18:51:48] RESOLVED: DisplayName=Civia App
+[18:51:48] RESOLVED: Publisher=Trix Winqz Ro
+[18:51:48] RESOLVED: InstallLocation=C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\
+[18:51:48] RESOLVED: LocalPackage=C:\Windows\Installer\b8a339.msi
+[18:51:48] 3. UPGRADECODE MEMBERSHIP
+[18:51:48] 4. COMPONENT REGISTRATION
+[18:51:50] 5. MSI DATABASE (cached package)
+[18:51:50] <cached MSI unavailable>
+[18:51:50] LocalPackage=C:\Windows\Installer\b8a339.msi
+[18:51:50] 6. LIVE COM REGISTRATION
+[18:51:50] COM sweep: skipped
+[18:51:50] 7. APP PATHS / REGISTERED APPLICATIONS
+[18:51:50] App Paths hits: 0; RegisteredApplications hits: 0
+[18:51:50] 8. RAW REGISTRY SWEEP (productcode / packed guid)
+[18:51:50] Raw ProductCode sweep: skipped
+[18:51:50] 9. RAW REGISTRY SWEEP (displayname / publisher / binaries)
+[18:51:50] Name/publisher sweep: skipped
+[18:51:50] 10. FILES
+[18:51:50] Registry Keys
+[18:51:50]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB
+[18:51:50]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Features
+[18:51:50]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\InstallProperties
+[18:51:50]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Patches
+[18:51:50]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Usage
+[18:51:50]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:51:50] Registry Key Paths
+[18:51:50]   21 -> Software\Caphyon\Advanced Installer\Prereqs\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}\7.2.6\C4FE6FD5B7C4D07B3A313E754A9A6A8
+[18:51:50]   21 -> Software\Trix Winqz Ro\Civia App\GroupSw
+[18:51:50]   21 -> Software\Trix Winqz Ro\Civia App\LangP
+[18:51:50]   21 -> Software\Trix Winqz Ro\Civia App\scuoq
+[18:51:50]   21 -> Software\Trix Winqz Ro\Civia App\Version
+[18:51:50]   21 -> Software\Trix Winqz Ro\{2826F8C3-C677-4962-9C55-5D1ABF513E6C}\LanguageIdent
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-profile-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-rtlsupport-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-string-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-synch-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-synch-l1-2-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-sysinfo-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-timezone-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-core-util-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-conio-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-convert-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-environment-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-filesystem-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-heap-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-locale-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-math-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-multibyte-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-private-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-process-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-runtime-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-stdio-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-string-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\api-ms-win-crt-time-l1-1-0.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\avformat-60.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\avutil-58.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\bin\bash.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\bin\git.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\bin\sh.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\cmd\git-gui.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\cmd\git.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\cmd\gitk.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\cmd\scalar.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\git-bash.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\git\git-cmd.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\libEGL.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\libGLESv2.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\msvcp140.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\node.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\obs-ffmpeg-mux.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\obs.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\Required\avsfaq.rar
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\Required\jvm.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\smartgit.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\smartgit.vmoptions
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\smartgitc.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\swresample-4.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\swscale-7.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\UnRAR.exe
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\vcruntime140.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\vcruntime140_1.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\w32-pthreads.dll
+[18:51:50]   C:\Users\Redacted\AppData\Roaming\Trix Winqz Ro\Civia App\zlib.dll
+[18:51:50] Files
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\aiugc.rar
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-profile-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-rtlsupport-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-string-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-synch-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-synch-l1-2-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-sysinfo-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-timezone-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-util-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-conio-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-convert-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-environment-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-filesystem-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-heap-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-locale-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-math-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-multibyte-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-private-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-process-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-runtime-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-stdio-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-string-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-time-l1-1-0.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\avformat-60.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\avutil-58.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\bash.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\git.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\sh.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\git-gui.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\git.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\gitk.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\scalar.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\git-bash.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\git-cmd.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\libegl.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\libglesv2.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\msvcp140.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\node.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\obs-ffmpeg-mux.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\obs.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\avsfaq.rar
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\classes.jsa
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.naming.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.net.http.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.prefs.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.rmi.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.scripting.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.se.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.security.jgss.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.security.sasl.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.smartcardio.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.sql.jmod
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\jvm.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\trup_si.rar
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.launcher
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.lnk
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.vmoptions
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgitc.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\swresample-4.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\swscale-7.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\unrar.exe
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\vcruntime140.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\vcruntime140_1.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\w32-pthreads.dll
+[18:51:50]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\zlib.dll
+[18:51:50]   c:\windows\installer\b8a339.msi
+[18:51:50] Directories
+[18:51:50]   EXISTS c:\users\Redacted\appdata\roaming\trix winqz ro\civia app
+[18:51:50]   EXISTS c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git
+[18:51:50]   EXISTS c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin
+[18:51:50]   EXISTS c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd
+[18:51:50]   EXISTS c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required
+[18:51:50]   EXISTS c:\windows\installer
+[18:51:50] Analysis complete in 1,8s.
+[18:51:50] Found 140 traces.
+[18:52:58] Selected 137 traces for removal.
+[18:53:05] Removal started.
+[18:53:05] Selected traces:
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}\UninstallString
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\InstallProperties
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Usage
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Features
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Patches
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\3C8F6282776C2694C955D5A1FB15E3C6\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\008FBBA8EB3DEF24287301A00E5D2139\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-synch-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\07127436A8A2F3849AC27115146D6E1C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.vmoptions
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1312DA5FA69A2F641BA7B4F9A58E568C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-stdio-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\132B359E5491B7449809CA9715284D85\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-sysinfo-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1A91A2D4E5D12464BA4D9FAD99E2C7BB\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\git.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1D6EB0389C590A74D944DA9DC48D2C05\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\swresample-4.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1E556F853F74AB0448BA87E1E8B8D21F\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-private-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\2712BA7C8D41F284480372E0B42A012F\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\git-cmd.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\296D0B16CDD8D824A867B2B957512C71\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\327A26A4846FF9946A0B8DDA68C6B303\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\git-gui.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\36A38309C2734B448AEDD72491916196\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\3C4E0B5D0D1184940A4ECF60D6FEF8ED\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\gitk.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\3EFB0612225C0B74DB59C281F05C2FAD\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-util-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\4320B1324C9CF5040B8DDAB38C1A3820\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-convert-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\47D83DAD26EE98B4BBAA45A4E9B0C29A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-process-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\4F232344672793B43816B7239E608665\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-rtlsupport-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\52885984284E1E24197775A1540D88C6\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-timezone-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\56CD3A7951908384680301953D0A9A47\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\scalar.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\58E20722EF4DA27459695A9484060EEB\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-profile-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5AD9F469363667649B1B246BF92F88A2\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-string-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5BF9386472632B74D982D7260F9068B1\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5C41BC78887B05E4F8360D98F1442D8B\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-locale-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5DE3D7E0B010CC04D935638594AF2C40\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\sh.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5DE489FC408A7834AAF9E72F89FC5097\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\avformat-60.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\61A469CFD9BAFEA40A993A392563EBD4\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\69165165866E30E4EA69F321F7095B16\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\w32-pthreads.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\730EE675F14035F4EAD8129B0E824ADE\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-math-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\75051ABF07C321C44A33BE1B8F60E876\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\git-bash.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\80CF82D352D1C08478860F9CE5A6D934\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\libglesv2.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\814F2BC572DEAFB4EB31B3403E7EA22C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\obs-ffmpeg-mux.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\816975CE14C8F934FB02E883834F5D07\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\msvcp140.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\8969A7B99B1FBC2478428E635041A998\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\9653529A7F2F1B84A9C20121815B9E8A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-multibyte-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\9810FA074A600B24981ED0B57C92A6AC\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-runtime-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\A50730CC4FA26A24C92BEDDA7936E61A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\node.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B1381675DF6340E45A88371FA62DCDF0\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-filesystem-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B220025610B88814C8753FE8CA503151\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\swscale-7.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B7FC879F61A5B7D4CA4DF936DEF5658A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\libegl.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B810A0A35B283FA4E8EDEA08C64B6CF9\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-conio-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\BA42363B1DA39E541BEDDFE547025E75\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\bash.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\BEF1F3EE8EA48B143BD98E302ABB3A56\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-environment-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\C33BBCCA5F3391247B77EF8553247CE8\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgitc.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\C6519B46E148DF64886E6FEB8E54C3F5\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\git.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\CD64119DBC54D99448841D90395DA357\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-string-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\CEBC8399ACDD27340A4AA047CE04BD53\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\avutil-58.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\D115FF682EA3CE444A542A5296874F21\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-heap-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\D4C1238CEFE72EA4AA2AFBEAF118043D\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\D8BFFE41F6200A14D8D74E033776F729\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\obs.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\DB198804C46406544A552DEDE9D9A583\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\jvm.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\DBAF88F19253FDD42A36F53223D6AF60\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\vcruntime140_1.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\E12E84E2FECEEB2498EE976A78E2DF2E\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\avsfaq.rar
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\E929846B8EED4C948BDD37A6B9027C8C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\zlib.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\EBB41B9A5A377D14D8627A91AC55B490\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\EF33FFD132C1C6F40AE48EE15644E93E\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\vcruntime140.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F5C22E98068626F49A37E7974627C2DC\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-time-l1-1-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F5DA669D27E7D294A8504105E7AB5487\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\unrar.exe
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F74401AE1915A334B947DB482D492FDB\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-synch-l1-2-0.dll
+[18:53:05]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F7A9B6B94FBF7C046A1BB3F761C76731\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\aiugc.rar
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.launcher
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.lnk
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\classes.jsa
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.naming.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.net.http.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.prefs.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.rmi.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.scripting.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.se.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.security.jgss.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.security.sasl.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.smartcardio.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.sql.jmod
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\trup_si.rar
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin
+[18:53:05]   c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd
+[18:53:05] Deleting 137 selected actionable item(s)...
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\obs.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\node.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\zlib.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\unrar.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\aiugc.rar
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\libegl.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\msvcp140.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.lnk
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\libglesv2.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\swscale-7.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgitc.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\avutil-58.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\sh.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\git.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\git-cmd.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\avformat-60.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\git.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\swresample-4.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\gitk.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\w32-pthreads.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\git-bash.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin\bash.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\jvm.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\vcruntime140.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.launcher
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\smartgit.vmoptions
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\scalar.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\obs-ffmpeg-mux.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\vcruntime140_1.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd\git-gui.exe
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\avsfaq.rar
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\classes.jsa
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\trup_si.rar
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.se.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.rmi.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.sql.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.prefs.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.naming.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.net.http.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.scripting.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-math-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-heap-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-time-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.smartcardio.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-stdio-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-util-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-conio-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-synch-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-string-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-locale-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-synch-l1-2-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.security.jgss.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required\java.security.sasl.jmod
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-private-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-convert-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-process-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-runtime-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-string-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-sysinfo-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-profile-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-timezone-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-multibyte-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-filesystem-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-core-rtlsupport-l1-1-0.dll
+[18:53:05] Deleted file: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\api-ms-win-crt-environment-l1-1-0.dll
+[18:53:05] Deleted directory: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\required
+[18:53:05] Deleted directory: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\bin
+[18:53:05] Deleted directory: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git\cmd
+[18:53:05] Deleted directory: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app\git
+[18:53:05] Deleted directory: c:\users\Redacted\appdata\roaming\trix winqz ro\civia app
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}\UninstallString
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\3C8F6282776C2694C955D5A1FB15E3C6\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\008FBBA8EB3DEF24287301A00E5D2139\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\07127436A8A2F3849AC27115146D6E1C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1312DA5FA69A2F641BA7B4F9A58E568C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\132B359E5491B7449809CA9715284D85\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1A91A2D4E5D12464BA4D9FAD99E2C7BB\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1D6EB0389C590A74D944DA9DC48D2C05\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\1E556F853F74AB0448BA87E1E8B8D21F\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\2712BA7C8D41F284480372E0B42A012F\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\296D0B16CDD8D824A867B2B957512C71\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\327A26A4846FF9946A0B8DDA68C6B303\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\36A38309C2734B448AEDD72491916196\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\3C4E0B5D0D1184940A4ECF60D6FEF8ED\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\3EFB0612225C0B74DB59C281F05C2FAD\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\4320B1324C9CF5040B8DDAB38C1A3820\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\47D83DAD26EE98B4BBAA45A4E9B0C29A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\4F232344672793B43816B7239E608665\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\52885984284E1E24197775A1540D88C6\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\56CD3A7951908384680301953D0A9A47\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\58E20722EF4DA27459695A9484060EEB\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5AD9F469363667649B1B246BF92F88A2\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5BF9386472632B74D982D7260F9068B1\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5C41BC78887B05E4F8360D98F1442D8B\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5DE3D7E0B010CC04D935638594AF2C40\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\5DE489FC408A7834AAF9E72F89FC5097\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\61A469CFD9BAFEA40A993A392563EBD4\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\69165165866E30E4EA69F321F7095B16\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\730EE675F14035F4EAD8129B0E824ADE\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\75051ABF07C321C44A33BE1B8F60E876\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\80CF82D352D1C08478860F9CE5A6D934\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\814F2BC572DEAFB4EB31B3403E7EA22C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\816975CE14C8F934FB02E883834F5D07\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\8969A7B99B1FBC2478428E635041A998\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\9653529A7F2F1B84A9C20121815B9E8A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\9810FA074A600B24981ED0B57C92A6AC\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\A50730CC4FA26A24C92BEDDA7936E61A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B1381675DF6340E45A88371FA62DCDF0\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B220025610B88814C8753FE8CA503151\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B7FC879F61A5B7D4CA4DF936DEF5658A\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\B810A0A35B283FA4E8EDEA08C64B6CF9\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\BA42363B1DA39E541BEDDFE547025E75\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\BEF1F3EE8EA48B143BD98E302ABB3A56\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\C33BBCCA5F3391247B77EF8553247CE8\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\C6519B46E148DF64886E6FEB8E54C3F5\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\CD64119DBC54D99448841D90395DA357\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\CEBC8399ACDD27340A4AA047CE04BD53\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\D115FF682EA3CE444A542A5296874F21\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:05] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\D4C1238CEFE72EA4AA2AFBEAF118043D\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\D8BFFE41F6200A14D8D74E033776F729\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\DB198804C46406544A552DEDE9D9A583\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\DBAF88F19253FDD42A36F53223D6AF60\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\E12E84E2FECEEB2498EE976A78E2DF2E\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\E929846B8EED4C948BDD37A6B9027C8C\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\EBB41B9A5A377D14D8627A91AC55B490\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\EF33FFD132C1C6F40AE48EE15644E93E\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F5C22E98068626F49A37E7974627C2DC\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F5DA669D27E7D294A8504105E7AB5487\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F74401AE1915A334B947DB482D492FDB\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Components\F7A9B6B94FBF7C046A1BB3F761C76731\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\InstallProperties
+[18:53:06] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Features
+[18:53:06] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Patches
+[18:53:06] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB\Usage
+[18:53:06] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1213522323-606677055-1550327679-1002\Products\4D518B107FE63624A97A3B3BCAC49CEB
+[18:53:06] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{01B815D4-6EF7-4263-9AA7-B3B3AC4CC9BE}
+[18:53:06] Removal summary: Deleted=137 ScheduledForReboot=0 Failed=0
+[18:53:06] Removal finished. Deleted=137 ScheduledForReboot=0 Failed=0
+[18:53:06] Loaded 176 installed applications.
+
+==========================================================
