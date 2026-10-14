@@ -1,0 +1,296 @@
+This Malicious App was Installed/Dropped By Renpy Loader
+
+=================== Installed App Entry ==================
+
+Hardware Monitor (HKLM-x32\...\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}) (Version: 8.9 - JMicron Technology Corp.)
+
+---------- Details ----------
+
+Appication Name: Hardware Monitor
+GUID Entry: HKLM-x32\...\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+Version: 8.9
+Company: JMicron Technology Corp.
+
+==========================================================
+
+
+======================== MAU Log =========================
+
+[2026-09-06 17:03:28] MAU session started. User=Redacted Machine=Redacted PID=21884
+[2026-09-06 17:03:30] Malicious App Uninstaller Portable
+[2026-09-06 17:03:31] Loaded 203 installed applications.
+[2026-09-06 17:04:36] Analyzing {A1ED401B-E2E2-435F-B39E-6A2511F964D7}...
+[2026-09-06 17:04:36] 1. UNINSTALL / ARP
+[2026-09-06 17:04:36]   AuthorizedCDFPrefix=
+[2026-09-06 17:04:36]   Comments=Card reader management utility
+[2026-09-06 17:04:36]   Contact=support@jmicron.com
+[2026-09-06 17:04:36]   DisplayName=Hardware Monitor
+[2026-09-06 17:04:36]   DisplayVersion=8.9
+[2026-09-06 17:04:36]   EstimatedSize=13840
+[2026-09-06 17:04:36]   HelpLink=https://www.jmicron.com/support
+[2026-09-06 17:04:36]   HelpTelephone=
+[2026-09-06 17:04:36]   InstallDate=20260828
+[2026-09-06 17:04:36]   InstallLocation=
+[2026-09-06 17:04:36]   InstallSource=C:\Users\NUNYAR~1\AppData\Local\Temp\evkz7q8XKl4UJbTp\
+[2026-09-06 17:04:36]   Language=1033
+[2026-09-06 17:04:36]   ModifyPath=MsiExec.exe /X{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:04:36]   NoModify=1
+[2026-09-06 17:04:36]   NoRepair=1
+[2026-09-06 17:04:36]   Publisher=JMicron Technology Corp.
+[2026-09-06 17:04:36]   Readme=
+[2026-09-06 17:04:36]   Size=
+[2026-09-06 17:04:36]   UninstallString=MsiExec.exe /X{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:04:36]   URLInfoAbout=https://www.jmicron.com
+[2026-09-06 17:04:36]   URLUpdateInfo=
+[2026-09-06 17:04:36]   Version=134807552
+[2026-09-06 17:04:36]   VersionMajor=8
+[2026-09-06 17:04:36]   VersionMinor=9
+[2026-09-06 17:04:36]   WindowsInstaller=1
+[2026-09-06 17:04:36] RESOLVED: DisplayName=Hardware Monitor
+[2026-09-06 17:04:36] RESOLVED: Publisher=JMicron Technology Corp.
+[2026-09-06 17:04:36] RESOLVED: InstallLocation=
+[2026-09-06 17:04:36] RESOLVED: LocalPackage=<none>
+[2026-09-06 17:04:36] 2. INSTALLER BRANCH
+[2026-09-06 17:04:36]   AuthorizedCDFPrefix=
+[2026-09-06 17:04:36]   Comments=Card reader management utility
+[2026-09-06 17:04:36]   Contact=support@jmicron.com
+[2026-09-06 17:04:36]   DisplayName=Hardware Monitor
+[2026-09-06 17:04:36]   DisplayVersion=8.9
+[2026-09-06 17:04:36]   EstimatedSize=13840
+[2026-09-06 17:04:36]   HelpLink=https://www.jmicron.com/support
+[2026-09-06 17:04:36]   HelpTelephone=
+[2026-09-06 17:04:36]   InstallDate=20260828
+[2026-09-06 17:04:36]   InstallLocation=
+[2026-09-06 17:04:36]   InstallSource=C:\Users\NUNYAR~1\AppData\Local\Temp\evkz7q8XKl4UJbTp\
+[2026-09-06 17:04:36]   Language=1033
+[2026-09-06 17:04:36]   LocalPackage=C:\WINDOWS\Installer\50d9bf9c.msi
+[2026-09-06 17:04:36]   ModifyPath=MsiExec.exe /X{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:04:36]   NoModify=1
+[2026-09-06 17:04:36]   NoRepair=1
+[2026-09-06 17:04:36]   Publisher=JMicron Technology Corp.
+[2026-09-06 17:04:36]   Readme=
+[2026-09-06 17:04:36]   Size=
+[2026-09-06 17:04:36]   UninstallString=MsiExec.exe /X{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:04:36]   URLInfoAbout=https://www.jmicron.com
+[2026-09-06 17:04:36]   URLUpdateInfo=
+[2026-09-06 17:04:36]   Version=134807552
+[2026-09-06 17:04:36]   VersionMajor=8
+[2026-09-06 17:04:36]   VersionMinor=9
+[2026-09-06 17:04:36]   WindowsInstaller=1
+[2026-09-06 17:04:37]   F664FA10923CD4C8C84CCC4C38E2797B1=7b4P=WVA-@lz25ZXU~Ed{F}5O6Iw%@hgBR!g.8$mxx[JayX=J?.%LOqs%S6+=RH(K~}sPA^R-~%BjXOb%Tjeg0tDS=EIA5izc{rE=QOuQJ,)S=jVwPVf@FCyL,CRFtn4Q9tIm+?sNzAvAs7z_=?8I?rM]Tx8W)lf
+[2026-09-06 17:04:37]   AllPatches=
+[2026-09-06 17:04:37] RESOLVED: DisplayName=Hardware Monitor
+[2026-09-06 17:04:37] RESOLVED: Publisher=JMicron Technology Corp.
+[2026-09-06 17:04:37] RESOLVED: InstallLocation=
+[2026-09-06 17:04:37] RESOLVED: LocalPackage=C:\WINDOWS\Installer\50d9bf9c.msi
+[2026-09-06 17:04:37] 3. UPGRADECODE MEMBERSHIP
+[2026-09-06 17:04:37] 4. COMPONENT REGISTRATION
+[2026-09-06 17:04:38] 5. MSI DATABASE (cached package)
+[2026-09-06 17:04:38] Reading cached MSI: C:\WINDOWS\Installer\50d9bf9c.msi
+[2026-09-06 17:04:38] RESOLVED: DisplayName=Hardware Monitor
+[2026-09-06 17:04:38] RESOLVED: Publisher=JMicron Technology Corp.
+[2026-09-06 17:04:38] RESOLVED: InstallLocation=
+[2026-09-06 17:04:38] RESOLVED: LocalPackage=C:\WINDOWS\Installer\50d9bf9c.msi
+[2026-09-06 17:04:38] [Property]
+[2026-09-06 17:04:38]   P87EBE5F09 | 9be814604d49
+[2026-09-06 17:04:38]   P023C227B6 | fd287a26de9d
+[2026-09-06 17:04:38]   ARPURLINFOABOUT | https://www.jmicron.com
+[2026-09-06 17:04:38]   ARPHELPLINK | https://www.jmicron.com/support
+[2026-09-06 17:04:38]   ARPCONTACT | support@jmicron.com
+[2026-09-06 17:04:38]   ARPCOMMENTS | Card reader management utility
+[2026-09-06 17:04:38]   ARPNOREPAIR | yes
+[2026-09-06 17:04:38]   ARPNOMODIFY | 1
+[2026-09-06 17:04:38]   Manufacturer | JMicron Technology Corp.
+[2026-09-06 17:04:38]   ProductCode | {A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:04:38]   ProductLanguage | 1033
+[2026-09-06 17:04:38]   ProductName | Hardware Monitor
+[2026-09-06 17:04:38]   ProductVersion | 8.9
+[2026-09-06 17:04:38]   UpgradeCode | {0C7FCD4F-E7EB-4E29-B76F-35B92453BDD5}
+[2026-09-06 17:04:38]   SecureCustomProperties | ARPNOMODIFY;ARPNOREPAIR
+[2026-09-06 17:04:38]   MsiHiddenProperties | WixSilentExec64CmdLine
+[2026-09-06 17:04:38] [Registry]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [Class]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [ProgId]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [TypeLib]
+[2026-09-06 17:04:38]   <none>
+
+[2026-09-06 17:04:38] [Extension]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [AppId]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [Directory]
+[2026-09-06 17:04:38]   dird7faa68156b84d73a31117113b5ac1ea | dir9b5685cdb8724ef5b703fa926a2a9419 | 7qchezyh|Hardware Monitor
+[2026-09-06 17:04:38]   dir9b5685cdb8724ef5b703fa926a2a9419 | LocalAppDataFolder | JMicron
+[2026-09-06 17:04:38]   LocalAppDataFolder | TARGETDIR | .
+[2026-09-06 17:04:38]   TARGETDIR |  | SourceDir
+[2026-09-06 17:04:38] [Component]
+[2026-09-06 17:04:38]   cmp37d79bcb003f4a54bfcc089a8bbb443d | {45EC12CE-F6E0-4B0C-95DE-329C79A7ABB8} | dird7faa68156b84d73a31117113b5ac1ea | 0 | filc6d292358d364ccc9c6532eadd453219
+[2026-09-06 17:04:38]   cmpd6e10caa70ea48feaa4caeb6f79274a3 | {7A00B577-D2D7-4AC7-8185-8C014AD69ED3} | dird7faa68156b84d73a31117113b5ac1ea | 0 | fil5dbb367ae4f6421daa7efa72785aee07
+[2026-09-06 17:04:38]   cmp61d68d1420004fc3b96dab1654e70f72 | {AF815C17-0487-48D1-9CC0-76E1B9909119} | dird7faa68156b84d73a31117113b5ac1ea | 0 | fil9c54bea8e1fb4a64be9b733dd2832da5
+[2026-09-06 17:04:38]   cmp91e61546ea2e45c7980ddc9635e0850f | {6D1893FC-0EAE-4F48-8757-4D09E361CCB2} | dird7faa68156b84d73a31117113b5ac1ea | 0 | fild655d4bf22da4803b8d798d2e0bf2510
+[2026-09-06 17:04:38]   cmpe387ffc869f94ebd9c7c9ac4bbc7ebe6 | {C3219B81-8834-4609-A046-C3C77737F05C} | dird7faa68156b84d73a31117113b5ac1ea | 0 | fil2b4c8ff14c484d54a5acbce81dd041c8
+[2026-09-06 17:04:38]   cmpc47030009e2a42a794af4d5035d28c7e | {825DC917-057A-4607-BB55-9F9032D1E9F9} | dird7faa68156b84d73a31117113b5ac1ea | 0 | fil516c0eb611d14d1e8b17d0b17d3d6bd9
+[2026-09-06 17:04:38]   cmp91ff9d1c1a8545eb940f05ef424eda89 | {5EE41CC4-F13E-42D8-B36D-E247532987F0} | dird7faa68156b84d73a31117113b5ac1ea | 0 | fil44ef785bc1934616a549d20d14b14ddf
+[2026-09-06 17:04:38]   cmpcd6ae1f144d34c6bbaea104d77c7191a | {AAFD3739-64A1-48C7-810B-6FF7392F40C0} | dird7faa68156b84d73a31117113b5ac1ea | 0 | filae579d3d6e6f42448a47be296ce39cda
+[2026-09-06 17:04:38] [File]
+[2026-09-06 17:04:38]   filc6d292358d364ccc9c6532eadd453219 | cmp37d79bcb003f4a54bfcc089a8bbb443d | eor8x-1_.cmd|indexer_08d1.cmd | 1530 | 
+[2026-09-06 17:04:38]   fil5dbb367ae4f6421daa7efa72785aee07 | cmpd6e10caa70ea48feaa4caeb6f79274a3 | ghsapq84.pro|CastleCore.Build.props | 79063 | 
+[2026-09-06 17:04:38]   fil9c54bea8e1fb4a64be9b733dd2832da5 | cmp61d68d1420004fc3b96dab1654e70f72 | qcay5xm8.csp|CastleCore.csproj | 13206508 | 
+[2026-09-06 17:04:38]   fild655d4bf22da4803b8d798d2e0bf2510 | cmp91e61546ea2e45c7980ddc9635e0850f | gnv_sctm.use|CastleCore.csproj.user | 421862 | 
+[2026-09-06 17:04:38]   fil2b4c8ff14c484d54a5acbce81dd041c8 | cmpe387ffc869f94ebd9c7c9ac4bbc7ebe6 | vla56o_v.tar|CastleCore.Internal.targets | 460786 | 
+[2026-09-06 17:04:38]   fil516c0eb611d14d1e8b17d0b17d3d6bd9 | cmpc47030009e2a42a794af4d5035d28c7e | yl5ylg4b.dat|settings_1a2.dat | 134 | 
+[2026-09-06 17:04:38]   fil44ef785bc1934616a549d20d14b14ddf | cmp91ff9d1c1a8545eb940f05ef424eda89 | vvyijltm.log|telemetry_51.log | 215 | 
+[2026-09-06 17:04:38]   filae579d3d6e6f42448a47be296ce39cda | cmpcd6ae1f144d34c6bbaea104d77c7191a | b9fh_b7p.cac|telemetry_25.cache | 157 | 
+[2026-09-06 17:04:38] [ServiceInstall]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [CustomAction]
+[2026-09-06 17:04:38]   SetCA_ac71e6a0ccbb41288f525d5b54489a79 | 51 | CA_ac71e6a0ccbb41288f525d5b54489a79 | [System64Folder]cmd.exe
+[2026-09-06 17:04:38]   CA_ac71e6a0ccbb41288f525d5b54489a79 | 242 | CA_ac71e6a0ccbb41288f525d5b54489a79 | /d /s /c ""[dird7faa68156b84d73a31117113b5ac1ea]indexer_08d1.cmd""
+[2026-09-06 17:04:38] [Binary]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] [InstallExecuteSequence]
+[2026-09-06 17:04:38]   CostInitialize |  | 800
+[2026-09-06 17:04:38]   FileCost |  | 900
+[2026-09-06 17:04:38]   CostFinalize |  | 1000
+[2026-09-06 17:04:38]   InstallValidate |  | 1400
+[2026-09-06 17:04:38]   InstallInitialize |  | 1500
+[2026-09-06 17:04:38]   InstallFiles |  | 4000
+[2026-09-06 17:04:38]   InstallFinalize |  | 6600
+[2026-09-06 17:04:38]   PublishFeatures |  | 6300
+[2026-09-06 17:04:38]   PublishProduct |  | 6400
+[2026-09-06 17:04:38]   SetCA_ac71e6a0ccbb41288f525d5b54489a79 | NOT REMOVE~="ALL" | 6601
+[2026-09-06 17:04:38]   CA_ac71e6a0ccbb41288f525d5b54489a79 | NOT REMOVE~="ALL" | 6602
+[2026-09-06 17:04:38]   ValidateProductID |  | 700
+[2026-09-06 17:04:38]   ProcessComponents |  | 1600
+[2026-09-06 17:04:38]   UnpublishFeatures |  | 1800
+[2026-09-06 17:04:38]   RemoveFiles |  | 3500
+[2026-09-06 17:04:38]   RegisterUser |  | 6000
+[2026-09-06 17:04:38]   RegisterProduct |  | 6100
+[2026-09-06 17:04:38] [Shortcut]
+[2026-09-06 17:04:38]   <none>
+[2026-09-06 17:04:38] RESOLVED: DisplayName=Hardware Monitor
+[2026-09-06 17:04:38] RESOLVED: Publisher=JMicron Technology Corp.
+[2026-09-06 17:04:38] RESOLVED: InstallLocation=
+[2026-09-06 17:04:38] RESOLVED: LocalPackage=C:\WINDOWS\Installer\50d9bf9c.msi
+[2026-09-06 17:04:38] 6. LIVE COM REGISTRATION
+[2026-09-06 17:04:38] COM sweep: skipped
+[2026-09-06 17:04:38] 7. APP PATHS / REGISTERED APPLICATIONS
+[2026-09-06 17:04:39] App Paths hits: 0; RegisteredApplications hits: 0
+[2026-09-06 17:04:39] 8. RAW REGISTRY SWEEP (productcode / packed guid)
+[2026-09-06 17:04:39] Raw ProductCode sweep: skipped
+[2026-09-06 17:04:39] 9. RAW REGISTRY SWEEP (displayname / publisher / binaries)
+[2026-09-06 17:04:39] Name/publisher sweep: skipped
+[2026-09-06 17:04:39] 10. FILES
+[2026-09-06 17:04:39] Registry Keys
+[2026-09-06 17:04:39]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:04:39]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Features
+[2026-09-06 17:04:39]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\InstallProperties
+[2026-09-06 17:04:39]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Patches
+[2026-09-06 17:04:39]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Usage
+[2026-09-06 17:04:39]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:04:39] Registry Key Paths
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\CastleCore.Build.props
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\CastleCore.csproj
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\CastleCore.csproj.user
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\CastleCore.Internal.targets
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\indexer_08d1.cmd
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\settings_1a2.dat
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\telemetry_25.cache
+[2026-09-06 17:04:39]   C:\Users\Redacted\AppData\Local\JMicron\Hardware Monitor\telemetry_51.log
+[2026-09-06 17:04:39] Files
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\castlecore.build.props
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\castlecore.csproj
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\castlecore.csproj.user
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\castlecore.internal.targets
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\indexer_08d1.cmd
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\settings_1a2.dat
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\telemetry_25.cache
+[2026-09-06 17:04:39]   c:\users\Redacted\appdata\local\jmicron\hardware monitor\telemetry_51.log
+[2026-09-06 17:04:39]   c:\windows\installer\50d9bf9c.msi
+[2026-09-06 17:04:39] Directories
+[2026-09-06 17:04:39]   MISSING c:\users\Redacted\appdata\local\jmicron\hardware monitor
+[2026-09-06 17:04:39]   EXISTS c:\windows\installer
+[2026-09-06 17:04:39] Analysis complete in 2.4s.
+[2026-09-06 17:04:39] Found 62 traces.
+[2026-09-06 17:04:57] Selected 17 traces for removal.
+[2026-09-06 17:05:04] Removal started.
+
+[2026-09-06 17:05:04] Selected traces:
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}\UninstallString
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\InstallProperties
+[2026-09-06 17:05:04]   c:\windows\installer\50d9bf9c.msi
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Usage
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Features
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Patches
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\F4DCF7C0BE7E92E47BF6539B4235DB5D\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\18B9123C438890640A643C7C77730FC5\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\4CC14EE5E31F8D243BD62E743592780F\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\719CD528A7507064BB55F909231D9E9F\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\71C518FA78401D84C90C671E9B091991\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\775B00A77D2D7CA41858C810A46DE93D\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\9373DFAA1A467C8418B0F67F93F2040C\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\CF3981D6EAE084F47875D4903E16CC2B\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04]   HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\EC21CE540E6FC0B459ED23C9977ABA8B\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleting 17 selected actionable item(s)...
+[2026-09-06 17:05:04] Deleted file: c:\windows\installer\50d9bf9c.msi
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}\UninstallString
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\F4DCF7C0BE7E92E47BF6539B4235DB5D\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\18B9123C438890640A643C7C77730FC5\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\4CC14EE5E31F8D243BD62E743592780F\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\719CD528A7507064BB55F909231D9E9F\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\71C518FA78401D84C90C671E9B091991\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\775B00A77D2D7CA41858C810A46DE93D\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\9373DFAA1A467C8418B0F67F93F2040C\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\CF3981D6EAE084F47875D4903E16CC2B\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry value: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Components\EC21CE540E6FC0B459ED23C9977ABA8B\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\InstallProperties
+[2026-09-06 17:05:04] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Features
+[2026-09-06 17:05:04] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Patches
+[2026-09-06 17:05:04] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D\Usage
+[2026-09-06 17:05:04] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3486757915-1966980713-1532412051-1001\Products\B104DE1A2E2EF5343BE9A652119F467D
+[2026-09-06 17:05:04] Deleted registry key tree: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{A1ED401B-E2E2-435F-B39E-6A2511F964D7}
+[2026-09-06 17:05:04] Removal summary: Deleted=17 ScheduledForReboot=0 Failed=0
+[2026-09-06 17:05:04] Removal finished. Deleted=17 ScheduledForReboot=0 Failed=0
+[2026-09-06 17:05:04] Loaded 202 installed applications.
+[2026-09-06 17:06:11] Analyzing {A1ED401B-E2E2-435F-B39E-6A2511F964D7}...
+[2026-09-06 17:06:11] 1. UNINSTALL / ARP
+[2026-09-06 17:06:11] RESOLVED: DisplayName=<none>
+[2026-09-06 17:06:11] RESOLVED: Publisher=<none>
+[2026-09-06 17:06:11] RESOLVED: InstallLocation=<none>
+[2026-09-06 17:06:11] RESOLVED: LocalPackage=<none>
+[2026-09-06 17:06:11] 2. INSTALLER BRANCH
+[2026-09-06 17:06:11] RESOLVED: DisplayName=<none>
+[2026-09-06 17:06:11] RESOLVED: Publisher=<none>
+[2026-09-06 17:06:11] RESOLVED: InstallLocation=<none>
+[2026-09-06 17:06:11] RESOLVED: LocalPackage=<none>
+[2026-09-06 17:06:11] 3. UPGRADECODE MEMBERSHIP
+[2026-09-06 17:06:11] 4. COMPONENT REGISTRATION
+[2026-09-06 17:06:12] 5. MSI DATABASE (cached package)
+[2026-09-06 17:06:12] <cached MSI unavailable>
+[2026-09-06 17:06:12] 6. LIVE COM REGISTRATION
+[2026-09-06 17:06:12] COM sweep: skipped
+[2026-09-06 17:06:12] 7. APP PATHS / REGISTERED APPLICATIONS
+[2026-09-06 17:06:12] App Paths hits: 0; RegisteredApplications hits: 0
+[2026-09-06 17:06:12] 8. RAW REGISTRY SWEEP (productcode / packed guid)
+[2026-09-06 17:06:12] Raw ProductCode sweep: skipped
+[2026-09-06 17:06:12] 9. RAW REGISTRY SWEEP (displayname / publisher / binaries)
+[2026-09-06 17:06:12] Name/publisher sweep: skipped
+[2026-09-06 17:06:12] 10. FILES
+[2026-09-06 17:06:12] Registry Keys
+[2026-09-06 17:06:12]   <none>
+[2026-09-06 17:06:12] Registry Key Paths
+[2026-09-06 17:06:12]   <none>
+[2026-09-06 17:06:12] Files
+[2026-09-06 17:06:12]   <none>
+[2026-09-06 17:06:12] Directories
+[2026-09-06 17:06:12]   <none>
+[2026-09-06 17:06:12] Analysis complete in 0.7s.
+[2026-09-06 17:06:12] Found 0 traces.
+[2026-09-06 17:06:35] Session ended.
+
+==========================================================
