@@ -30,3 +30,10 @@ MAU is intended to be used alongside FRST:
 6. Delete the selected traces.
 7. Restart Windows if MAU schedules files for removal at restart.
 8. Generate new FRST logs for a final post-removal check.
+
+## New Features and Compatibility
+
+- Compatibility with [KpRm](https://github.com/KernelPan1k/KpRm)
+- **ZIP MSI Quarantine** can be enabled in the `Advanced Analysis` tab when needed to retrieve a sample 
+- Calculate **SHA-256 hashes**
+- **Sigcheck** *integration for the cached MSI*
