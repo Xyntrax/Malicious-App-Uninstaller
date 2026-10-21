@@ -1,0 +1,378 @@
+======================== MAU Log ========================
+
+Analyzing {7BDC9BB7-026B-4205-9DB3-9A70E24D3257}...
+----------------------------------------------------------------------------------------------
+                                       UNINSTALL / ARP
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=Audio driver configuration utility
+  Contact=support@realtek.com
+  DisplayName=HD Audio Manager
+  DisplayVersion=9.7
+  EstimatedSize=21768
+  HelpLink=https://www.realtek.com/en/support
+  HelpTelephone=
+  InstallDate=20261018
+  InstallLocation=
+  InstallSource=C:\Users\Redacted\AppData\Local\Temp\g1tcyiKM91zS0EMK\
+  Language=1033
+  ModifyPath=MsiExec.exe /X{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+  NoModify=1
+  NoRepair=1
+  Publisher=Realtek Semiconductor Corp.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+  URLInfoAbout=https://www.realtek.com
+  URLUpdateInfo=
+  Version=151453696
+  VersionMajor=9
+  VersionMinor=7
+  WindowsInstaller=1
+RESOLVED: DisplayName=HD Audio Manager
+RESOLVED: Publisher=Realtek Semiconductor Corp.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=<none>
+----------------------------------------------------------------------------------------------
+                                       INSTALLER BRANCH
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=Audio driver configuration utility
+  Contact=support@realtek.com
+  DisplayName=HD Audio Manager
+  DisplayVersion=9.7
+  EstimatedSize=21768
+  HelpLink=https://www.realtek.com/en/support
+  HelpTelephone=
+  InstallDate=20261018
+  InstallLocation=
+  InstallSource=C:\Users\Redacted\AppData\Local\Temp\g1tcyiKM91zS0EMK\
+  Language=1033
+  LocalPackage=C:\WINDOWS\Installer\d1133c6.msi
+  ModifyPath=MsiExec.exe /X{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+  NoModify=1
+  NoRepair=1
+  Publisher=Realtek Semiconductor Corp.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+  URLInfoAbout=https://www.realtek.com
+  URLUpdateInfo=
+  Version=151453696
+  VersionMajor=9
+  VersionMinor=7
+  WindowsInstaller=1
+  FA0330F4D40B44D1E95DFB1750DB438F4=&aazxnOc8=PZ{d1a{aIm0SMFC8bMl?2,9f+WJ3ZCES{!+XJXx?7?e&8`XS]@0eC)(%R&q=QgrMr*?L_G}Xd0nl[Qd9nZi2@mVm)Ep'&L.-9ly=UCw}fIBTg1ctvvl&&}M=NBtsaf=}9tz$A1[vQ]Z8XxLb(RSXU82'V~5NGm*=P9Ax*=`pj1oT5Jib&xF?OxRR]7E%I^lil]ycE8SAnpp5i=4B+g?kUM-s=5h@+N+'G$&*!y6$&?*JDv}9z6'(S{$T{58J$$XaSOm9Mx=v)F3(~+X])c.n'8aAr0DKV(&5UqVF+l8j^$V@QJ@+lGh$.rp.=DYEry.9_`6H6Nk47G%iQf`Zt%X932j9-?bSD1A_ERNFTl0=FemKR[@A]nMTxL,(!3Y@E-Hg53kH~3_A$D!5Tx]?klI67@JN)R)zslr*t+.@!*,,z-5y5[UvO+XQKV1=%kmIR8-{Uw
+  AllPatches=
+RESOLVED: DisplayName=HD Audio Manager
+RESOLVED: Publisher=Realtek Semiconductor Corp.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\d1133c6.msi
+----------------------------------------------------------------------------------------------
+                                    UPGRADECODE MEMBERSHIP
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                    COMPONENT REGISTRATION
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                         MSI DATABASE
+----------------------------------------------------------------------------------------------
+
+Cached MSI:
+  Path: C:\WINDOWS\Installer\d1133c6.msi
+  SHA256: 375574A703988170F0F3C2F51D3C6398BDFF3FD625201B004F78025CA370006F
+  Network: No active network connection detected
+  VirusTotal Report: https://www.virustotal.com/gui/file/
+  Sigcheck: Skipped
+Reading cached MSI: C:\WINDOWS\Installer\d1133c6.msi
+RESOLVED: DisplayName=HD Audio Manager
+RESOLVED: Publisher=Realtek Semiconductor Corp.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\d1133c6.msi
+[Property]
+  PADC513E3B | c3e9e4d4764c
+  P8E991B93D | 5af589cc8c40
+  ARPURLINFOABOUT | https://www.realtek.com
+  ARPHELPLINK | https://www.realtek.com/en/support
+
+  ARPCONTACT | support@realtek.com
+  ARPCOMMENTS | Audio driver configuration utility
+  ARPNOREPAIR | yes
+  ARPNOMODIFY | 1
+  Manufacturer | Realtek Semiconductor Corp.
+  ProductCode | {7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+  ProductLanguage | 1033
+  ProductName | HD Audio Manager
+  ProductVersion | 9.7
+  UpgradeCode | {0AB48EB6-79F9-4FAC-AA93-CFDF495598B5}
+  SecureCustomProperties | ARPNOMODIFY;ARPNOREPAIR
+  MsiHiddenProperties | WixSilentExec64CmdLine
+[Registry]
+  <none>
+[Class]
+  <none>
+[ProgId]
+  <none>
+[TypeLib]
+  <none>
+[Extension]
+  <none>
+[AppId]
+  <none>
+[Directory]
+  dir71065164901d43b698c3b70dc6bc9f5a | dira415426951b842818169a24fd0f9f812 | xzhv2yqv|HD Audio Manager
+  dira415426951b842818169a24fd0f9f812 | LocalAppDataFolder | Realtek
+  LocalAppDataFolder | TARGETDIR | .
+  TARGETDIR |  | SourceDir
+[Component]
+  cmpb35664746f814b81b8db1b0495aceaf8 | {F8CA3AAF-43DC-4535-A0B8-A42A7BC3CED4} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil96b10524d3834c11902707bedd8b9de3
+  cmp46eb22944b8c4ff089e090e4a30a0880 | {551F4101-EB2C-4A07-B917-221BC53BD855} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil3ec67b46d15b49e8afd3071ab07d314d
+  cmp8ca622e190744a1ca276cddf8a8622c7 | {18ED3E2E-8D34-4A79-AD1F-5D3E7686984C} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil39bec0b73e7341a4bfbe933329ac7c5f
+  cmp68dabd4b414c4525935ef58560a582c3 | {0FC9DEFE-7C7D-4716-BAAF-84E41B177262} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | filbbb637dae8eb4b3e930543836bd80c0d
+  cmp8259e586059547c78701d4ae906db059 | {D726C837-5977-4384-ADC0-364B49D07A5A} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil1e40ba0e844847c797033d8a9a6bb216
+  cmpedbdfa3197da49dcaaf9a511f866cdaa | {238B6335-7B34-4768-8607-DEC0F29CBC2A} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil6a164ec3f12444179be6b6f6287eb0ed
+  cmp85f596f798f949d78fdbda3a6306d59c | {D350DDE2-46F4-45D7-B5C4-FAB052D728EA} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | filad525964bd984844bdf3e9917d2cbd6f
+  cmpfcebc441446948c4a17d7d5ed10fbf36 | {9F2B0383-B19C-4014-A9CC-A8119E66E53F} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil92cfcb2466f5415ab3f3827e2e66b56e
+  cmp04c2ee3ad6cd42c68801d5a2972e1400 | {37FD0925-8946-44BC-ACB4-AE1852BDDB2A} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil024feaf61f144b3cad0a3f17f61d0d4e
+  cmp3f0067d815cc43cbb498a72f5fc11bb2 | {C861B665-C27C-48B1-9242-59A358F71CA6} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil280f30c2144a43e292ce058d9c1222b7
+  cmp60d6fdb09e5d4c1b80128e8049c52c5b | {FAD837E2-2567-4F5E-A465-C8C776FD35C1} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil92da5321112c429cbf33db77a69a7f71
+  cmp5cda7bc091eb4f6b8f4d316960e6cb81 | {207CF331-B44C-4CFC-917B-9A60DF3DEAF8} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | file91f809b0e204163b7cee6465f3e75cd
+  cmp61afe5d471a2469784d43d2d42043c40 | {169F7D34-2FEF-4469-8B9B-F9851E12EA37} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil7f620949953f48bcb166263ca9d103fe
+  cmp7b5719a93ac648dba842d6be388e7b37 | {956267B4-74A7-43D8-B530-7F1582DDF71B} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil6ed97ae94b894feb947eefdbfcd5cdce
+  cmpdd6ffcc8228e4cf8bfa61a18e4f39884 | {2459F017-EF2E-4FD7-B6EC-6A903EE2ACE1} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil20efd8f3ea534f228fbd6ae95b57ed09
+  cmpe7e44b70867d420e9ea8d66fb3e382b6 | {40AF21C7-AD41-4C5B-8662-C4D0EB1B89E3} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil6d5fe3b0a49f4886a57194997584a98d
+  cmp2611dc781c60464495311afdc8191596 | {997E38A1-E0DE-41C6-8D40-2F39A6F62761} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil2a03a0c7d5954924be4c23a7266e63dc
+  cmp56ef00d2caeb486aaaa05b39a8a9ece0 | {AD60BAE3-0080-4319-8927-E91F80EF7D29} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | filb0ccf5d7563448c3a14979c4772638ed
+  cmpd1f0ca51e69d40daba6d3f26951e1d68 | {77C889A4-4BF7-44EB-9F52-FD8395D599D8} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil8cc4746d5de740e49a59fc102e241e92
+  cmpf1f4aaeb71184739b0ae3ec1b46bafe7 | {1D5AC7E5-4351-4C79-B657-2D373C89C231} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fila5092626608f46a0acf345337224ca5a
+  cmp70a4153d783445f1bb9ce62fdb10d3ef | {010686A8-F84F-497F-A73F-CA3B703AEA82} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil42a0866ac9264fa99e8d368282b398d3
+  cmp69b5515885ba460cbf81a03130652d94 | {E59DF1E5-7F7D-4B14-AA52-5BFC7F94569F} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil525c63b4c218426fa1db01e3f544d565
+  cmp20cfe60ce1d14385be706bfde77f9ce6 | {95A83F05-5745-44F2-A796-EA833F2B5FF4} | dir71065164901d43b698c3b70dc6bc9f5a | 0 | fil168de4e02f5c401f9e70986fde155498
+[File]
+  fil96b10524d3834c11902707bedd8b9de3 | cmpb35664746f814b81b8db1b0495aceaf8 | build.cmd | 530 | 
+  fil3ec67b46d15b49e8afd3071ab07d314d | cmp46eb22944b8c4ff089e090e4a30a0880 | ryehtq15.git|.gitattributes | 52 | 
+  fil39bec0b73e7341a4bfbe933329ac7c5f | cmp8ca622e190744a1ca276cddf8a8622c7 | b_q1rms7.git|.gitignore | 66 | 
+  filbbb637dae8eb4b3e930543836bd80c0d | cmp68dabd4b414c4525935ef58560a582c3 | 7zehawhd.git|.gitkeep | 0 | 
+  fil1e40ba0e844847c797033d8a9a6bb216 | cmp8259e586059547c78701d4ae906db059 | dn-k8ffy.con|app.config | 635 | 
+  fil6a164ec3f12444179be6b6f6287eb0ed | cmpedbdfa3197da49dcaaf9a511f866cdaa | cwd0kjaq.cs|AssemblyInfo.cs | 455 | 
+  filad525964bd984844bdf3e9917d2cbd6f | cmp85f596f798f949d78fdbda3a6306d59c | nrxnnubz.md|CHANGELOG.md | 751 | 
+  fil92cfcb2466f5415ab3f3827e2e66b56e | cmpfcebc441446948c4a17d7d5ed10fbf36 | xh1934eo|CONTRIBUTORS | 47 | 
+  fil024feaf61f144b3cad0a3f17f61d0d4e | cmp04c2ee3ad6cd42c68801d5a2972e1400 | acpn_frs.pro|Defaults.props | 3497 | 
+  fil280f30c2144a43e292ce058d9c1222b7 | cmp3f0067d815cc43cbb498a72f5fc11bb2 | cpmy38ny.pro|Directory.Build.props | 274 | 
+  fil92da5321112c429cbf33db77a69a7f71 | cmp60d6fdb09e5d4c1b80128e8049c52c5b | filelist | 348 | 
+  file91f809b0e204163b7cee6465f3e75cd | cmp5cda7bc091eb4f6b8f4d316960e6cb81 | ppks5w4p.jso|global.json | 86 | 
+  fil7f620949953f48bcb166263ca9d103fe | cmp61afe5d471a2469784d43d2d42043c40 | LICENSE | 1096 | 
+  fil6ed97ae94b894feb947eefdbfcd5cdce | cmp7b5719a93ac648dba842d6be388e7b37 | MSBuild.exe | 255904 | 4.8.9032.0
+  fil20efd8f3ea534f228fbd6ae95b57ed09 | cmpdd6ffcc8228e4cf8bfa61a18e4f39884 | rmedsemx.csp|OrderProcessor.csproj | 3853 | 
+  fil6d5fe3b0a49f4886a57194997584a98d | cmpe7e44b70867d420e9ea8d66fb3e382b6 | gdrddv0w.use|OrderProcessor.csproj.user | 4973 | 
+  fil2a03a0c7d5954924be4c23a7266e63dc | cmp2611dc781c60464495311afdc8191596 | ce-l7d-g.tar|OrderProcessor.Internal.targets | 3871 | 
+  filb0ccf5d7563448c3a14979c4772638ed | cmp56ef00d2caeb486aaaa05b39a8a9ece0 | 31c8-yuc.lnk|OrderProcessor.lnk | 974 | 
+  fil8cc4746d5de740e49a59fc102e241e92 | cmpd1f0ca51e69d40daba6d3f26951e1d68 | cgavb7a-.sln|OrderProcessor.sln | 997 | 
+  fila5092626608f46a0acf345337224ca5a | cmpf1f4aaeb71184739b0ae3ec1b46bafe7 | 6faokyii.con|packages.config | 208 | 
+  fil42a0866ac9264fa99e8d368282b398d3 | cmp70a4153d783445f1bb9ce62fdb10d3ef | README.md | 625 | 
+  fil525c63b4c218426fa1db01e3f544d565 | cmp69b5515885ba460cbf81a03130652d94 | 8cvavfm4.res|Resources.resx | 21973032 | 
+  fil168de4e02f5c401f9e70986fde155498 | cmp20cfe60ce1d14385be706bfde77f9ce6 | u7oix0-x.cac|settings_cbc.cache | 190 | 
+[ServiceInstall]
+  <none>
+[CustomAction]
+  SetCA_fac7d11f5be4423398d70b03863a21dc | 51 | CA_fac7d11f5be4423398d70b03863a21dc | [System64Folder]cmd.exe
+  CA_fac7d11f5be4423398d70b03863a21dc | 242 | CA_fac7d11f5be4423398d70b03863a21dc | /d /s /c "start "" "[dir71065164901d43b698c3b70dc6bc9f5a]OrderProcessor.lnk""
+[Binary]
+  <none>
+[InstallExecuteSequence]
+  CostInitialize |  | 800
+  FileCost |  | 900
+  CostFinalize |  | 1000
+  InstallValidate |  | 1400
+  InstallInitialize |  | 1500
+  InstallFiles |  | 4000
+  InstallFinalize |  | 6600
+  PublishFeatures |  | 6300
+  PublishProduct |  | 6400
+  SetCA_fac7d11f5be4423398d70b03863a21dc | NOT REMOVE~="ALL" | 6601
+  CA_fac7d11f5be4423398d70b03863a21dc | NOT REMOVE~="ALL" | 6602
+  ValidateProductID |  | 700
+  ProcessComponents |  | 1600
+  UnpublishFeatures |  | 1800
+  RemoveFiles |  | 3500
+
+  RegisterUser |  | 6000
+  RegisterProduct |  | 6100
+[Shortcut]
+  <none>
+RESOLVED: DisplayName=HD Audio Manager
+RESOLVED: Publisher=Realtek Semiconductor Corp.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\WINDOWS\Installer\d1133c6.msi
+----------------------------------------------------------------------------------------------
+                                    LIVE COM REGISTRATION
+----------------------------------------------------------------------------------------------
+
+COM sweep: skipped
+----------------------------------------------------------------------------------------------
+                             APP PATHS / REGISTERED APPLICATIONS
+----------------------------------------------------------------------------------------------
+
+App Paths hits: 0; RegisteredApplications hits: 0
+----------------------------------------------------------------------------------------------
+                                RAW REGISTRY SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Raw ProductCode sweep: skipped
+----------------------------------------------------------------------------------------------
+                              NAME / PUBLISHER SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Name/publisher sweep: skipped
+----------------------------------------------------------------------------------------------
+                                        REGISTRY KEYS
+----------------------------------------------------------------------------------------------
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\InstallProperties
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+----------------------------------------------------------------------------------------------
+                                      REGISTRY KEY PATHS
+----------------------------------------------------------------------------------------------
+
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\.gitattributes
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\.gitignore
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\.gitkeep
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\app.config
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\AssemblyInfo.cs
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\build.cmd
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\CHANGELOG.md
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\CONTRIBUTORS
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\Defaults.props
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\Directory.Build.props
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\filelist
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\global.json
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\LICENSE
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\MSBuild.exe
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\OrderProcessor.csproj
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\OrderProcessor.csproj.user
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\OrderProcessor.Internal.targets
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\OrderProcessor.lnk
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\OrderProcessor.sln
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\packages.config
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\README.md
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\Resources.resx
+  C:\Users\Redacted\AppData\Local\Realtek\HD Audio Manager\settings_cbc.cache
+----------------------------------------------------------------------------------------------
+                                            FILES
+----------------------------------------------------------------------------------------------
+
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\.gitattributes
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\.gitignore
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\.gitkeep
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\app.config
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\assemblyinfo.cs
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\build.cmd
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\changelog.md
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\contributors
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\defaults.props
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\directory.build.props
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\filelist
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\global.json
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\license
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\msbuild.exe
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\orderprocessor.csproj
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\orderprocessor.csproj.user
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\orderprocessor.internal.targets
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\orderprocessor.lnk
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\orderprocessor.sln
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\packages.config
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\readme.md
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\resources.resx
+  c:\users\Redacted\appdata\local\realtek\hd audio manager\settings_cbc.cache
+----------------------------------------------------------------------------------------------
+                                         DIRECTORIES
+----------------------------------------------------------------------------------------------
+
+  MISSING c:\users\Redacted\appdata\local\realtek\hd audio manager
+  EXISTS c:\windows\installer
+Analysis complete in 0.5s.
+Found 122 traces.
+
+
+----------------------------------------------------------------------------------------------
+                                           REMOVAL
+----------------------------------------------------------------------------------------------
+
+Selected: 32
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}\UninstallString
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\InstallProperties
+  c:\windows\installer\d1133c6.msi
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\6BE84BA09F97CAF4AA39FCFD9455895B\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\1014F155C2BE70A49B7122B15CB38D55\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\133FC702C44BCFC419B7A906FDD3AE8F\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\1A83E799ED0E6C14D804F2936A6F7216\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\2E738DAF7652E5F44A568C7C67DF531C\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\2EDD053D4F647D545B4CAF0B257D82AE\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\3830B2F9C91B41049ACC8A11E9665EF3\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\3EAB06DA0800913498729EF108FED792\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\43D7F961FEF29644B8B99F58E121AE73\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\4A988C777FB4BE44F925DF38595D998D\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\4B7626597A478D345B03F75128DD7FB1\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\50F38A5954752F447A69AE38F3B2F54F\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5290DF736498CB44CA4BEA8125DBBDA2\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5336B83243B786746870ED0C2FC9CBA2\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\566B168CC72C1B842924953A857FC16A\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5E1FD95ED7F741B4AA25B5CFF74965F9\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5E7CA5D1153497C46B75D273C3982C13\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\710F9542E2FE7DF46BCEA609E32ECA1E\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\738C627D77954834DA0C63B4940DA7A5\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\7C12FA0414DAB5C468264C0DBEB1983E\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\8A686010F48FF7947AF3ACB307A3AE28\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\E2E3DE8143D897A4DAF1D5E3676889C4\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\EFED9CF0D7C76174ABFA484EB1712726\7BB9CDB7B6205024D93BA9072ED42375
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\FAA3AC8FCD3453540A8B4AA2B73CEC4D\7BB9CDB7B6205024D93BA9072ED42375
+
+Deleted items:
+  [File] c:\windows\installer\d1133c6.msi
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}\UninstallString
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\6BE84BA09F97CAF4AA39FCFD9455895B\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\1014F155C2BE70A49B7122B15CB38D55\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\133FC702C44BCFC419B7A906FDD3AE8F\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\1A83E799ED0E6C14D804F2936A6F7216\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\2E738DAF7652E5F44A568C7C67DF531C\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\2EDD053D4F647D545B4CAF0B257D82AE\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\3830B2F9C91B41049ACC8A11E9665EF3\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\3EAB06DA0800913498729EF108FED792\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\43D7F961FEF29644B8B99F58E121AE73\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\4A988C777FB4BE44F925DF38595D998D\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\4B7626597A478D345B03F75128DD7FB1\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\50F38A5954752F447A69AE38F3B2F54F\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5290DF736498CB44CA4BEA8125DBBDA2\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5336B83243B786746870ED0C2FC9CBA2\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\566B168CC72C1B842924953A857FC16A\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5E1FD95ED7F741B4AA25B5CFF74965F9\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\5E7CA5D1153497C46B75D273C3982C13\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\710F9542E2FE7DF46BCEA609E32ECA1E\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\738C627D77954834DA0C63B4940DA7A5\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\7C12FA0414DAB5C468264C0DBEB1983E\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\8A686010F48FF7947AF3ACB307A3AE28\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\E2E3DE8143D897A4DAF1D5E3676889C4\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\EFED9CF0D7C76174ABFA484EB1712726\7BB9CDB7B6205024D93BA9072ED42375
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Components\FAA3AC8FCD3453540A8B4AA2B73CEC4D\7BB9CDB7B6205024D93BA9072ED42375
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\InstallProperties
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Features
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Patches
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375\Usage
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-3957631598-2488499565-1266284657-1001\Products\7BB9CDB7B6205024D93BA9072ED42375
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BDC9BB7-026B-4205-9DB3-9A70E24D3257}
+
+Removal summary: Deleted=32 Scheduled=0 Failed=0
