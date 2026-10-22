@@ -1,0 +1,431 @@
+======================== MAU Log ========================
+
+Analyzing {6A59175F-21C3-4E1A-9945-8F7459BF70E8}...
+----------------------------------------------------------------------------------------------
+                                       UNINSTALL / ARP
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=Storage controller service
+  Contact=support@marvell.com
+  DisplayName=Storage Controller Service
+  DisplayVersion=4.1
+  EstimatedSize=55556
+  HelpLink=https://www.marvell.com/support.html
+  HelpTelephone=
+  InstallDate=20261021
+  InstallLocation=
+  InstallSource=C:\Users\Redacted\Desktop\
+  Language=1033
+  ModifyPath=MsiExec.exe /X{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+  NoModify=1
+  NoRepair=1
+  Publisher=Marvell Technology Group Ltd.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+  URLInfoAbout=https://www.marvell.com
+  URLUpdateInfo=
+  Version=67174400
+  VersionMajor=4
+  VersionMinor=1
+  WindowsInstaller=1
+RESOLVED: DisplayName=Storage Controller Service
+RESOLVED: Publisher=Marvell Technology Group Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=<none>
+----------------------------------------------------------------------------------------------
+                                       INSTALLER BRANCH
+----------------------------------------------------------------------------------------------
+
+  AuthorizedCDFPrefix=
+  Comments=Storage controller service
+  Contact=support@marvell.com
+  DisplayName=Storage Controller Service
+  DisplayVersion=4.1
+  EstimatedSize=55556
+  HelpLink=https://www.marvell.com/support.html
+  HelpTelephone=
+  InstallDate=20261021
+  InstallLocation=
+  InstallSource=C:\Users\Redacted\Desktop\
+  Language=1033
+  LocalPackage=C:\Windows\Installer\58b012.msi
+  ModifyPath=MsiExec.exe /X{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+  NoModify=1
+  NoRepair=1
+  Publisher=Marvell Technology Group Ltd.
+  Readme=
+  Size=
+  UninstallString=MsiExec.exe /X{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+  URLInfoAbout=https://www.marvell.com
+  URLUpdateInfo=
+  Version=67174400
+  VersionMajor=4
+  VersionMinor=1
+  WindowsInstaller=1
+  FE3E9DF9B4BD94E9E973CE0D6319C4001=FMcg!rtYn?-EFE_Jcb2BSVz)kb@Ud@s'D=W]Cn0$g3&)2,G{S@7sF@RiB}x_}KTSX^?=^?Fi{F03mJGl~mX[bh~N%?&D02S4QxMQk`BNofkk3=0EVaBq}^m[(gM1O9.pM?N%K2s=E6pyu8z@psY0*AsZvm@bhGM0EYqrj6',.=x9l0b.p(+]^YxrW`4WD@}0h4@}B{h2HUtYypcxZ9wcuBRyW*BT?PFOA=mHe@s]mg6B4@^k%w3UB0ns*=@(VDC{.)NiF_=$M,eNp@PLVTJ8xr'F1X6tE`}X[8k'4+zI5dZu%6%+Ffw53?qZ1?hWuWx7)fQ&ck$aw@&Jo{wSm0rZJmfKz`1N-=1kGTj!hMC0P~*,AikG]AwX$@`!lgn]{0CA@VSEA?kMD!dj,(T9
+  AllPatches=
+RESOLVED: DisplayName=Storage Controller Service
+RESOLVED: Publisher=Marvell Technology Group Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\Windows\Installer\58b012.msi
+----------------------------------------------------------------------------------------------
+                                    UPGRADECODE MEMBERSHIP
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                    COMPONENT REGISTRATION
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+                                         MSI DATABASE
+----------------------------------------------------------------------------------------------
+
+Cached MSI:
+  Path: C:\Windows\Installer\58b012.msi
+  SHA256: F0214A86EABD2080EB62A74064EFF262A6235B6228DB41FEF3D99D55CFC422A7
+  Network: Active network connection detected
+  VirusTotal Report: https://www.virustotal.com/gui/file/F0214A86EABD2080EB62A74064EFF262A6235B6228DB41FEF3D99D55CFC422A7
+  Sigcheck: Completed
+Reading cached MSI: C:\Windows\Installer\58b012.msi
+RESOLVED: DisplayName=Storage Controller Service
+RESOLVED: Publisher=Marvell Technology Group Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\Windows\Installer\58b012.msi
+[Property]
+  P1C789777D | 08375036627a
+  PAFBCA30F4 | f79198d5f203
+  PFA0C1CFF7 | 3f576bb818a4
+  ARPURLINFOABOUT | https://www.marvell.com
+
+  ARPHELPLINK | https://www.marvell.com/support.html
+  ARPCONTACT | support@marvell.com
+  ARPCOMMENTS | Storage controller service
+  ARPNOREPAIR | yes
+  ARPNOMODIFY | 1
+  Manufacturer | Marvell Technology Group Ltd.
+  ProductCode | {6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+  ProductLanguage | 1033
+  ProductName | Storage Controller Service
+  ProductVersion | 4.1
+  UpgradeCode | {419603F1-BB5E-4DD2-8A86-1E8A8DBEE0DA}
+  SecureCustomProperties | ARPNOMODIFY;ARPNOREPAIR
+  MsiHiddenProperties | WixSilentExec64CmdLine
+[Registry]
+  <none>
+[Class]
+  <none>
+[ProgId]
+  <none>
+[TypeLib]
+  <none>
+[Extension]
+  <none>
+[AppId]
+  <none>
+[Directory]
+  dir8fe297492bf944848f98cb29a06eb153 | dir31a2565e37fe4ee99d185d4de25123b9 | vsx0eqtz|Storage Controller Service
+  dir31a2565e37fe4ee99d185d4de25123b9 | LocalAppDataFolder | Marvell
+  LocalAppDataFolder | TARGETDIR | .
+  TARGETDIR |  | SourceDir
+[Component]
+  cmp34640a9d726b45aa8cd9fe994c948363 | {024B6EB7-01E1-4A1C-8816-17A905076F51} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fildf7e13d6d3ef4f158a7c6a0b05a8320b
+  cmp0c434f36dec5428a95266422885cb895 | {CD9B6CAA-4F6D-4CDA-B79C-0D93559C9403} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil482db37a15d84894b744e83ba403ba9a
+  cmp558fa6cc71844e5bb51f13b52d2cd7ed | {2BC7D520-76FD-4C48-9512-9283D677F1AA} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil27ea65a4e9dd436fb7f20907c180db85
+  cmpc5b6d0a9665e4126a79417db883de89f | {96F0B8BD-07B6-4983-B277-78263B0F9DD1} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filee4392091dbf4083a78877d6aa78a27a
+  cmp6c339f93720c4b4bac17634cf855f2f5 | {B33CD638-F65A-47A6-ACD6-4E86DEBBF480} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil7b5b3fccb6e3475480b8b564bf1fed2e
+  cmp7d4fd179e2234323b2d9a411e4f01703 | {DB334FE3-53F2-4507-BD59-F752DB9931A1} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil3a803360934b4d3dbdb7ebef93f41c65
+  cmpacb20710b6a44b94be8e7e8d4f3cddde | {79D631D8-7BB3-48F2-BB68-C5E6C4D084FB} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil3a1cb7f92b11404598253262a53d8126
+  cmpd366ab2e7bbd4ab4875469659879aeb1 | {DDD2A848-F0FF-4E0B-9535-324D9870B426} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil4bc50a79c8014102a6504788d8a0cc48
+  cmpea530c04e77348939631668b5b1ff611 | {CCF1C2F0-7ACC-44DB-B868-D1B1179016A2} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil5d83794ec155459f87f3d2211bca4311
+  cmp9130d40db8274953b70b9b42359b013b | {94F13425-0682-4BB8-BE55-494B38B1E62D} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil627677d4d211436bad1538875f11473f
+  cmp55a05f8d1b824b738057c6ff241707f7 | {FABCF671-35EF-4334-98DD-A983F847DB89} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil0b69cfc4c19f45d2b0dd4f19477acf98
+  cmp6771b5fc360c4bd8a03470225756fdaa | {4F39C771-4DEE-4CE2-8AE2-4D3A75874DCF} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil15607b74e9034926b2f93cda34bfa835
+  cmp22ca7b96a89043f1995f2808c75308e5 | {528CEAE2-3F20-44BD-9674-0D55BDF085C8} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil5a7d11b5e7df4c0f8b38b94503ae2912
+  cmp48250533f59a4ea899ffd1b28c0eb160 | {732B0B74-08BE-4D4A-980E-6B6B022F855D} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filbe217b1584964f0d9f0d23167deafe71
+  cmpac4d8af0ec4048e985d16d636be8b215 | {5CFBE37B-AD81-401D-8FB8-52FCBF7552EE} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filfc2528e5f2224b75bc4caf47b6711dbf
+  cmp84ccdc0b3fb442b5b0228b5e8182e080 | {5DA2C294-75B6-481E-A1AE-DDC4286C073E} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filc9e9ba7d36ef4683aa538887fe21409d
+  cmp3c3f0c87aecf4bf2877a7a408c8caef0 | {B496C649-89DD-4D8D-BB98-B8F592653F9E} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filb55c02f3dba4493eaa323905ee6fafa4
+  cmp112de017a474466b9949ef0954817f46 | {FD54C6B3-5176-44D5-8B82-DDCB73645726} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filcf3f963c15674a18b4484cdd13389f66
+  cmpd64f70decc8a47859bb5e93fc6d289f0 | {4E1E2D39-BE7E-4FB3-B694-01ACE27558A4} | dir8fe297492bf944848f98cb29a06eb153 | 0 | filf0867f5a7d9e47f19a066b6b6b8892c9
+  cmp1b1979d07e1441bf858474650c5cd000 | {4B99B40E-71F6-487D-92B7-95B79CC3F342} | dir8fe297492bf944848f98cb29a06eb153 | 0 | fil9845fdd99cda41b08acc6ce174476831
+[File]
+  fildf7e13d6d3ef4f158a7c6a0b05a8320b | cmp34640a9d726b45aa8cd9fe994c948363 | 8opwpcio.cmd|analytics_5b57.cmd | 1743 | 
+  fil482db37a15d84894b744e83ba403ba9a | cmp0c434f36dec5428a95266422885cb895 | z6kiabv_.git|.gitattributes | 52 | 
+  fil27ea65a4e9dd436fb7f20907c180db85 | cmp558fa6cc71844e5bb51f13b52d2cd7ed | x5kqweu9.git|.gitignore | 66 | 
+  filee4392091dbf4083a78877d6aa78a27a | cmpc5b6d0a9665e4126a79417db883de89f | xsg-bnau.con|app.config | 329 | 
+  fil7b5b3fccb6e3475480b8b564bf1fed2e | cmp6c339f93720c4b4bac17634cf855f2f5 | 92p42eqy.md|CHANGELOG.md | 561 | 
+  fil3a803360934b4d3dbdb7ebef93f41c65 | cmp7d4fd179e2234323b2d9a411e4f01703 | k1bmkhcx|CONTRIBUTORS | 57 | 
+  fil3a1cb7f92b11404598253262a53d8126 | cmpacb20710b6a44b94be8e7e8d4f3cddde | bj37hap6.pro|Directory.Build.props | 37573 | 
+  fil4bc50a79c8014102a6504788d8a0cc48 | cmpd366ab2e7bbd4ab4875469659879aeb1 | 5uhambvt.tar|Directory.Build.targets | 16748 | 
+  fil5d83794ec155459f87f3d2211bca4311 | cmpea530c04e77348939631668b5b1ff611 | 2g1mic3l.csp|FulfillmentRouter.csproj | 56538618 | 
+  fil627677d4d211436bad1538875f11473f | cmp9130d40db8274953b70b9b42359b013b | idkf0uxi.use|FulfillmentRouter.csproj.user | 48925 | 
+  fil0b69cfc4c19f45d2b0dd4f19477acf98 | cmp55a05f8d1b824b738057c6ff241707f7 | ojm6lzq3.pro|FulfillmentRouter.Internal.props | 113000 | 
+  fil15607b74e9034926b2f93cda34bfa835 | cmp6771b5fc360c4bd8a03470225756fdaa | zdle3yd-.sln|FulfillmentRouter.sln | 1003 | 
+  fil5a7d11b5e7df4c0f8b38b94503ae2912 | cmp22ca7b96a89043f1995f2808c75308e5 | kveqedyy.tar|Internal.targets | 92603 | 
+  filbe217b1584964f0d9f0d23167deafe71 | cmp48250533f59a4ea899ffd1b28c0eb160 | LICENSE | 1009 | 
+  filfc2528e5f2224b75bc4caf47b6711dbf | cmpac4d8af0ec4048e985d16d636be8b215 | tbmx3xrq.con|NuGet.config | 212 | 
+  filc9e9ba7d36ef4683aa538887fe21409d | cmp84ccdc0b3fb442b5b0228b5e8182e080 | frx4-o16.con|packages.config | 210 | 
+  filb55c02f3dba4493eaa323905ee6fafa4 | cmp3c3f0c87aecf4bf2877a7a408c8caef0 | README.md | 591 | 
+  filcf3f963c15674a18b4484cdd13389f66 | cmp112de017a474466b9949ef0954817f46 | ayaoacpn.tmp|config_37b44.tmp | 108 | 
+  filf0867f5a7d9e47f19a066b6b6b8892c9 | cmpd64f70decc8a47859bb5e93fc6d289f0 | vceyp8wd.dat|runtime_42b6.dat | 72 | 
+  fil9845fdd99cda41b08acc6ce174476831 | cmp1b1979d07e1441bf858474650c5cd000 | lku_cf2s.tmp|runtime_d864.tmp | 152 | 
+[ServiceInstall]
+  <none>
+[CustomAction]
+  SetCA_397d0e6b21ec4e03984d5d2bb55e9ff6 | 51 | CA_397d0e6b21ec4e03984d5d2bb55e9ff6 | [System64Folder]cmd.exe
+  CA_397d0e6b21ec4e03984d5d2bb55e9ff6 | 242 | CA_397d0e6b21ec4e03984d5d2bb55e9ff6 | /d /s /c ""[dir8fe297492bf944848f98cb29a06eb153]analytics_5b57.cmd""
+[Binary]
+  <none>
+[InstallExecuteSequence]
+  CostInitialize |  | 800
+  FileCost |  | 900
+  CostFinalize |  | 1000
+  InstallValidate |  | 1400
+  InstallInitialize |  | 1500
+  InstallFiles |  | 4000
+  InstallFinalize |  | 6600
+  PublishFeatures |  | 6300
+  PublishProduct |  | 6400
+  SetCA_397d0e6b21ec4e03984d5d2bb55e9ff6 | NOT REMOVE~="ALL" | 6601
+  CA_397d0e6b21ec4e03984d5d2bb55e9ff6 | NOT REMOVE~="ALL" | 6602
+  ValidateProductID |  | 700
+  ProcessComponents |  | 1600
+  UnpublishFeatures |  | 1800
+  RemoveFiles |  | 3500
+  RegisterUser |  | 6000
+  RegisterProduct |  | 6100
+[Shortcut]
+  <none>
+RESOLVED: DisplayName=Storage Controller Service
+
+RESOLVED: Publisher=Marvell Technology Group Ltd.
+RESOLVED: InstallLocation=
+RESOLVED: LocalPackage=C:\Windows\Installer\58b012.msi
+----------------------------------------------------------------------------------------------
+                                    LIVE COM REGISTRATION
+----------------------------------------------------------------------------------------------
+
+COM sweep: skipped
+----------------------------------------------------------------------------------------------
+                             APP PATHS / REGISTERED APPLICATIONS
+----------------------------------------------------------------------------------------------
+
+App Paths hits: 0; RegisteredApplications hits: 0
+----------------------------------------------------------------------------------------------
+                                RAW REGISTRY SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Raw ProductCode sweep: skipped
+----------------------------------------------------------------------------------------------
+                              NAME / PUBLISHER SWEEP (OPTIONAL)
+----------------------------------------------------------------------------------------------
+
+Name/publisher sweep: skipped
+----------------------------------------------------------------------------------------------
+                                        REGISTRY KEYS
+----------------------------------------------------------------------------------------------
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\InstallProperties
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+----------------------------------------------------------------------------------------------
+                                      REGISTRY KEY PATHS
+----------------------------------------------------------------------------------------------
+
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\.gitattributes
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\.gitignore
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\analytics_5b57.cmd
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\app.config
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\CHANGELOG.md
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\config_37b44.tmp
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\CONTRIBUTORS
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\Directory.Build.props
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\Directory.Build.targets
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\FulfillmentRouter.csproj
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\FulfillmentRouter.csproj.user
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\FulfillmentRouter.Internal.props
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\FulfillmentRouter.sln
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\Internal.targets
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\LICENSE
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\NuGet.config
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\packages.config
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\README.md
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\runtime_42b6.dat
+  C:\Users\Redacted\AppData\Local\Marvell\Storage Controller Service\runtime_d864.tmp
+----------------------------------------------------------------------------------------------
+                                            FILES
+----------------------------------------------------------------------------------------------
+
+  c:\users\Redacted\appdata\local\marvell\storage controller service\.gitattributes
+  SHA256: C0E4F20C88314E4C0EA6F41E977747E07E21A2322E15C81725628B53A14CE77A
+  c:\users\Redacted\appdata\local\marvell\storage controller service\.gitignore
+  SHA256: DA94DF32F9751D635AAAF89C41868815AF3D7DF3B03E2BE9D471DB6BE3E271CD
+  c:\users\Redacted\appdata\local\marvell\storage controller service\analytics_5b57.cmd
+  SHA256: 3C81B730222FD2D61746F9CF5DA3DBFC74DAAE55624D32EBCF8F7EC7121B4023
+  c:\users\Redacted\appdata\local\marvell\storage controller service\app.config
+  SHA256: 7B3CC5C949AB39DF55D19774A16882BDF67C04B252A1CF2E54A324C5D6DFBE00
+  c:\users\Redacted\appdata\local\marvell\storage controller service\changelog.md
+  SHA256: 810DCD1F87EFB3A6E94FDAB9F52B1F333F876A7538A38E4EF259B7F4BFD4EC3C
+  c:\users\Redacted\appdata\local\marvell\storage controller service\config_37b44.tmp
+  SHA256: 99A0B0BF32CB724479F96F8E3E8054166C90D52B28D3FC46D5F1274700440352
+  c:\users\Redacted\appdata\local\marvell\storage controller service\contributors
+  SHA256: D07CF2228CA85959A7D9ADFD9AF508FC74B592DAFDC41B9B329CB6CD81EDFC27
+  c:\users\Redacted\appdata\local\marvell\storage controller service\directory.build.props
+  SHA256: 281CD4044034355CF095EE20559BBFC8CF8163FB95C9A4E4583E7B186874B878
+  c:\users\Redacted\appdata\local\marvell\storage controller service\directory.build.targets
+  SHA256: 54F102C13BBBCE367D3DDFD1C00A94B008A81F8D852305238EFAB1DEDF53E69C
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.csproj
+  SHA256: 5E8824AC70EB269BC4006270F0D8881D158519650FF430E80530BA4FBB56D02B
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.csproj.user
+  SHA256: 6EB0BE0AAF5394146C3060FE7D200B9D1BA56386783AF2B52DFFC47F473A2B91
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.internal.props
+  SHA256: 4E7A3FA39329627BEC1D02BB23D92AECFBF38C1AD88E7B277D65141BE1694DB8
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.sln
+  SHA256: CC5E5C765F9086A07BCD31ED8DD275A106C33ACBA1FE1739539930148192FD15
+  c:\users\Redacted\appdata\local\marvell\storage controller service\internal.targets
+  SHA256: D7CBF9788E439A3D69E35886CEC3B5C5EC456E638EE99EF5FE8549F3D47B866F
+  c:\users\Redacted\appdata\local\marvell\storage controller service\license
+  SHA256: F829E7A8B8299D0A9D9A1111E7B771195B81D8F87492E38BE63C1185415E4CBE
+  c:\users\Redacted\appdata\local\marvell\storage controller service\nuget.config
+  SHA256: 7CF9C98CDFE6575F757CE573DFD192C685471F399874C5183AC5FB28A2D453BF
+  c:\users\Redacted\appdata\local\marvell\storage controller service\packages.config
+  SHA256: BC03E33C4738B177FF9773FF70EBD12EC87BAA6022214E1B92FF829A57F7FD57
+  c:\users\Redacted\appdata\local\marvell\storage controller service\readme.md
+  SHA256: 26059D9A549FF7B4C04A3643C97C8C9FE73848DA76CD7FBDD38016DD7DE96173
+  c:\users\Redacted\appdata\local\marvell\storage controller service\runtime_42b6.dat
+  SHA256: E736A3703430AFC0A5ADFDB6360F35FC603E108C2CE8D75A6ADAF95033E8C4A2
+  c:\users\Redacted\appdata\local\marvell\storage controller service\runtime_d864.tmp
+
+  SHA256: 4CD97108A934889D8E7E690CDFFD53550E8041F23AA7CBB90AB91F28B860E6C7
+----------------------------------------------------------------------------------------------
+                                         DIRECTORIES
+----------------------------------------------------------------------------------------------
+
+  EXISTS c:\users\Redacted\appdata\local\marvell\storage controller service
+  EXISTS c:\windows\installer
+Analysis complete in 2.6s.
+Found 70 traces.
+
+----------------------------------------------------------------------------------------------
+                                           REMOVAL
+----------------------------------------------------------------------------------------------
+
+Selected: 49
+
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A59175F-21C3-4E1A-9945-8F7459BF70E8}\UninstallString
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\InstallProperties
+  c:\windows\installer\58b012.msi
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Usage
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Features
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Patches
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\1F306914E5BB2DD4A868E1A8D8EB0EAD\F57195A63C12A1E49954F84795FB078E
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\025D7CB2DF6784C4592129386D771FAA\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\.gitignore
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0F2C1FCCCCA7BD448B861D1B7109612A\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.csproj
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\176FCBAFFE53433489DD9A388F74BD98\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.internal.props
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\177C93F4EED42EC4A82ED4A35778D4FC\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.sln
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2EAEC82502F3DB446947D055DB0F588C\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\internal.targets
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3B6C45DF67155D44B828DDBC37467562\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\config_37b44.tmp
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3EF433BD2F357054DB957F25BD99131A\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\contributors
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\47B0B237EB80A4D489E0B6B620F258D5\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\license
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\492C2AD56B57E1841AEADD4C82C670E3\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\packages.config
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\52431F4928608BB4EB5594B4831B6ED2\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.csproj.user
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\7BE6B4201E10C1A48861719A5070F615\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\analytics_5b57.cmd
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\836DC33BA56F6A74CA6DE468EDBB4F08\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\changelog.md
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\848A2DDDFF0FB0E4595323D489074B62\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\directory.build.targets
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\8D136D973BB72F84BB865C6E4C0D48BF\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\directory.build.props
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\93D2E1E4E7EB3BF46B4910CA2E57854A\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\runtime_42b6.dat
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\946C694BDD98D8D4BB898B5F2956F3E9\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\readme.md
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AAC6B9DCD6F4ADC47BC9D03955C94930\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\.gitattributes
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\B73EBFC518DAD104F88B25CFFB5725EE\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\nuget.config
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\DB8B0F696B7038942B778762B3F0D91D\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\app.config
+  HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\E04B99B46F17D784297B597BC93C3F24\F57195A63C12A1E49954F84795FB078E
+  c:\users\Redacted\appdata\local\marvell\storage controller service\runtime_d864.tmp
+
+Deleted items:
+  [File] c:\windows\installer\58b012.msi
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\license
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\readme.md
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\.gitignore
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\app.config
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\contributors
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\changelog.md
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\nuget.config
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\.gitattributes
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\packages.config
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\internal.targets
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\config_37b44.tmp
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\runtime_42b6.dat
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\runtime_d864.tmp
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\analytics_5b57.cmd
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.sln
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\directory.build.props
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\directory.build.targets
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.csproj
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.csproj.user
+  [File] c:\users\Redacted\appdata\local\marvell\storage controller service\fulfillmentrouter.internal.props
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A59175F-21C3-4E1A-9945-8F7459BF70E8}\UninstallString
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\1F306914E5BB2DD4A868E1A8D8EB0EAD\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\025D7CB2DF6784C4592129386D771FAA\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\0F2C1FCCCCA7BD448B861D1B7109612A\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\176FCBAFFE53433489DD9A388F74BD98\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\177C93F4EED42EC4A82ED4A35778D4FC\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\2EAEC82502F3DB446947D055DB0F588C\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3B6C45DF67155D44B828DDBC37467562\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\3EF433BD2F357054DB957F25BD99131A\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\47B0B237EB80A4D489E0B6B620F258D5\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\492C2AD56B57E1841AEADD4C82C670E3\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\52431F4928608BB4EB5594B4831B6ED2\F57195A63C12A1E49954F84795FB078E
+
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\7BE6B4201E10C1A48861719A5070F615\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\836DC33BA56F6A74CA6DE468EDBB4F08\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\848A2DDDFF0FB0E4595323D489074B62\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\8D136D973BB72F84BB865C6E4C0D48BF\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\93D2E1E4E7EB3BF46B4910CA2E57854A\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\946C694BDD98D8D4BB898B5F2956F3E9\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\AAC6B9DCD6F4ADC47BC9D03955C94930\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\B73EBFC518DAD104F88B25CFFB5725EE\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\DB8B0F696B7038942B778762B3F0D91D\F57195A63C12A1E49954F84795FB078E
+  [RegValue] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Components\E04B99B46F17D784297B597BC93C3F24\F57195A63C12A1E49954F84795FB078E
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\InstallProperties
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Features
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Patches
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E\Usage
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-21-1633198216-3867796787-3087809761-1001\Products\F57195A63C12A1E49954F84795FB078E
+  [RegKey] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6A59175F-21C3-4E1A-9945-8F7459BF70E8}
+
+Final directory cleanup:
+  Deleted directories:
+  [Directory] c:\users\Redacted\appdata\local\marvell\Storage Controller Service
+  [Directory] c:\users\Redacted\appdata\local\marvell
+
+MSI ZIP:
+  Status: Completed
+  Location: C:\Users\Redacted\Desktop\F0214A86EABD2080EB62A74064EFF262A6235B6228DB41FEF3D99D55CFC422A7.zip
+
+Removal summary: Deleted=51 Scheduled=0 Failed=0
